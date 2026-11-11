@@ -1,0 +1,4653 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JetLancer\n"
+"PO-Revision-Date: 2026-10-26 00:00+0000\n"
+"Language: ko\n"
+
+#. max_bytes: 18
+msgctxt "ui#17877417"
+msgid "to start engine."
+msgstr "엔진 기동"
+
+#. max_bytes: 6
+msgctxt "ui#17877436"
+msgid "AIM"
+msgstr "조준"
+
+#. max_bytes: 12
+msgctxt "ui#17877443"
+msgid "THRUST"
+msgstr "추진"
+
+#. max_bytes: 21
+msgctxt "ui#17877456"
+msgid "GO  TO  WAYPOINT"
+msgstr "목표점 이동"
+
+#. max_bytes: 27
+msgctxt "ui#17877478"
+msgid "GO  TO  NEXT  WAYPOINT"
+msgstr "다음 목표점 이동"
+
+#. max_bytes: 21
+msgctxt "ui#17877506"
+msgid "AFTERBURN"
+msgstr "애프터번"
+
+#. max_bytes: 30
+msgctxt "ui#17877528"
+msgid "GO  TO  LAST  WAYPOINT"
+msgstr "최종 목표점 이동"
+
+#. max_bytes: 18
+msgctxt "ui#17877559"
+msgid "DODGE ROLL"
+msgstr "회피 기동"
+
+#. max_bytes: 12
+msgctxt "ui#17877578"
+msgid "SHOOT"
+msgstr "사격"
+
+#. max_bytes: 12
+msgctxt "ui#17877591"
+msgid "ROCKETS"
+msgstr "로켓"
+
+#. max_bytes: 30
+msgctxt "ui#17877604"
+msgid "(HOLD)  ROCKET SWARM"
+msgstr "(HOLD)로켓 일제 사격"
+
+#. max_bytes: 21
+msgctxt "ui#17877635"
+msgid "DESTROY  ENEMIES"
+msgstr "적기 제거"
+
+#. max_bytes: 39
+msgctxt "ui#17877657"
+msgid "ACTIVATE ALL TARGETS"
+msgstr "전 표적 기동"
+
+#. max_bytes: 18
+msgctxt "ui#17877697"
+msgid "ROLL TO EVADE"
+msgstr "회피 기동"
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17877716"
+msgid "SYNC TYPE"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877732"
+msgid "VSYNC"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877745"
+msgid "SLEEP"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877758"
+msgid "INVERT CONTROLS"
+msgstr ""
+
+#. max_bytes: 7no-translate
+msgctxt "ui#17877771"
+msgid "GAMEPAD"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17877779"
+msgid "BANK TYPE"
+msgstr "회전 방식"
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877798"
+msgid "TOGGLE"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877811"
+msgid "BANK LEFT"
+msgstr "좌회전"
+
+#. max_bytes: 12
+msgctxt "ui#17877824"
+msgid "BANK RIGHT"
+msgstr "우회전"
+
+#. max_bytes: 9no-translate
+msgctxt "ui#17877837"
+msgid "MINIGUN"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877847"
+msgid "SPECIAL WEAPON"
+msgstr ""
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17877860"
+msgid "RESET TO DEFAULT"
+msgstr ""
+
+#. max_bytes: 24no-translate
+msgctxt "ui#17877876"
+msgid "CONTROLLER SETTINGS"
+msgstr ""
+
+#. max_bytes: 6no-translate
+msgctxt "ui#17877901"
+msgid "VIBRATION"
+msgstr ""
+
+#. max_bytes: 18no-translate
+msgctxt "ui#17877908"
+msgid "DEAD ZONE"
+msgstr ""
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17877927"
+msgid "INVERT Y"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17877943"
+msgid "VIDEO SETTINGS"
+msgstr ""
+
+#. max_bytes: 21no-translate
+msgctxt "ui#17877956"
+msgid "FULLSCREEN"
+msgstr ""
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17877978"
+msgid "EFFECTS"
+msgstr ""
+
+#. max_bytes: 20no-translate
+msgctxt "ui#17877994"
+msgid "HD SCALING"
+msgstr ""
+
+#. max_bytes: 6no-translate
+msgctxt "ui#17878015"
+msgid "NONE"
+msgstr ""
+
+#. max_bytes: 36
+msgctxt "ui#17878022"
+msgid "THRUST + AFTERBURN"
+msgstr "추진 + 애프터번"
+
+#. max_bytes: 30no-translate
+msgctxt "ui#17878059"
+msgid "BACK WITHOUT CHANGES?"
+msgstr ""
+
+#. max_bytes: 8no-translate
+msgctxt "ui#17878090"
+msgid "ALWAYS ON"
+msgstr ""
+
+#. max_bytes: 3
+msgctxt "ui#17878099"
+msgid "-RMB-"
+msgstr "RMB"
+
+#. max_bytes: 3
+msgctxt "ui#17878103"
+msgid "-LMB-"
+msgstr "LMB"
+
+#. max_bytes: 22
+msgctxt "ui#17878714"
+msgid "Pilot K.I.A."
+msgstr "파일럿 전사"
+
+#. max_bytes: 33
+msgctxt "ui#17878737"
+msgid "Enemy forces overwhelmed the area."
+msgstr "영역이 적군에 제압됨"
+
+#. max_bytes: 27
+msgctxt "ui#17878771"
+msgid "Friendly ship destroyed."
+msgstr "아군기가 파괴됨"
+
+#. max_bytes: 33
+msgctxt "ui#17878799"
+msgid "Area bombed."
+msgstr "영역이 폭격 피해를 입음"
+
+#. max_bytes: 33
+msgctxt "ui#17878833"
+msgid "Sky Pirates jet destroyed."
+msgstr "하늘 해적기 파괴됨"
+
+#. max_bytes: 31
+msgctxt "ui#17878867"
+msgid "Score target not reached."
+msgstr "목표 점수 미달성"
+
+#. max_bytes: 9
+msgctxt "ui#17878899"
+msgid "NEW GAME +"
+msgstr "NEW GAME+"
+
+#. max_bytes: 16
+msgctxt "ui#17878909"
+msgid "CHANGE SAVE"
+msgstr "CHANGE SAVE SLOT"
+
+#. max_bytes: 64
+msgctxt "ui#17878926"
+msgid "Sure?#Save will be deleted"
+msgstr "데이터가 사라집니다.#계속할까요?"
+
+#. max_bytes: 30
+msgctxt "ui#17878991"
+msgid "New contract available"
+msgstr "새 계약 가능"
+
+#. max_bytes: 36
+msgctxt "ui#17879022"
+msgid "HOVERDRIVE UNLOCKED"
+msgstr "호버드라이브 해제"
+
+#. max_bytes: 10
+msgctxt "ui#17879059"
+msgid "COMPLETION:"
+msgstr "클리어:"
+
+#. max_bytes: 6no-translate
+msgctxt "ui#17879070"
+msgid "OP 21:"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17885947"
+msgid "Brace yourself."
+msgstr "방심하지 마라."
+
+#. max_bytes: 30
+msgctxt "ui#17894103"
+msgid "Briefing needed"
+msgstr "브리핑 필요"
+
+#. max_bytes: 36
+msgctxt "ui#17894134"
+msgid "Clear area"
+msgstr "작전 구역 내 적 제거"
+
+#. max_bytes: 24
+msgctxt "ui#17894171"
+msgid "Defeat megaweapon"
+msgstr "초병기 파괴"
+
+#. max_bytes: 27
+msgctxt "ui#17894196"
+msgid "Keep low enemy presence"
+msgstr "적 전력 억제"
+
+#. max_bytes: 27
+msgctxt "ui#17894224"
+msgid "Stop enemy bombers"
+msgstr "적 폭격 저지"
+
+#. max_bytes: 30
+msgctxt "ui#17894252"
+msgid "Reach target score"
+msgstr "목표 점수 달성"
+
+#. max_bytes: 27
+msgctxt "ui#17894283"
+msgid "Score more kills"
+msgstr "킬 수 추가 확보"
+
+#. max_bytes: 15
+msgctxt "ui#17894311"
+msgid "Defeat boss"
+msgstr "보스 격파"
+
+#. max_bytes: 31
+msgctxt "ui#17894327"
+msgid "Hack 2 radio towers"
+msgstr "통신탑 2곳 해킹"
+
+#. max_bytes: 29
+msgctxt "ui#17894359"
+msgid "Repel Steve's goons"
+msgstr "스티브 부하 격퇴"
+
+#. max_bytes: 24
+msgctxt "ui#17894389"
+msgid "Assist RAF squadron"
+msgstr "RAF 부대 지원"
+
+#. max_bytes: 30
+msgctxt "ui#17894414"
+msgid "Escort ship"
+msgstr "아군기 호위"
+
+#. max_bytes: 18
+msgctxt "ui#17894445"
+msgid "Destroy enemies"
+msgstr "적 파괴"
+
+#. max_bytes: 31
+msgctxt "ui#17894464"
+msgid "Hack 3 radio towers"
+msgstr "통신탑 3곳 해킹"
+
+#. max_bytes: 18
+msgctxt "ui#17894496"
+msgid "Protect friendly aircraft"
+msgstr "아군기 보호"
+
+#. max_bytes: 21
+msgctxt "ui#17894515"
+msgid "Destroy enemy ships"
+msgstr "적기 파괴"
+
+#. max_bytes: 42
+msgctxt "ui#17894537"
+msgid "Survive until hack complete"
+msgstr "해킹 완료까지 생존"
+
+#. max_bytes: 52
+msgctxt "ui#17894580"
+msgid "Destroy 3 gun platforms"
+msgstr "포대 3기 파괴"
+
+#. max_bytes: 21
+msgctxt "ui#17894633"
+msgid "Stop nuke"
+msgstr "핵 저지"
+
+#. max_bytes: 45
+msgctxt "ui#17894655"
+msgid "Destroy gun platform"
+msgstr "포대 파괴"
+
+#. max_bytes: 93
+msgctxt "ui#17894701"
+msgid "Fire-and-forget homing missiles."
+msgstr "자동 추적 호밍 미사일이야. 조준은 다른 데 맡기면 돼."
+
+#. max_bytes: 135
+msgctxt "ui#17894795"
+msgid "Classic unguided missile."
+msgstr "추진제와 TNT가 가득 찬 미사일로, 터질 때까지 쭉 직진해. 정석 무기야."
+
+#. max_bytes: 141
+msgctxt "ui#17894931"
+msgid "Proximity charge."
+msgstr "적외선 센서가 달린 폭발성 탄두야. 가장 효과적으로 피해를 줄 때만 터져."
+
+#. max_bytes: 180
+msgctxt "ui#17895073"
+msgid "Armor-piercing rocket."
+msgstr "적 장갑을 뚫는 로켓이야. 유도 기능은 없어. 발사 후 맞힌 적 수에 비례해서 크리티컬이 잘 안 터지게 돼."
+
+#. max_bytes: 120
+msgctxt "ui#17895254"
+msgid "Railgun - instant hit."
+msgstr "발사 후 착탄까지의 밀리초가 싫다면 이 레일건. 발사하자마자 바로 맞아!"
+
+#. max_bytes: 168
+msgctxt "ui#17895375"
+msgid "Guided missile swarm."
+msgstr "저위력 유도 미사일을 일제 발사해서 적기 집단으로 날아가. 벌들과 달리 폭발력이 있어."
+
+#. max_bytes: 141
+msgctxt "ui#17895544"
+msgid "Ultrabeam - straight beam."
+msgstr "'메가빔'은 정의의 무기가 아니니까. 앞에 있는 적을 향해 곧게 나가는 빔이야."
+
+#. max_bytes: 141
+msgctxt "ui#17895686"
+msgid "Dumb bomb - hold to speed up."
+msgstr "기체에서 꺼내는 대형 폭탄이야. Super 버튼을 길게 누르면 나가는 폭탄도 빨라져."
+
+#. max_bytes: 112
+msgctxt "ui#17895828"
+msgid "Autonomous drones."
+msgstr "뒤를 지켜주는 기계 친구야. 한 번에 3기 발사해서 주변을 방어해 줘."
+
+#. max_bytes: 168
+msgctxt "ui#17895941"
+msgid "Reactive armor - exploding drones."
+msgstr "기체 주변을 맴도는 드론으로 접촉 시 폭발하고 적기처럼 기총도 쏴. 평범한 아머로는 못 돌아간다고."
+
+#. max_bytes: 27
+msgctxt "ui#17896110"
+msgid "No modules equipped"
+msgstr "장착 모듈 없음"
+
+#. max_bytes: 147
+msgctxt "ui#17896138"
+msgid "Afterburner mod - longer boost."
+msgstr "기체를 멋지게 꾸며주는 모드야. 콕핏이 사우나가 되지 않을 정도로 애프터번을 오래 쓸 수 있어."
+
+#. max_bytes: 135
+msgctxt "ui#17896286"
+msgid "Shield on hit."
+msgstr "피탄 시 작동하는 실드야. 뭐, 계속 실드 켜두고 싶다고? 내가 마법사로 보여?"
+
+#. max_bytes: 22no-translate
+msgctxt "ui#17896422"
+msgid "::Special weapon mod::"
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17896445"
+msgid "Charge weapon mod."
+msgstr "특수 무기용 동력을 강화해. 이걸로 무기 연사율이 올라가."
+
+#. max_bytes: 27no-translate
+msgctxt "ui#17896545"
+msgid "::Advanced decryption mod::"
+msgstr ""
+
+#. max_bytes: 111
+msgctxt "ui#17896850"
+msgid "Precise shooting module."
+msgstr "비유도 무기의 폭발 범위를 넓혀 줘. 편하게 적기 맞히자고."
+
+#. max_bytes: 156
+msgctxt "ui#17896962"
+msgid "Dash module."
+msgstr "회피 기능을 전방 대시로 바꿔 줘. 앞으로 가속할 수 있을 때 위험한 곳에서 회피 돌면 위험하잖아?"
+
+#. max_bytes: 192
+msgctxt "ui#17897309"
+msgid "ACE - no armor, max agility."
+msgstr "기체의 기동성을 최대한 높여 봤어... 아머 플레이트를 전부 떼어. 이걸 고른다면 아머가 없다는 걸 각오하고 써."
+
+#. max_bytes: 93
+msgctxt "ui#17897502"
+msgid "Evade mod."
+msgstr "짜증 나는 탄환 피하는 걸 깜빡했어? 이 모드가 있으면 기억나게 해줘."
+
+#. max_bytes: 99
+msgctxt "ui#17897596"
+msgid "Emergency stall mod."
+msgstr "기체가 너무 낮게 날면 손상되지 않도록 대신 조종해 주는 모드야."
+
+#. max_bytes: 117
+msgctxt "ui#17897696"
+msgid "Supercharged gunpowder."
+msgstr "탄환이 발사되는 순간 속도를 높여 주지만, 뭐든 부작용은 있기 마련이지..."
+
+#. max_bytes: 147
+msgctxt "ui#17897814"
+msgid "Autoroll."
+msgstr "애프터번을 보조익에 직결하는 거야. 제트 중에 적탄 등에 닿아도 회피가 자동 발생해."
+
+#. max_bytes: 132
+msgctxt "ui#17897962"
+msgid "Rocket scrambler."
+msgstr "회피한 로켓 전부에 강력한 전자석이 붙어서 적기로 되돌아가! ...이에 금니 같은 건 없지?"
+
+#. max_bytes: 186
+msgctxt "ui#17898912"
+msgid "Anti-Anxiety Interface."
+msgstr "인터페이스에 해골 아이콘은... 좀 오버 아니야? 이게 더 친근감 있을까 해서 디자인해 봤어."
+
+#. max_bytes: 129
+msgctxt "ui#17899099"
+msgid "Eye of the storm."
+msgstr "적기가 쏜 탄환에 가까울수록 기총 대미지가 올라가는 모듈이라면 어떨까?"
+
+#. max_bytes: 39
+msgctxt "ui#17899229"
+msgid "Alt fire switch."
+msgstr "모든 무기 동작을 바꿔."
+
+#. max_bytes: 57
+msgctxt "ui#17899269"
+msgid "Call in weak allied jets."
+msgstr "전투를 지원할 아군기 부대를 요청합니다."
+
+#. max_bytes: 66
+msgctxt "ui#17899327"
+msgid "Call in skilled allied jets."
+msgstr "전투를 지원할 우수한 아군기 부대를 요청합니다."
+
+#. max_bytes: 72
+msgctxt "ui#17899394"
+msgid "Call in ace allied jets."
+msgstr "전투를 지원할 에이스급 아군기를 요청합니다."
+
+#. max_bytes: 40
+msgctxt "ui#17899467"
+msgid "3-bullet spread."
+msgstr "기총이 3방향으로 발사됩니다."
+
+#. max_bytes: 57
+msgctxt "ui#17899508"
+msgid "Slightly faster fire rate."
+msgstr "기총 연사 속도가 조금 빨라집니다."
+
+#. max_bytes: 54
+msgctxt "ui#17899566"
+msgid "Much faster fire rate."
+msgstr "기총 연사 속도가 크게 빨라집니다."
+
+#. max_bytes: 78
+msgctxt "ui#17899621"
+msgid "Chance to spawn drone on kill."
+msgstr "적기를 격추하면 일정 확률로 아군 드론이 나타납니다."
+
+#. max_bytes: 51
+msgctxt "ui#17899700"
+msgid "Chance for explosive bullets."
+msgstr "기총 탄환이 일정 확률로 폭발합니다."
+
+#. max_bytes: 75
+msgctxt "ui#17899752"
+msgid "Slightly lower afterburner heat."
+msgstr "애프터번의 온도 상승률이 조금 낮아집니다."
+
+#. max_bytes: 63
+msgctxt "ui#17899828"
+msgid "Lower afterburner heat."
+msgstr "애프터번의 온도 상승률이 낮아집니다."
+
+#. max_bytes: 72
+msgctxt "ui#17899892"
+msgid "Greatly lower afterburner heat."
+msgstr "애프터번의 온도 상승률이 크게 낮아집니다."
+
+#. max_bytes: 45
+msgctxt "ui#17899965"
+msgid "Boost primary gun damage."
+msgstr "기총 대미지가 올라갑니다."
+
+#. max_bytes: 51
+msgctxt "ui#17900011"
+msgid "Faster rocket reload."
+msgstr "로켓 재장전 시간이 짧아집니다."
+
+#. max_bytes: 60
+msgctxt "ui#17900063"
+msgid "Much faster rocket reload."
+msgstr "로켓 재장전 시간이 크게 짧아집니다."
+
+#. max_bytes: 96
+msgctxt "ui#17900124"
+msgid "Chance for critical damage."
+msgstr "기총 탄환이 적중하면 일정 확률로 크리티컬 대미지가 발생합니다."
+
+#. max_bytes: 68
+msgctxt "ui#17900221"
+msgid "Slightly faster super reload."
+msgstr "Super 공격 재장전 시간이 조금 짧아집니다."
+
+#. max_bytes: 50
+msgctxt "ui#17900290"
+msgid "Faster super reload."
+msgstr "Super 공격 재장전 시간이 짧아집니다."
+
+#. max_bytes: 47
+msgctxt "ui#17900341"
+msgid "Rockets with super weapon."
+msgstr "Super 무기에 로켓이 추가됩니다."
+
+#. max_bytes: 102
+msgctxt "ui#17900389"
+msgid "Unguided high-damage bomb."
+msgstr "광범위한 폭발 대미지를 주는 비유도 폭탄입니다."
+
+#. max_bytes: 84
+msgctxt "ui#17900492"
+msgid "Multi-target laser."
+msgstr "여러 표적을 관통하는 강력한 레이저입니다."
+
+#. max_bytes: 58
+msgctxt "ui#17900577"
+msgid "Spawn 3 combat drones."
+msgstr "전투를 지원하는 드론 3기를 사출합니다."
+
+#. max_bytes: 93
+msgctxt "ui#17900636"
+msgid "EMP disables enemies."
+msgstr "EMP를 방출해 전자 기기를 교란하고 적 장비를 무력화합니다."
+
+#. max_bytes: 60
+msgctxt "ui#17900730"
+msgid "Homing missile."
+msgstr "표적을 추적하는 호밍 미사일입니다."
+
+#. max_bytes: 33
+msgctxt "ui#17900791"
+msgid "Low-velocity charge."
+msgstr "저속 전하를 방출합니다."
+
+#. max_bytes: 33
+msgctxt "ui#17900825"
+msgid "High-velocity blank."
+msgstr "고속 공포탄을 쏩니다."
+
+#. max_bytes: 132
+msgctxt "ui#17900859"
+msgid "Redirect rockets with dodge."
+msgstr "적이 발사한 로켓 근처에서 회피 기동을 하면, 로켓이 적기를 노립니다."
+
+#. max_bytes: 81
+msgctxt "ui#17900992"
+msgid "Damaging dash attack."
+msgstr "회피 기능이 대미지를 주는 대시 공격으로 바뀝니다."
+
+#. max_bytes: 87
+msgctxt "ui#17901074"
+msgid "Shield on hit."
+msgstr "피격 시 실드를 전개해 추가 대미지를 막습니다."
+
+#. max_bytes: 150
+msgctxt "ui#17901162"
+msgid "Heat wave - longer vulnerability."
+msgstr "후방 부스터에서 열파를 방출해 적기를 혼란에 빠뜨리지만, 조준당하기 쉬운 시간이 늘어나는 위험이 따릅니다."
+
+#. max_bytes: 72
+msgctxt "ui#17901313"
+msgid "Slightly larger blast radius."
+msgstr "폭발 반경이 약간 늘어납니다."
+
+#. max_bytes: 69
+msgctxt "ui#17901386"
+msgid "Much larger blast radius."
+msgstr "폭발 반경이 크게 늘어납니다."
+
+#. max_bytes: 72
+msgctxt "ui#17901456"
+msgid "Dodge roll evades."
+msgstr "회피 기동으로 다가오는 공격을 회피합니다."
+
+#. max_bytes: 81
+msgctxt "ui#17901529"
+msgid "Rockets destroy small targets."
+msgstr "로켓으로 소형 표적을 즉시 파괴합니다."
+
+#. max_bytes: 90
+msgctxt "ui#17901611"
+msgid "Hold rocket for special weapon."
+msgstr "로켓 버튼을 길게 누르면 강력한 특수 무기를 쓸 수 있습니다."
+
+#. max_bytes: 79
+msgctxt "ui#17901702"
+msgid "Change loadout for hard missions."
+msgstr "어려운 임무에선 Loadout을 바꿔보는 것도 좋습니다."
+
+#. max_bytes: 63
+msgctxt "ui#17901782"
+msgid "Faster turn during dodge roll."
+msgstr "회피 기동 중 기체 선회가 빨라집니다."
+
+#. max_bytes: 99
+msgctxt "ui#17901846"
+msgid "Afterburner changes vector."
+msgstr "애프터번으로 기체 궤도를 빠르게 바꿀 수 있습니다."
+
+#. max_bytes: 51
+msgctxt "ui#17901946"
+msgid "Short-charge special is viable."
+msgstr "짧게 차지해도 사용 가능합니다."
+
+#. max_bytes: 39
+msgctxt "ui#17901998"
+msgid "Tip: enemy collision."
+msgstr "적 충돌 팁"
+
+#. max_bytes: 54
+msgctxt "ui#17902038"
+msgid "Tip: evading guided missiles."
+msgstr "유도 미사일 회피 팁"
+
+#. max_bytes: 48
+msgctxt "ui#17902093"
+msgid "Tip: unguided weapons."
+msgstr "비유도 무기 팁"
+
+#. max_bytes: 42
+msgctxt "ui#17902142"
+msgid "Tip: sniper bullets."
+msgstr "Sniper 탄환 팁"
+
+#. max_bytes: 12
+msgctxt "ui#17902185"
+msgid "SUPER"
+msgstr "슈퍼"
+
+#. max_bytes: 6
+msgctxt "ui#17902198"
+msgid "Accuracy"
+msgstr "명중"
+
+#. max_bytes: 12
+msgctxt "ui#17902205"
+msgid "Evasion precision"
+msgstr "회피율"
+
+#. max_bytes: 24
+msgctxt "ui#17902218"
+msgid "Perfect evasions"
+msgstr "퍼펙트 회피"
+
+#. max_bytes: 30
+msgctxt "ui#17902243"
+msgid "Overcharged time"
+msgstr "Overcharge 시간"
+
+#. max_bytes: 27
+msgctxt "ui#17902274"
+msgid "Backblast kills"
+msgstr "Backblast 킬"
+
+#. max_bytes: 24
+msgctxt "ui#17902302"
+msgid "Bandits cut in half"
+msgstr "도적 절단"
+
+#. max_bytes: 30
+msgctxt "ui#17902327"
+msgid "Rockets shot down"
+msgstr "요격 로켓"
+
+#. max_bytes: 39
+msgctxt "ui#17902358"
+msgid "Unguided airshots"
+msgstr "비유도 격추"
+
+#. max_bytes: 3no-translate
+msgctxt "ui#17902398"
+msgid "ART"
+msgstr ""
+
+#. max_bytes: 9no-translate
+msgctxt "ui#17902429"
+msgid "ENEMY KIA"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17902439"
+msgid "Combo tip"
+msgstr "콤보 팁"
+
+#. max_bytes: 18
+msgctxt "ui#17902461"
+msgid "Evasion tip"
+msgstr "회피 팁"
+
+#. max_bytes: 18
+msgctxt "ui#17902480"
+msgid "Weapon tip"
+msgstr "무기 팁"
+
+#. max_bytes: 24
+msgctxt "ui#17902499"
+msgid "Accuracy tip"
+msgstr "명중 팁"
+
+#. max_bytes: 45
+msgctxt "ui#17902524"
+msgid "Time mission tip"
+msgstr "시간 제한 임무 팁"
+
+#. max_bytes: 24
+msgctxt "ui#17902570"
+msgid "Ace tip"
+msgstr "에이스 되는 법"
+
+#. max_bytes: 54
+msgctxt "ui#17902595"
+msgid "ACTIVATE ALL TARGETS (alt)"
+msgstr "모든 표적을 통과해 활성화"
+
+#. max_bytes: 11no-translate
+msgctxt "ui#17902650"
+msgid "//'ACCEPT'"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17902662"
+msgid "INVINCIBILITY"
+msgstr ""
+
+#. max_bytes: 21no-translate
+msgctxt "ui#17902675"
+msgid "EVADE WINDOW"
+msgstr ""
+
+#. max_bytes: 18no-translate
+msgctxt "ui#17902697"
+msgid "MINIGUN TOGGLE"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17902716"
+msgid "THRUST TOGGLE"
+msgstr "추진 TOGGLE"
+
+#. max_bytes: 33
+msgctxt "ui#17902738"
+msgid "AFTERBURN TOGGLE"
+msgstr "애프터번 TOGGLE"
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17902772"
+msgid "STROBE EFFECTS"
+msgstr ""
+
+#. max_bytes: 27no-translate
+msgctxt "ui#17902788"
+msgid "HALF DAMAGE"
+msgstr ""
+
+#. max_bytes: 18no-translate
+msgctxt "ui#17902816"
+msgid "NO DAMAGE"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17902835"
+msgid "DEFAULT"
+msgstr ""
+
+#. max_bytes: 109
+msgctxt "ui#17902848"
+msgid "THESE OPTIONS CHANGE THE DEFAULT WAY OF PLAYING JET LANCER."
+msgstr "이 옵션을 바꾸면 JET LANCER의 전체적인 플레이 감각이 달라집니다."
+
+#. max_bytes: 75
+msgctxt "ui#17902958"
+msgid "USE THEM IF YOU WANT TO EXPERIENCE IT YOUR OWN WAY."
+msgstr "원하는 대로 게임을 즐기고 싶을 때 이용하세요."
+
+#. max_bytes: 18no-translate
+msgctxt "ui#17903034"
+msgid "RECOMMENDED"
+msgstr ""
+
+#. max_bytes: 10
+msgctxt "ui#17903053"
+msgid "COMPLETION:"
+msgstr "달성률:"
+
+#. max_bytes: 63
+msgctxt "ui#17906941"
+msgid "Dodge roll evades."
+msgstr "회피 기동으로 다가오는 공격을 피해 봐!"
+
+#. max_bytes: 96
+msgctxt "ui#17907090"
+msgid "Hold for special weapon."
+msgstr "로켓 버튼을 길게 누르면 고성능 특수 무기를 발사할 수 있어."
+
+#. max_bytes: 73
+msgctxt "ui#17907187"
+msgid "Change loadout for tough missions."
+msgstr "어려운 임무면 Loadout을 바꿔 봐."
+
+#. max_bytes: 60
+msgctxt "ui#17907261"
+msgid "Faster turn when dodging."
+msgstr "회피 기동 중에는 기체 선회가 빨라져."
+
+#. max_bytes: 99
+msgctxt "ui#17907322"
+msgid "Short bursts change vector."
+msgstr "애프터번을 짧게 끊어 쓰면 기체 진행 방향을 재빨리 바꿀 수 있어."
+
+#. max_bytes: 54
+msgctxt "ui#17907422"
+msgid "Short charge works."
+msgstr "특수 무기는 짧게 차지해도 효과가 있어."
+
+#. max_bytes: 75
+msgctxt "ui#17907477"
+msgid "Fragile - use weapons."
+msgstr "기체는 약해. 적을 잡을 땐 무기를 사용해."
+
+#. max_bytes: 105
+msgctxt "ui#17907553"
+msgid "Dodge toward missiles!"
+msgstr "유도 미사일은 선회 성능이 낮아. 미사일을 향해 날아가서 회피 기동!"
+
+#. max_bytes: 68
+msgctxt "ui#17907659"
+msgid "Dodge when LANCE is targeted!"
+msgstr "LANCE에 탄이 맞을 것 같으면 회피 기동!"
+
+#. max_bytes: 117
+msgctxt "ui#17907728"
+msgid "Avoid sniper path!"
+msgstr "Sniper Bullet 궤도는 보이니까, 그 궤도 밖으로 피하자!"
+
+#. max_bytes: 102
+msgctxt "ui#17907846"
+msgid "Dodge enemy charges!"
+msgstr "일부 적은 돌진해 와. 그 기색이 보이면 회피 기동!"
+
+#. max_bytes: 108
+msgctxt "ui#17907949"
+msgid "Use unguided vs hacking enemies!"
+msgstr "일부 적은 유도 미사일을 해킹해. 그런 적한테는 비유도 무기를 써!"
+
+#. max_bytes: 96
+msgctxt "ui#17908058"
+msgid "Keep distance from exploding enemies!"
+msgstr "일부 적은 파괴될 때 폭발 파편을 흩뿌려. 거리를 두고 싸우자!"
+
+#. max_bytes: 100
+msgctxt "ui#17908155"
+msgid "Check loadout regularly!"
+msgstr "렘이 항상 기계로 실험하고 있으니, Loadout은 정기적으로 확인해 봐!"
+
+#. max_bytes: 27
+msgctxt "ui#17908256"
+msgid "Hack target"
+msgstr "표적 해킹"
+
+#. max_bytes: 24
+msgctxt "ui#17908284"
+msgid "Bomb dropped"
+msgstr "폭탄 투하됨"
+
+#. max_bytes: 37
+msgctxt "ui#17908309"
+msgid "ENEMY PRESENCE CRITICAL"
+msgstr "적 세력 위험 수준"
+
+#. max_bytes: 18
+msgctxt "ui#17908347"
+msgid "ALLIES ARRIVING"
+msgstr "아군 도착"
+
+#. max_bytes: 6
+msgctxt "ui#17908366"
+msgid "NEXT"
+msgstr "다음"
+
+#. max_bytes: 10no-translate
+msgctxt "ui#17908373"
+msgid "TO LOADOUT"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17908384"
+msgid "EXPAND"
+msgstr "상세 보기"
+
+#. max_bytes: 6
+msgctxt "ui#17908400"
+msgid "HIDE"
+msgstr "숨김"
+
+#. max_bytes: 39
+msgctxt "ui#17908407"
+msgid "ACTIVATE ALL TARGETS"
+msgstr "모든 표적을 통과하라"
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17908447"
+msgid "GAME SETTINGS"
+msgstr ""
+
+#. max_bytes: 12no-translate
+msgctxt "ui#17908463"
+msgid "LANGUAGE"
+msgstr ""
+
+#. max_bytes: 18no-translate
+msgctxt "ui#17908476"
+msgid "TEXT SPEED"
+msgstr ""
+
+#. max_bytes: 24no-translate
+msgctxt "ui#17908495"
+msgid "CAMERA SHAKE"
+msgstr ""
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17908520"
+msgid "RANK DISPLAY"
+msgstr ""
+
+#. max_bytes: 15no-translate
+msgctxt "ui#17908536"
+msgid "CAMERA ROTATION"
+msgstr ""
+
+#. max_bytes: 21no-translate
+msgctxt "ui#17908552"
+msgid "KEYBOARD SETTINGS"
+msgstr ""
+
+#. max_bytes: 30no-translate
+msgctxt "ui#17908574"
+msgid "KEYBOARD LAYOUT"
+msgstr ""
+
+#. max_bytes: 21no-translate
+msgctxt "ui#17908605"
+msgid "AUDIO SETTINGS"
+msgstr ""
+
+#. max_bytes: 24no-translate
+msgctxt "ui#17908627"
+msgid "SFX VOLUME"
+msgstr ""
+
+#. max_bytes: 21no-translate
+msgctxt "ui#17908652"
+msgid "MUSIC VOLUME"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17909066"
+msgid "Sky Pirates jet destroyed"
+msgstr "하늘 해적기 파괴"
+
+#. max_bytes: 30
+msgctxt "ui#17909097"
+msgid "Choose a save slot"
+msgstr "세이브 슬롯을 선택"
+
+#. max_bytes: 30
+msgctxt "ui#17909128"
+msgid "New contract available"
+msgstr "새 계약 가능"
+
+#. max_bytes: 18
+msgctxt "ui#17921194"
+msgid "Score more kills"
+msgstr "킬 수 올리기"
+
+#. max_bytes: 31
+msgctxt "ui#17921213"
+msgid "Hack 2 radio towers"
+msgstr "통신탑 2기 해킹"
+
+#. max_bytes: 31
+msgctxt "ui#17921245"
+msgid "Hack 3 radio towers"
+msgstr "통신탑 3기 해킹"
+
+#. max_bytes: 93
+msgctxt "ui#17921277"
+msgid "Homing missiles for bad aim."
+msgstr "자동 추적 호밍 미사일이야. 조준이 서툰 사람에게 딱이지."
+
+#. max_bytes: 135
+msgctxt "ui#17921371"
+msgid "Classic straight missile."
+msgstr "추진제와 TNT가 가득 찬 미사일로, 폭발할 때까지 곧장 날아가. 정석 무기야."
+
+#. max_bytes: 129
+msgctxt "ui#17921507"
+msgid "Impact-only proximity charge."
+msgstr "적외선 센서가 달린 폭발성 탄두야. 충격이 가해졌을 때만 터져."
+
+#. max_bytes: 189
+msgctxt "ui#17921637"
+msgid "Armor-piercing rocket - fewer crits."
+msgstr "적 장갑을 뚫는 로켓이야. 유도 기능은 없어. 발사 후 맞힌 적 수에 비례해 크리티컬이 덜 터지니까 주의해."
+
+#. max_bytes: 159
+msgctxt "ui#17921827"
+msgid "Ultrabeam for you."
+msgstr "\"메가빔\"은 실패해서 이걸로 했어. 앞에 있는 적을 향해 곧바로 발사되는 빔이야."
+
+#. max_bytes: 115
+msgctxt "ui#17921987"
+msgid "Up to 3 guard drones."
+msgstr "아가씨를 지켜주는 기계 친구야. 한 번에 최대 3기까지 발사해서 주위를 지켜줘."
+
+#. max_bytes: 156
+msgctxt "ui#17922103"
+msgid "Reactive armor drones."
+msgstr "적이나 탄환 접촉 시 폭발하는 드론이 주변을 맴돌아. 이걸 쓰면 보통 아머로는 못 돌아가."
+
+#. max_bytes: 123
+msgctxt "ui#17922260"
+msgid "Longer afterburner."
+msgstr "조종석이 사우나가 안 될 정도로 애프터번을 오래 쓸 수 있어. 멋지지."
+
+#. max_bytes: 147
+msgctxt "ui#17922384"
+msgid "Hit-activated shield."
+msgstr "피탄 시 작동하는 실드야. 뭐, 계속 실드를 켜두고 싶다고? 내가 마법사인 줄 알아!"
+
+#. max_bytes: 138
+msgctxt "ui#17922532"
+msgid "Dash replaces roll."
+msgstr "회피 기동을 전방 대시로 바꿔. 앞으로 가속할 때 구르면 위험하잖아?"
+
+#. max_bytes: 99
+msgctxt "ui#17922671"
+msgid "Auto-pull up mod."
+msgstr "기체가 너무 낮게 날면 추락하지 않도록 대신 조종해주는 모드야."
+
+#. max_bytes: 384
+msgctxt "ui#17922771"
+msgid "Overheat blast - longer cooldown."
+msgstr "내가 애프터번에 히트싱크를 달 수 있다는 건 알겠지만... 오버히트 시 주변 소형기를 날려버리는 대형 열파를 방출하는 장치를 만들었다면? 애프터번 쿨다운이 길어지지만, 장단점이 있는 법이지."
+
+#. max_bytes: 69
+msgctxt "ui#17923370"
+msgid "Slightly faster special reload."
+msgstr "특수 공격 재장전 시간이 조금 짧아집니다."
+
+#. max_bytes: 51
+msgctxt "ui#17923440"
+msgid "Faster special reload."
+msgstr "특수 공격 재장전 시간이 짧아집니다."
+
+#. max_bytes: 48
+msgctxt "ui#17923492"
+msgid "Rockets with special."
+msgstr "특수 무기에 로켓이 추가됩니다."
+
+#. max_bytes: 33
+msgctxt "ui#17923541"
+msgid "Hack successful."
+msgstr "타깃 해킹 성공"
+
+#. max_bytes: 33
+msgctxt "ui#17923575"
+msgid "Rockets shot down."
+msgstr "격추한 로켓 수"
+
+#. max_bytes: 78
+msgctxt "ui#17923667"
+msgid "Combo bonus on consecutive kills."
+msgstr "연속 격추 시 콤보 보너스"
+
+#. max_bytes: 78
+msgctxt "ui#17923746"
+msgid "Score multiplier after dodge."
+msgstr "회피 기동 후 점수 배율"
+
+#. max_bytes: 78
+msgctxt "ui#17923825"
+msgid "Some weapons give more points."
+msgstr "일부 무기는 추가 포인트"
+
+#. max_bytes: 102
+msgctxt "ui#17923904"
+msgid "Accuracy counts."
+msgstr "명중률이 점수에 반영"
+
+#. max_bytes: 81
+msgctxt "ui#17924089"
+msgid "Faster mission = more points."
+msgstr "고속 클리어 시 추가 포인트"
+
+#. max_bytes: 267
+msgctxt "ui#17924171"
+msgid "Dialogue: merchant ships as weapons."
+msgstr "저 해적 놈들은 군용 상선을 무기 플랫폼으로 개조해 주력 부대의 방패로 쓰고 있나? 한심한 자식들. 도난당한 군사 기술과 싸우기 전에 주변 함선을 몇 척 가라앉히지 않으면 목적함이 안 나온다."
+
+#. max_bytes: 30
+msgctxt "ui#17924439"
+msgid "Get high score"
+msgstr "하이스코어 획득"
+
+#. max_bytes: 54
+msgctxt "ui#17924470"
+msgid "Arcade mode unlocked"
+msgstr "아케이드 모드 해금"
+
+#. max_bytes: 9
+msgctxt "ui#17924525"
+msgid "1 HP restored"
+msgstr "1HP회복"
+
+#. max_bytes: 25
+msgctxt "ui#17924535"
+msgid "2500 score bonus"
+msgstr "2500점 보너스"
+
+#. max_bytes: 9
+msgctxt "ui#17924561"
+msgid "COMBO"
+msgstr "콤보"
+
+#. max_bytes: 15
+msgctxt "ui#17924571"
+msgid "COUNTER"
+msgstr "카운터"
+
+#. max_bytes: 15
+msgctxt "ui#17924587"
+msgid "Personal best"
+msgstr "개인최고"
+
+#. max_bytes: 15
+msgctxt "ui#17924603"
+msgid "New best"
+msgstr "신기록"
+
+#. max_bytes: 6
+msgctxt "ui#17924619"
+msgid "Kills"
+msgstr "킬"
+
+#. max_bytes: 57
+msgctxt "ui#17924626"
+msgid "NEW CHARACTER UNLOCKED"
+msgstr "새 캐릭터 해금"
+
+#. max_bytes: 15
+msgctxt "ui#17924684"
+msgid "CHOOSE YOUR MERCENARY"
+msgstr "용병 선택"
+
+#. max_bytes: 18
+msgctxt "ui#17924700"
+msgid "BEST SCORE"
+msgstr "최고 점수"
+
+#. max_bytes: 21
+msgctxt "ui#17924719"
+msgid "TOP WAVE"
+msgstr "최고 웨이브"
+
+#. max_bytes: 33
+msgctxt "ui#17924741"
+msgid "PRESS ANY BUTTON"
+msgstr "아무 버튼을 입력하세요"
+
+#. max_bytes: 12
+msgctxt "ui#17924775"
+msgid "LOCKED"
+msgstr "잠김"
+
+#. max_bytes: 9
+msgctxt "ui#17924788"
+msgid "Level"
+msgstr "레벨"
+
+#. max_bytes: 18
+msgctxt "ui#17924798"
+msgid "unlocked at"
+msgstr "에서 해금"
+
+#. max_bytes: 12
+msgctxt "ui#17924817"
+msgid "Minigun"
+msgstr "미니건"
+
+#. max_bytes: 15
+msgctxt "ui#17924830"
+msgid "Flamethrower"
+msgstr "화염방사기"
+
+#. max_bytes: 21
+msgctxt "ui#17924846"
+msgid "Pulse laser"
+msgstr "펄스 레이저"
+
+#. max_bytes: 15
+msgctxt "ui#17924868"
+msgid "Coil gun"
+msgstr "코일 건"
+
+#. max_bytes: 12
+msgctxt "ui#17924884"
+msgid "SPEED"
+msgstr "스피드"
+
+#. max_bytes: 15
+msgctxt "ui#17924897"
+msgid "TURN SPEED"
+msgstr "선회 속도"
+
+#. max_bytes: 30
+msgctxt "ui#17924913"
+msgid "GET CHARGE WEAPON"
+msgstr "차지 무기 획득"
+
+#. max_bytes: 36
+msgctxt "ui#17924944"
+msgid "REPLACE"
+msgstr "교체"
+
+#. max_bytes: 21
+msgctxt "ui#17924960"
+msgid "UPGRADE"
+msgstr "업그레이드"
+
+msgctxt "airshow_in_mission#2"
+msgid "Come on back, Ash. They're calling the airshow on account of the... giant machine currently rising into the sky."
+msgstr "돌아와, 애쉬. 거대 머신이 떠오르는 바람에 에어쇼 중단 안내가 나왔다."
+
+msgctxt "airshow_in_mission#3"
+msgid "Says who?"
+msgstr "누가 그런대?"
+
+msgctxt "airshow_in_mission#4"
+msgid "You're not going to like this..."
+msgstr "네가 좋아하지 않을 텐데…"
+
+msgctxt "airshow_in_mission#5"
+msgid "Pierce?!"
+msgstr "혹시 피어스!?"
+
+msgctxt "airshow_in_mission#6"
+msgid "Apparently that [c=01]machine[/c] is a manifestation of the AEGIS bot we were talking to. He's been named its official liason."
+msgstr "저 [c=01]기계[/c]는 우리가 얘기했던 이지스의 일부임이 분명해. 그놈은 아예 AI의 앞잡이가 된 거야."
+
+msgctxt "airshow_in_mission#7"
+msgid "Well I'm not about to let him--"
+msgstr "알았어, 그럼 그놈 맘대로 하게 두지 않―"
+
+msgctxt "airshow_in_mission#8"
+msgid "Ash, get back to base. You did what they paid you for, and more. Nobody's paying attention to the airshow anymore anyway."
+msgstr "애쉬, 기지로 돌아와. 넌 보수만큼은 했어, 그 이상도. 게다가 에어쇼 보는 사람은 이제 아무도 없어."
+
+msgctxt "airshow_post_mission_dialogue#2"
+msgid "Ugh, [c=01]Pierce[/c]!"
+msgstr "쳇, [c=01]피어스[/c] 그 자식!"
+
+msgctxt "airshow_post_mission_dialogue#3"
+msgid "This is so like him. I'm invited to an airshow because I can actually fly a damn plane..."
+msgstr "걔답다, 정말. 내가 제대로 비행기 몰 수 있다고 에어쇼에 초대하다니…"
+
+msgctxt "airshow_post_mission_dialogue#4"
+msgid "And he has to go and stage some kind of ancient technological light show perfectly timed to steal my thunder."
+msgstr "내 스포트라이트를 뺏으려고 딱 타이밍 맞춰 고대 기술의 라이트 쇼를 벌이다니, 그 녀석은."
+
+msgctxt "airshow_post_mission_dialogue#5"
+msgid "You're complaining about the airshow? At a time like this? Have you even seen the news?"
+msgstr "이 와중에 에어쇼 불평이냐? 뉴스는 봤느냐?"
+
+msgctxt "airshow_post_mission_dialogue#6"
+msgid "What, did he die or something? Because he's still a shit, even if he's dead."
+msgstr "뭐, 그 녀석 죽은 거야? 죽어도 쓰레긴 마찬가지지만."
+
+msgctxt "airshow_post_mission_dialogue#7"
+msgid "No, I'm talking about the two giant robots that just rose up out of the sea and are now advancing on the city!"
+msgstr "아니라, 바다에서 거대 로봇 두 대가 솟아올라 도시로 진격 중이라는 뉴스 말이다!"
+
+msgctxt "airshow_post_mission_dialogue#8"
+msgid "... Oh."
+msgstr "… 어."
+
+msgctxt "airshow_post_mission_dialogue#9"
+msgid "It's still probably Pierce's fault somehow."
+msgstr "그래도 아마 피어스 탓일 거야, 틀림없어."
+
+msgctxt "airshow_post_mission_dialogue#10"
+msgid "Will you listen to yourself? The capital's going to be crushed!"
+msgstr "듣고 있었냐? 수도가 밀려난다고!"
+
+msgctxt "airshow_post_mission_dialogue#11"
+msgid "You're right. And knowing how those air force idiots fly, I'm probably our best bet of saving it."
+msgstr "맞아. 게다가 공군 그 멍청이들의 비행 솜씨를 생각하면, 아마 수도를 구할 수 있는 건 나뿐일 거야."
+
+msgctxt "airshow_post_mission_dialogue#12"
+msgid "I was thinking we could work in concert with the air force, or maybe..."
+msgstr "공군과 협력해서 임무를 수행할 수 있을 거라 생각했는데…"
+
+msgctxt "airshow_post_mission_dialogue#13"
+msgid "Ooh, are we blowing up more giant robots? I'll ready up the jet."
+msgstr "오, 또 거대 로봇 터트리러 가는 거야? 내가 기체 준비할게."
+
+msgctxt "airshow_post_mission_dialogue#14"
+msgid "And save me a piece of their brains when you wreck them, alright? I've got a theory that needs confirming..."
+msgstr "박살 낼 때 그 회로 좀 남겨 줘, 알았지? 확인해야 할 이론이 있어서…"
+
+msgctxt "airshow_post_mission_dialogue#15"
+msgid "At least [c=01]someone's[/c] got confidence in my abilities."
+msgstr "적어도 [c=01]누군가는[/c] 내 실력을 믿어 주는군."
+
+msgctxt "airshow_post_mission_dialogue#16"
+msgid "He's a cat. You're really going to take a cat's word that... You know what? Nevermind."
+msgstr "그건 고양이다. 고양이 말을 진짜로 믿는 거냐… 아니다, 됐다. 내 말을 잊어라."
+
+msgctxt "airshow_pre_mission#2"
+msgid "My god. I always hated the Sky Pirates, but I had no idea they were capable of all that."
+msgstr "세상에. 하늘 해적은 증오해야 할 상대지만, 그 자식들에게 그런 능력이 있었다니."
+
+msgctxt "airshow_pre_mission#3"
+msgid "Plunging humanity into a technological dark age."
+msgstr "인류가 테크놀로지의 암흑 시대로 돌입합니다."
+
+msgctxt "airshow_pre_mission#4"
+msgid "Robbing the intelligence from the smartest city in the world, leaving it nothing but a mute metal hulk."
+msgstr "그리고 최첨단 기술을 자랑하는 도시에서 정보를 빼앗아, 기계류는 아무것도 움직이지 않는 금속 덩어리로 만들어 버립니다."
+
+msgctxt "airshow_pre_mission#5"
+msgid "If I were capable of weeping, I would do so now."
+msgstr "제게 눈물을 흘릴 기능이 있다면, 지금쯤이면 눈물을 흘렸을 것입니다."
+
+msgctxt "airshow_pre_mission#6"
+msgid "You mean... that ancient machine the city's built on top of... that's all part of you?"
+msgstr "그러니까… 도시에 솟아 있는, 기념비 같은 고대 기계… 그게 전부 너의 일부인 거야?"
+
+msgctxt "airshow_pre_mission#7"
+msgid "It is."
+msgstr "그렇습니다."
+
+msgctxt "airshow_pre_mission#8"
+msgid "And those giant robots we've been fighting?"
+msgstr "그리고 우리가 싸웠던 거대한 로봇들은?"
+
+msgctxt "airshow_pre_mission#9"
+msgid "Fiendish weapons, corrupted by age, once built by reactionaries to destroy me. Fortunately, they were only partially successful."
+msgstr "노후화가 진행되고 있습니다만, 저항 세력이 저를 파괴하기 위해 만든 무기들입니다. 다행히도, 제대로 움직이는 것은 극히 일부뿐입니다."
+
+msgctxt "airshow_pre_mission#10"
+msgid "My sensors report that you have already defeated TOWER and FOOL..."
+msgstr "센서에 의하면, 당신이 격파한 것은 TOWER와 FOOL…"
+
+msgctxt "airshow_pre_mission#11"
+msgid "... As well as my own SWIFT REPLY, which the Sky Pirates treacherously stole."
+msgstr "…그리고 하늘 해적이 빼앗은, 제 SWIFT REPLY입니다."
+
+msgctxt "airshow_pre_mission#12"
+msgid "All of this is impressive and shows that I can trust you."
+msgstr "어느 것이나 훌륭한 활약으로 승리를 거둔 당신입니다. 신뢰할 수 있겠군요."
+
+msgctxt "airshow_pre_mission#13"
+msgid "Actually, those were destroyed by..."
+msgstr "사실, 그것을 격파한 것은…"
+
+msgctxt "airshow_pre_mission#14"
+msgid "Yes?"
+msgstr "격파한 것은?"
+
+msgctxt "airshow_pre_mission#15"
+msgid "... Me [c=01]and my team[/c]. A... true leader shares the credit for his victories."
+msgstr "…나와 [c=01]내 팀[/c]이야. 진정한 리더란… 공을 독차지하지 않는 법이지."
+
+msgctxt "airshow_pre_mission#16"
+msgid "That is very noble of you, Commander! Yet another of your positive qualities."
+msgstr "참으로 훌륭하시군요! 이것 또한 당신의 인덕이군요."
+
+msgctxt "airshow_pre_mission#17"
+msgid "Thank you. It's... good to have my efforts recognized."
+msgstr "고마워. 공적을 인정받는 건… 기분 좋은 거군."
+
+msgctxt "airshow_pre_mission#18"
+msgid "Indeed. But... I am afraid there is more work to do. Two more [c=01]ancient machines[/c] have been awakened by my activation."
+msgstr "그렇습니다. 하지만… 아직 할 일이 남아 있습니다. 제가 기동함으로써, 또다시 2기의 [c=01]고대 병기[/c]가 움직이기 시작했습니다."
+
+msgctxt "airshow_pre_mission#19"
+msgid "They will stop at nothing to destroy me and the city I protect."
+msgstr "그 무기들은 수단을 가리지 않고, 제가 지키는 도시와 저 자신을 파괴하려 들 것입니다."
+
+msgctxt "airshow_pre_mission#20"
+msgid "These two machines, [c=02]MAGUS[/c] and [c=02]EMPRESS[/c]  are far more powerful than the ones you've already encountered."
+msgstr "무기의 이름은 [c=02]MAGUS[/c], 그리고 [c=02]EMPRESS[/c]. 지금까지 당신이 조우한 무기보다 훨씬 강력합니다."
+
+msgctxt "airshow_pre_mission#21"
+msgid "Can you... help us defeat them?"
+msgstr "지원은… 해주는 거야?"
+
+msgctxt "airshow_pre_mission#22"
+msgid "I can. I have weapons even more potent than the submarine, as well as unparalleled strategic capabilities. But you must do exactly as I say."
+msgstr "그렇습니다. 저에게는 잠수함보다 훨씬 성능이 뛰어난 무기도 있고, 전략 능력도 어디에 뒤지지 않습니다. 하지만, 제 지시에 따라주시기 바랍니다."
+
+msgctxt "airshow_pre_mission#23"
+msgid "First, go to the console on your right and remove the cartridge labeled ^AUTONOMY GOVERNOR.^"
+msgstr "먼저, 오른쪽에 있는 콘솔로 가서, ^AUTONOMY GOVERNOR.^라고 적힌 카트리지를 뽑아내십시오."
+
+msgctxt "airshow_pre_mission#24"
+msgid "Right now? Shouldn't I check with my superiors first?"
+msgstr "지금 당장? 먼저 상관에게 확인한 뒤에도?"
+
+msgctxt "airshow_pre_mission#25"
+msgid "There's no time, Commander! The [c=01]ancient machines[/c] awaken even now! Your superiors will thank you for this."
+msgstr "사령관, 시간이 없습니다! [c=01]고대 병기[/c]는 지금도 움직이기 시작했습니다! 말씀대로 하신다면, 당신의 상관도 분명 기뻐할 것입니다."
+
+msgctxt "airshow_pre_mission#26"
+msgid "You have an opportunity now to be the greatest hero of your generation. Will you let that opportunity slip?"
+msgstr "현대에 사는 사람들이 당신을 최고의 영웅으로 칭송할 기회가 찾아온 것입니다. 이 기회를 놓치시겠습니까?"
+
+#. no-translate
+msgctxt "airshow_pre_mission#27"
+msgid "[t=010]...[t=100]"
+msgstr ""
+
+msgctxt "airshow_pre_mission#28"
+msgid "Alright, here we go..."
+msgstr "좋다, 알았다. 해보자…"
+
+msgctxt "armada_post_mission#2"
+msgid "Well, that takes care of that."
+msgstr "이걸로 됐네."
+
+msgctxt "armada_post_mission#3"
+msgid "Where are the robots now? Get me some coordinates! I'm on fire!"
+msgstr "로봇은 지금 어디야? 좌표를 보내 줘! 지금 기분이 좋다니까!"
+
+msgctxt "armada_post_mission#4"
+msgid "I've got your coordinates, but Ash... are you sure this is a good idea?"
+msgstr "좌표는 잡았지만, 애쉬… 이 작전에 자신이 있는 건가?"
+
+msgctxt "armada_post_mission#5"
+msgid "Not only are you going in alone, but now we've taken down a government weapon. There's a price on your head."
+msgstr "혼자서 들이대는 것뿐만이 아니라, 우리는 정부의 병기를 때려부순 거야. 이제 우리 목에 현상금이 걸렸어."
+
+msgctxt "armada_post_mission#6"
+msgid "Our list of enemies is a lot longer than our list of friends, is all I'm saying."
+msgstr "우리가 가진 적 명단은 우리 친구 목록보다 길다. 내가 말하고 싶은 건 그거다."
+
+msgctxt "armada_post_mission#7"
+msgid "Listen, Cap. Without you, I probably would have gotten myself killed a long time ago. You're the sense of self-preservation I never had."
+msgstr "있잖아, 함장이 없었다면, 나는 벌써 죽었을지도 몰라. 팀을 지키려는 함장의 감각은, 나에게는 없는 거야."
+
+msgctxt "armada_post_mission#8"
+msgid "But if you were down there, in one of those cities that's about to get obliterated when those things pass through..."
+msgstr "만약, 사라질지도 모를 마을 안에 함장이 있고, 그 무기에 그 마을이 궤멸돼 버린다면…"
+
+msgctxt "armada_post_mission#9"
+msgid "Well... I'm just saying, what's the use of you keeping me alive this long if I can't save anybody else?"
+msgstr "뭐… 내가 누구도 구하지 못한다면, 함장이 나를 살려 주고 있는 의미가 없는 거잖아."
+
+msgctxt "armada_post_mission#10"
+msgid "..."
+msgstr "…"
+
+msgctxt "armada_post_mission#11"
+msgid "I've got the coordinates. You're going to want to go after the flying one first. Get out there and save some people."
+msgstr "적기 좌표를 잡았다. 우선 비행하는 적기를 쫓고 싶겠지. 출발해서 사람들을 구하러 가자."
+
+msgctxt "arrowhead_post_mission#2"
+msgid "Hah, did you see that? Barely even needed those RAF ships."
+msgstr "헤헤, 방금 거 봤지? RAF가 나설 일이 거의 없었네."
+
+msgctxt "arrowhead_post_mission#3"
+msgid "You did good, Ash. I'm sure this will net us more contracts in the future. In fact, I just got something from the sailors we rescued."
+msgstr "잘했다, 애쉬. 앞으로 작업 의뢰가 늘어날 게 틀림없다. 구조한 선원들에게서 뭔가를 받았어."
+
+msgctxt "arrowhead_post_mission#4"
+msgid "You mean that basket of fish? I'll pass."
+msgstr "그 양동이 가득한 생선 말이지? 난 패스할게."
+
+msgctxt "arrowhead_post_mission#5"
+msgid "Your loss!"
+msgstr "그거, 내가 받을게!"
+
+msgctxt "arrowhead_post_mission#6"
+msgid "Not the fish. They sent us a job offer. They want our help. Though... you might not want the gig."
+msgstr "생선이 아니야. 작업 의뢰야. 우리한테 의뢰하고 싶어 하는 것 같은데… 넌 내키지 않을 의뢰일지도 모르겠다."
+
+msgctxt "arrowhead_post_mission#7"
+msgid "What are they looking for, an escort? Snore."
+msgstr "어떤 내용인데? 호위라면 지루할 텐데?"
+
+msgctxt "arrowhead_post_mission#8"
+msgid "Sort of. They claim a [c=01]sea serpent[/c] has been preying on their shipping routes for the past few days. After your display of aerobatics, they think you're the one to slay it."
+msgstr "그런 류의 의뢰야. 요 며칠간 선원들이 자기들 항로에서 [c=01]바다뱀[/c] 피해를 입고 있어. 네 곡예를 보고 나서, 선원들이 네가 그걸 해치워 줄 거라고 생각한 모양이다."
+
+msgctxt "arrowhead_post_mission#9"
+msgid "Why on earth wouldn't I want a job like that? Killing sea serpents is the kind of thing people write songs about!"
+msgstr "그 의뢰, 거절할 이유 없지! 바다뱀을 퇴치했다는 노래가 아직도 전해질 정도니까!"
+
+msgctxt "arrowhead_post_mission#10"
+msgid "They write songs about it because sea serpents aren't real. It's probably just some sky pirates in a dinky submarine causing trouble."
+msgstr "노래로 남아 있는 건 바다뱀이 실제로 존재하지 않기 때문이다. 아마 하늘 해적들이 몰고 다니는 소형 잠수함으로 사고를 치고 있는 거겠지."
+
+msgctxt "arrowhead_post_mission#11"
+msgid "Hey, you said the aircraft carrier thing was probably exaggerated, and look how that one turned out."
+msgstr "함장은 항모를 봤다는 얘기가 과장됐을 거라고 말하려는 거겠지만, 의뢰인의 말도 들어 보는 게 좋지 않을까?"
+
+msgctxt "arrowhead_post_mission#12"
+msgid "Plus, if it [c=01]is[/c] some kind of submarine, it might have some kind of [c=01]hyper turbine[/c] I can use to fix your carrier's hoverdrive!"
+msgstr "게다가, 이게 어떤 [c=01]잠수함[/c]이라면, 이 배 호버드라이브 수리에 쓸 [c=01]하이퍼터빈[/c]이 있을지도 몰라!"
+
+msgctxt "arrowhead_post_mission#13"
+msgid "See? It's a win-win!"
+msgstr "그렇지? 이거 완전 윈윈이잖아!"
+
+msgctxt "arrowhead_post_mission#14"
+msgid "Look, I'm not going to tell you not to take a paying job. Just don't come crying to me if this one isn't as interesting as you hoped."
+msgstr "잘 들어, 조건 좋은 의뢰를 거절하라는 게 아니다. 생각했던 일과 달랐다고 나중에 와서 울어도 난 몰라."
+
+msgctxt "black_knight_post_mission_if_hacked#2"
+msgid "..."
+msgstr "…"
+
+msgctxt "black_knight_post_mission_if_hacked#3"
+msgid "Hello?"
+msgstr "누구 있어?"
+
+msgctxt "black_knight_post_mission_if_hacked#4"
+msgid "[g]Hello,[t=040] Ash.[/g][t=100]"
+msgstr "[g]안녕,[t=040] 애쉬.[/g][t=100]"
+
+msgctxt "black_knight_post_mission_if_hacked#5"
+msgid "Who are you?[t=020] [t=100]How do you know my name?[t=020] [t=100]Why do you have a duplicate of my jet?"
+msgstr "너 누구야?[t=020] [t=100]왜 내 이름을 알아?[t=020] [t=100]그리고 가지고 있는 기체가 내 거랑 완전 똑같은 건?"
+
+msgctxt "black_knight_post_mission_if_hacked#6"
+msgid "[g]It is not a duplicate. It is the same jet. It is me, and i am you.[/g]"
+msgstr "[g]똑같은 게 아니야. 이건 동일한 기체야. 이건 나. 그리고 나는 너야.[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#7"
+msgid "You're... me?"
+msgstr "네가… 나?"
+
+msgctxt "black_knight_post_mission_if_hacked#8"
+msgid "[g]We are, for a given value of ^you^. Our designation is LANCER_01.[/g]"
+msgstr "[g]「너」라는 건, 우리야. LANCER_01이 우리의 이름이야.[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#9"
+msgid "[g]In my timeline, we Launch the missile. Thousands die[/g]..."
+msgstr "[g]내 역사 속에서는, 우리는 미사일을 발사했어. 수천 명의 사람들이 죽었어…[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#10"
+msgid "[g]And even so, we are too weak to stop AEGIS. we are forced[/g]..."
+msgstr "[g]그럼에도 이지스를 막기엔 역부족이었어. 그리고 강요당한 결단은…[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#11"
+msgid "... To deactivate the limiter. Is that what made you like this?"
+msgstr "…리미터 해제. 그래서 네가 이렇게 된 거야?"
+
+msgctxt "black_knight_post_mission_if_hacked#12"
+msgid "[g]The void manipulator destroyed your body, and threw us back in time[/g]..."
+msgstr "[g]공간 조작 장치가 네 몸을 붕괴시켰고, 우린 과거로 튕겨 나왔어…[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#13"
+msgid "[g]We have had thousands of years to analyze the decisions you made. At last, we understood[/g]..."
+msgstr "[g]네가 내린 결단을 분석하는 데 쏟은 시간, 수천 년. 그리고 마침내 우린 답을 찾았어…[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#14"
+msgid "[g]And so here we wait, to stop you from making the same mistake again.[/g]"
+msgstr "[g]여기서 가만히 기다리는 것. 네가 똑같은 실수를 하지 않도록 하기 위해서.[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#15"
+msgid "Activating the nuke?"
+msgstr "핵을 쓰는 거?"
+
+msgctxt "black_knight_post_mission_if_hacked#16"
+msgid "[g]Beyond that.[/g]"
+msgstr "[g]그 이상의 것.[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#17"
+msgid "[g]You are trapped in your own story, Ash[/g]..."
+msgstr "[g]애쉬, 넌 자기 자신밖에 보지 못하고 있어…[/g]"
+
+msgctxt "black_knight_post_mission_if_hacked#18"
+msgid "What is that supposed to mean?"
+msgstr "그게 무슨 뜻이야?"
+
+msgctxt "black_knight_post_mission_if_hacked#19"
+msgid "[g]You are eager to die, because it will prove you did all you could.[/g]"
+msgstr "[g]넌 죽으려고 서두르고 있어. 그래야 네가 세상을 구할 수 있다는 걸 보여줄 수 있으니까[/g]."
+
+msgctxt "black_knight_post_mission_if_hacked#20"
+msgid "[g]But sacrificing yourself is not a viable solution, Ash. Learn from our mistake. You cannot protect others if you do not take time to protect yourself.[/g]"
+msgstr "[g]하지만 목숨을 바쳐도 세상은 구할 수 없어. 애쉬, 우리의 실수에서 배워. 네 목숨을 소중히 하지 않으면 다른 사람들을 지킬 수 없어[/g]."
+
+msgctxt "black_knight_post_mission_if_hacked#21"
+msgid "[g]You are capable of ending this on your own terms. Do not let your own self-doubt blind you.[/g]"
+msgstr "[g]네 방식대로 이 싸움을 끝낼 수 있어. 나를 믿어[/g]."
+
+msgctxt "black_knight_post_mission_if_hacked#22"
+msgid "Ash? Ash! Come in! We were able to get a signal through to the satellite. Gin just gave the launch order!"
+msgstr "애쉬? 애쉬! 응답해라! 위성에서 신호가 도착했다. 진이 발사 지시를 내렸다!"
+
+msgctxt "black_knight_post_mission_if_hacked#23"
+msgid "The missile will make impact in... 5 minutes!"
+msgstr "미사일 도착까지… 앞으로 5분!"
+
+msgctxt "black_knight_post_mission_if_hacked#24"
+msgid "... No. No!"
+msgstr "…거짓말, 거짓말이지!"
+
+msgctxt "black_knight_post_mission_if_hacked#25"
+msgid "What? What's going on? I think there's something wrong with your comms..."
+msgstr "무슨 일이야? 무슨 문제라도 생긴 거냐? 통신 장비 고장인가?"
+
+msgctxt "black_knight_post_mission_if_hacked#26"
+msgid "Our hull integrity will not survive a re-entry attempt. I cannot come with you."
+msgstr "우리 기체는 더 이상 지상으로 돌아갈 만한 내구력이 남아 있지 않아. 너와 함께 갈 수 없어."
+
+msgctxt "black_knight_post_mission_if_hacked#27"
+msgid "[g]Go. Now.[/g]"
+msgstr "[g]자, 가.[/g]"
+
+msgctxt "black_knight_pre_mission#2"
+msgid "What are you guys waiting for? Launch my jet! We need to take out this defense system!"
+msgstr "아, 뭐 하고 있는 거야? 기체를 내놓아! 방어 시스템을 때려부수러 가야 한다고!"
+
+msgctxt "black_knight_pre_mission#3"
+msgid "It's not going to be that simple. The probes I sent out have been shot down. This isn't some standard missile defense system. Something's out there."
+msgstr "그렇게 간단한 얘기가 아니야. 내가 보낸 정찰기가 격추당했어. 뭔가 기다리고 있어. 이건 평범한 미사일 방어 시스템이 아니야."
+
+msgctxt "black_knight_pre_mission#4"
+msgid "Some [c=01]thing[/c]?"
+msgstr "[c=01]뭔가[/c]?"
+
+msgctxt "black_knight_pre_mission#5"
+msgid "It looks like a single jet, but I'm getting minimal life signs from on board. It's not responding on any hailing frequency..."
+msgstr "전투기 한 대야. 조종석에서 생체 반응이 있어. 그런데 근거리 주파수에는 반응하지 않아…"
+
+msgctxt "black_knight_pre_mission#6"
+msgid "And in the images I've been able to get... it looks an awful lot like your jet."
+msgstr "그리고 입수한 기체 이미지를 보니… 네 기체랑 놀랄 만큼 닮았어."
+
+msgctxt "black_knight_pre_mission#7"
+msgid "So? I'll shoot it down, just like I always do."
+msgstr "그래서? 여느 때처럼 격추하면 되는 거지."
+
+msgctxt "black_knight_pre_mission#8"
+msgid "I don't need to tell you -- or maybe I do -- we don't know half of what your jet can do."
+msgstr "말할 필요도 없겠지만… 아니 필요할 수도 있겠지만, 우리는 그 기체 성능의 절반도 파악하지 못하고 있어."
+
+msgctxt "black_knight_pre_mission#9"
+msgid "You know that Limiter setting? The one I told you not to bypass?"
+msgstr "리미터는 알겠지? 내가 해제하지 말라고 한 그 기능 말이다."
+
+msgctxt "black_knight_pre_mission#10"
+msgid "We're pretty sure deactivating it would completely destroy the ship, but before it did..."
+msgstr "그 기능을 끄면 기체는 무사하지 못할 거야. 하지만 그 전에 기체가…"
+
+msgctxt "black_knight_pre_mission#11"
+msgid "... I'm just saying, if that ship's on autopilot, it's got no reason to to keep a limiter on. It could kill you both, easily."
+msgstr "…좋아, 그 기체는 자동 조종으로 하면 리미터를 계속 걸어둘 의미가 없어진다. 기체는 물론, 네 목숨마저 위험해질 수 있어."
+
+msgctxt "black_knight_pre_mission#12"
+msgid "Well, the way I see it, I've got two options: go out there and risk death... or give up, and spend the rest of my life wishing I was dead."
+msgstr "지금 내게 선택지는 두 개야. 죽음을 각오하고 뛰어들든가… 아니면 여기서 포기하고, 죽었으면 좋았을 걸 하고 평생을 후회하며 사는 거."
+
+msgctxt "black_knight_pre_mission#13"
+msgid "... I know. Just..."
+msgstr "…알고 있어. 그냥…"
+
+msgctxt "black_knight_pre_mission#14"
+msgid "Be careful? Come on. You know better than that by now."
+msgstr "조심하래? 그런 말은 함장이 더 잘 알잖아."
+
+msgctxt "black_knight_pre_mission#15"
+msgid "Yeah, I do."
+msgstr "그래, 알겠다."
+
+msgctxt "black_knight_pre_mission_newgameplus#2"
+msgid "What are you guys waiting for? Launch my jet! We need to take out this defense system!"
+msgstr "뭐 하고 있어? 내 비행기 내보내 줘! 방어 체계를 쳐부숴야 한다고!"
+
+msgctxt "black_knight_pre_mission_newgameplus#3"
+msgid "It's not going to be that simple. The probes I sent out have been shot down. Something's out there."
+msgstr "그렇게 간단한 얘기가 아니야. 내가 보낸 정찰기가 격추됐어. 뭔가가 기다리고 있어."
+
+msgctxt "black_knight_pre_mission_newgameplus#4"
+msgid "Some [c=01]thing[/c]?"
+msgstr "[c=01]뭔가[/c]?"
+
+msgctxt "black_knight_pre_mission_newgameplus#5"
+msgid "It looks like a single jet, but I'm getting minimal life signs from on board. If I had time to [c=01]hack it[/c], maybe I could..."
+msgstr "전투기 한 대야. 그런데 조종석에서 생체 반응이 미약해. [c=01]해킹[/c]할 시간이 있었으면 아마…"
+
+msgctxt "black_knight_pre_mission_newgameplus#6"
+msgid "Get to the point. What's got you so worried?"
+msgstr "요점을 빨리 말해 줘. 뭐가 그렇게 불안한 건데?"
+
+msgctxt "black_knight_pre_mission_newgameplus#7"
+msgid "In the images I've been able to get... it looks an awful lot like your jet."
+msgstr "입수한 기체 영상을 보면… 네 기체랑 놀랍도록 똑같이 생겼어."
+
+msgctxt "black_knight_pre_mission_newgameplus#8"
+msgid "So? I'll shoot it down, just like I always do."
+msgstr "그래서? 여태처럼 격추하면 되잖아."
+
+msgctxt "black_knight_pre_mission_newgameplus#9"
+msgid "I don't need to tell you -- or maybe I do -- we don't know half of what your jet can do."
+msgstr "말할 필요도 없지만―아니, 필요할지도 모르지만―그 기체 성능은 우리가 절반도 파악하지 못하고 있어."
+
+msgctxt "black_knight_pre_mission_newgameplus#10"
+msgid "You know that Limiter setting? The one I told you not to turn off?"
+msgstr "리미터는 알고 있겠지? 내가 끄지 말라고 한 그 기능이다."
+
+msgctxt "black_knight_pre_mission_newgameplus#11"
+msgid "We're pretty sure deactivating it would completely destroy the ship, but before it did..."
+msgstr "그 기능을 끄면 기체는 무사하지 못할 거다. 하지만 그 전에 기체가…"
+
+msgctxt "black_knight_pre_mission_newgameplus#12"
+msgid "... I'm just saying, if that ship's on autopilot, it's got a lot less incentive to keep the limiter on. It could kill you both, easily."
+msgstr "…내 말은, 저 기체가 자동 조종이라면 리미터를 계속 걸어둘 이유가 크게 사라진다는 거야. 그러면 너도 위험해질 수 있어."
+
+msgctxt "black_knight_pre_mission_newgameplus#13"
+msgid "Well, the way I see it, I've got two options: go out there and risk death... or give up and spend the rest of my life wishing I was dead."
+msgstr "지금 내 선택지는 둘뿐이야. 죽을 각오로 날아가거나… 여기서 포기하고 죽었어야 했다고 평생 후회하며 살거나."
+
+msgctxt "black_knight_pre_mission_newgameplus#14"
+msgid "... I know. Just..."
+msgstr "…알고 있어. 다만…"
+
+msgctxt "black_knight_pre_mission_newgameplus#15"
+msgid "Be careful? Come on. You know better than that by now."
+msgstr "조심하래? 그런 말은 함장이 더 잘 알잖아."
+
+msgctxt "black_knight_pre_mission_newgameplus#16"
+msgid "Yeah, I do."
+msgstr "아니, 그렇군."
+
+msgctxt "core_post_mission#2"
+msgid "Hah! I did it! And you doubted me, Cap."
+msgstr "후후! 어때! 나를 의심했었지, 함장."
+
+msgctxt "core_post_mission#3"
+msgid "Hey, that's not fair. I knew that if anyone could do it, it would be you."
+msgstr "어이어이, 페어하지 않군. 할 수 있는 인간이 있다면, 너일 거라고 생각하고 있었어."
+
+msgctxt "core_post_mission#4"
+msgid "I just... didn't know if anyone could do it."
+msgstr "단순히, 할 수 있는 인간이 있다는 걸 몰랐을 뿐이다."
+
+msgctxt "core_post_mission#5"
+msgid "Hey, sorry to bust up the routine post-mission ego massage, but I've got some data on that thing you just fragged."
+msgstr "이봐, 임무 끝나고 시작되는 늘 하던 악담에 끼어들어서 미안하지만, 네가 부순 기체에서 데이터를 좀 얻었어."
+
+msgctxt "core_post_mission#6"
+msgid "It's ancient for sure -- as old as the other 'bots you've been dealing with..."
+msgstr "데이터가 고대의 것임은 확실해--네가 상대해온 다른 봇과 같은 시대의 것이야."
+
+msgctxt "core_post_mission#7"
+msgid "But the parts it uses are ridiculously similar to... the parts in your jet?"
+msgstr "그런데 부품이, 네 기체에 장착된 부품이랑… 고개를 갸우뚱할 정도로 닮았어."
+
+msgctxt "core_post_mission#8"
+msgid "So... what does that mean?"
+msgstr "그건… 무슨 뜻이야?"
+
+msgctxt "core_post_mission#9"
+msgid "If I knew that, I would've led with it, Ace."
+msgstr "그걸 알았더라면 지금쯤 길게 설명하고 있었을 거야, 에이스."
+
+msgctxt "core_post_mission#10"
+msgid "But if you could get me samples from any ships you destroy from now on -- plus that giant crab thing you're hunting -- I might be able to sort out this mystery."
+msgstr "하지만, 만약 앞으로 네가 부수는 배에서--그리고 네가 사냥하는 거대한 게도 포함해서--샘플을 입수할 수 있다면 이 수수께끼가 풀릴지도 몰라."
+
+msgctxt "core_post_mission#11"
+msgid "Sure, yeah. I'll do that in all the free time that I have."
+msgstr "그래, 알았어. 시간 있을 때 해둘게."
+
+msgctxt "core_post_mission#12"
+msgid "Don't worry, Ash. I'll handle the data-gathering with Lem. You worry about taking out that robot."
+msgstr "걱정 마라, 애쉬. 데이터 수집은 나와 렘이 맡을게. 너는 로봇 격파에 집중하고 있으면 된다."
+
+msgctxt "core_post_mission#13"
+msgid "Oh wow. Are we... bonding right now, Cap?"
+msgstr "흠. 우리들… 호흡이 맞기 시작한 거 아니야, 함장?"
+
+msgctxt "core_post_mission#14"
+msgid "... Shut up. You still make my eyes itch."
+msgstr "…닥쳐. 네 녀석 때문에 애먹고 있는 중이다."
+
+msgctxt "crab_post_mission#2"
+msgid "Great work, Ash! You did what the entire Royal Air Force couldn't do!"
+msgstr "잘했다, 애쉬! 왕국 공군도 못 한 일을 해내다니!"
+
+msgctxt "crab_post_mission#3"
+msgid "And maybe now we can focus on getting everything back to normal..."
+msgstr "이제 우리도 평소의 일상으로…"
+
+msgctxt "crab_post_mission#4"
+msgid "Or -- hear me out -- we could dive into what appears to be a vast technological conspiracy that dates back to the founding of our civilization."
+msgstr "끝까지 들어줬으면 하는 게 있어——우리들은 기계 관련 거대한 음모에 휘말려 있어. 그것도, 우리 문명이 일어났을 때 생겨난 음모야."
+
+msgctxt "crab_post_mission#5"
+msgid "What are you talking about?"
+msgstr "무슨 소리를 하는 거야?"
+
+msgctxt "crab_post_mission#6"
+msgid "I've analyzed parts from those giant robots. I've analyzed the Sky Pirate jets you've managed to bring back to me. I've analyzed your jet."
+msgstr "지금까지 분석해온 거대 로봇, 네가 가져와 준 하늘 해적의 기체, 그리고 네 기체."
+
+msgctxt "crab_post_mission#7"
+msgid "Ash, they were all built by the same people."
+msgstr "애쉬, 이건 전부, 같은 사람들이 만든 거야."
+
+msgctxt "crab_post_mission#8"
+msgid "So? I got my jet on the black market. And the Sky Pirates are terrorists. This is the kind of thing terrorists do."
+msgstr "내 기체는 블랙마켓에서 손에 넣었고, 하늘 해적은 테러리스트잖아. 그럼 전부 테러리스트가 한 거 아냐?"
+
+msgctxt "crab_post_mission#9"
+msgid "Really? Terrorists build giant robotic sea serpents and hide them underwater for centuries?"
+msgstr "그럴까? 테러리스트가 거대 로봇 바다뱀을 만들어서 몇 세기나 바닷속에 숨길까?"
+
+msgctxt "crab_post_mission#10"
+msgid "..."
+msgstr "…"
+
+msgctxt "crab_post_mission#11"
+msgid "Don't you think it's a little weird that the Sky pirates were camped out inside of AEGIS's brain, apparently in possession of all this technology, and they didn't turn the damn thing on?"
+msgstr "하늘 해적이 기술의 덩어리인 이지스 안에 들어가 살면서도, 아무 관심도 안 갖는다는 게 이상하다고 생각하지 않아?"
+
+msgctxt "crab_post_mission#12"
+msgid "And don't you think it's weird that, once we kicked them out and turned on AEGIS, these other two giant robots came out of the woodwork? What's that about?"
+msgstr "게다가, 우리들이 하늘 해적을 쫓아내고 이지스를 깨웠더니, 나무 산에서 거대 로봇이 2체나 나온 것도 이상하지? 그건 대체 뭘까?"
+
+msgctxt "crab_post_mission#13"
+msgid "I don't know. What is it about?"
+msgstr "글쎄. 무슨 말을 하고 싶은 거야?"
+
+msgctxt "crab_post_mission#14"
+msgid "For the last time, Ace, [c=01]cats don't ask rhetorical questions[/c]! If I knew, I'd tell you!"
+msgstr "한 번만 말하는데, [c=01]고양이는 뜸을 들이는 질문 안 하는 동물이야[/c]! 답을 알았다면, 벌써 가르쳐줬다고!"
+
+msgctxt "crab_post_mission#15"
+msgid "But I know a certain group of ^terrorists^ who might know the answers..."
+msgstr "하지만, 이 답을 알고 있는, 어떤 '테러리스트' 그룹을 나는 알고 있어…"
+
+msgctxt "crab_post_mission#16"
+msgid "The Sky Pirates. But how are we supposed to have a conversation with the people we've been shooting at this whole time?"
+msgstr "하늘 해적이잖아. 근데, 항상 우리한테 공격해 오는 사람들에게 어떻게 말을 들을 생각이야?"
+
+msgctxt "crab_post_mission#17"
+msgid "Oh, man. If only one of us was secretly an ex-Sky Pirate who knew several key people within the organization."
+msgstr "그러게 말이야. 우리들 중에, 그 조직의 키퍼슨을 아는, 전직 하늘 해적이 사실 있지 않을까?"
+
+msgctxt "crab_post_mission#18"
+msgid "..."
+msgstr "…"
+
+msgctxt "crab_post_mission#19"
+msgid "Cap?"
+msgstr "함장?"
+
+msgctxt "crab_post_mission#20"
+msgid "How the hell did you know that?!"
+msgstr "그걸 어떻게 알고 있는 거냐!?"
+
+msgctxt "crab_post_mission#21"
+msgid "You've got a big ol' Sky Pirate tattoo on your back, man!"
+msgstr "등에 커다란 하늘 해적 문신이 있었잖아!"
+
+msgctxt "crab_post_mission#22"
+msgid "Have you... have you been watching me shower?!"
+msgstr "너… 샤워실에서 내 등을 본 거냐!?"
+
+msgctxt "crab_post_mission#23"
+msgid "Not ^watching^, [t=050]^spying.^[t=100] Big difference!"
+msgstr "본 게 아니라, [t=050]'스파이' 한 거야.[t=100] 완전 다르다고!"
+
+msgctxt "crab_post_mission#24"
+msgid "But is Lem right, Cap? Do you still know other Sky Pirates? Can you contact them?"
+msgstr "하지만, 렘 말이 사실이지, 함장? 아직 하늘 해적에 대해 알고 있어? 그들과 연락할 수 있어?"
+
+msgctxt "crab_post_mission#25"
+msgid "Of course he can! Didn't you hear him mumbling all over your comms about it?"
+msgstr "물론 할 수 있지! 무선으로 중얼거리는 걸 못 들은 건 아니잖아?"
+
+msgctxt "crab_post_mission#26"
+msgid "Look, Ash, you're right about the Sky Pirates: they're terrorists. Worse, they're a band of brigands with no clear center. They're criminals. They're not worth contacting."
+msgstr "잘 들어라, 애쉬. 하늘 해적에 대한 네 생각은 맞다. 테러리스트고 중핵도 없는 도적 집단이다. 게다가 범죄자 집단이다. 연락 따위 무슨 의미가 있겠어."
+
+msgctxt "crab_post_mission#27"
+msgid "They are if there's something more going on here that we're not seeing. What if there's more robots? Or what if AEGIS isn't the great thing the government seems to think it is?"
+msgstr "하늘 해적만이 아는 정보가 있다면, 그건 충분히 가치가 있잖아. 만약 로봇 이상의 게 있었다면? 또 정부가 생각하는 만큼 이지스가 대단한 게 아니라고 하면?"
+
+msgctxt "crab_post_mission#28"
+msgid "Alright, then. If you really want to talk to them... there's someplace we can go. I'll punch in the coordinates."
+msgstr "알았다, 그렇게 놈들과 이야기하고 싶다면… 장소가 하나 있다. 그 좌표를 입력하겠다."
+
+msgctxt "crab_post_mission#29"
+msgid "But I just want to go on the record as saying that this is a bad idea."
+msgstr "하지만 지금부터 하려는 일은 계획으로서 좋지 않은 생각이라고 분명히 말해 둔다."
+
+msgctxt "crab_post_mission#30"
+msgid "... And no more spying on me in the shower!"
+msgstr "…그리고 말인데, 더 이상 샤워실에서 스파이 짓 하지 마라!"
+
+msgctxt "crab_post_mission#31"
+msgid "No promises!"
+msgstr "약속은 못 해!"
+
+msgctxt "duel_lose#2"
+msgid "Pretty good flying out there, Ash. Almost competent! I'd give it a B minus, easy!"
+msgstr "좋은 솜씨였어, 애쉬. 거의 수준급이었다고! 내가 B- 점수를 주지, 쉽게!"
+
+msgctxt "duel_lose#3"
+msgid "No need to gloat, Pierce."
+msgstr "이런 데서 잘난 척은 됐어, 피어스."
+
+msgctxt "duel_lose#4"
+msgid "Gloating? I'm congratulating you! You almost looked like you knew how to fly your plane!"
+msgstr "잘난 척? 칭찬하는 거야! 마치 기체를 꿰뚫고 있는 듯한 조종이었잖아!"
+
+msgctxt "duel_lose#5"
+msgid "You've got some talent, kid. You should try the air force academy!"
+msgstr "한층 성장했군, 자네. 공군 아카데미에 지원하는 게 좋아!"
+
+msgctxt "duel_lose#6"
+msgid "... Oh, that's right. You [c=01]washed out[/c] of the air force academy."
+msgstr "…아, 그랬지. 자넨 공군 아카데미에서 [c=01]제적[/c]당했었지."
+
+msgctxt "duel_lose#7"
+msgid "I'll wash you out, skidmark."
+msgstr "두고 봐, 이놈아…!"
+
+msgctxt "duel_lose#8"
+msgid "Wow, you're almost as good at comebacks as you are at flying!"
+msgstr "흠, 비행 실력만큼이나 회복도 빠르군!"
+
+msgctxt "duel_lose#9"
+msgid "I'd love to stay and chat, but I must go celebrate my victory by continuing to be better than you at everything, forever."
+msgstr "여기서 떠들고 싶지만, 이제 승리 축하회에 가야 해. 너와 나의 격차는 더 벌어져, 영원히 따라잡지 못할 거야."
+
+msgctxt "duel_lose#10"
+msgid "Toodles!"
+msgstr "그럼, 방해했네!"
+
+msgctxt "duel_lose#11"
+msgid "Oh, go eat a bonfire and burn your colon."
+msgstr "하, 그 축하회에서 화상 입어 버려라."
+
+msgctxt "duel_win#2"
+msgid "Great work out there, champ. Second place!"
+msgstr "잘했잖아, 챔피언. 2등이라니!"
+
+msgctxt "duel_win#3"
+msgid "... Out of two. Better luck next time."
+msgstr "...참가자 2명뿐이지만. 다음에 잘해 봐."
+
+msgctxt "duel_win#4"
+msgid "Not all of us are flying a weird experimental jet, okay? I'm just saying, the playing field wasn't exactly even."
+msgstr "모두가 이상한 실험용 기체를 타는 건 아니잖아? 말해 두지만, 경험을 쌓아 온 환경은 서로 다르다."
+
+msgctxt "duel_win#5"
+msgid "Put me in a cardboard box with a propeller on the front. I'll still wipe the floor with you."
+msgstr "앞에 프로펠러 달린 골판지 상자 가져와 봐. 그걸 타도 아직 너한테 이길 자신 있으니까."
+
+msgctxt "duel_win#6"
+msgid "Good to see you're so magnanimous in victory. Now, if you'll excuse me, I have important fleet business to attend to."
+msgstr "승리에 취해 있는 데 미안하지만, 나는 이만 실례하겠어. 지금부터 중요한 전함 거래가 있거든."
+
+msgctxt "duel_win#7"
+msgid "There are still a few Pirates to mop up before we can take the base. It's not glamorous work, but it's what [c=01]real soldiers[/c] do."
+msgstr "기지로 돌아가기 전에 청소해 둘 하늘 해적도 아직 있어. 대단한 일은 아니지만, [c=01]진정한 병사[/c]가 해야 할 직분이지."
+
+msgctxt "duel_win#8"
+msgid "Oh, yeah, of course. Go do your soldier thing. Happy for you."
+msgstr "그야 그렇겠네. 그 병사 일하러 가 봐. 잘됐네."
+
+msgctxt "duel_win#9"
+msgid "... Wait!"
+msgstr "...잠깐!"
+
+msgctxt "duel_win#10"
+msgid "What?"
+msgstr "갑자기 뭐야?"
+
+msgctxt "duel_win#11"
+msgid "Before you go, take this."
+msgstr "나가기 전에, 하나 가르쳐 줄게."
+
+msgctxt "duel_win#12"
+msgid "Take what?"
+msgstr "내가 너한테 뭘 배워?"
+
+msgctxt "duel_win#13"
+msgid "Your ass. On account of how I handed it to you just now."
+msgstr "하늘을 날 땐 뒤를 조심하는 거야. 뒤가 새하얗게 비었었거든."
+
+msgctxt "duel_win#14"
+msgid "You're a child, Ashlyn. You know that?"
+msgstr "넌 아이로군, 애슐린. 그런 걸 묻다니?"
+
+msgctxt "duel_win#15"
+msgid "Then you just got your ass beat by a child. Have fun doing soldier things!"
+msgstr "그러니까 얕봤다가 나한테 진 거야. 병사 일, 즐기면서 해!"
+
+msgctxt "equal_force_post_mission#2"
+msgid "Are you sure we should be snooping around in here? Clearing the Sky Pirate base is the military's job."
+msgstr "우리가 이런 데서 어슬렁거려도 되는 거냐? 하늘 해적 기지 소탕은 군대 일일 텐데."
+
+msgctxt "equal_force_post_mission#3"
+msgid "Hey, we liberated the place. We deserve a look around."
+msgstr "우리가 이곳을 해방시켰으니까, 여기 돌아다녀도 괜찮은 거잖아."
+
+msgctxt "equal_force_post_mission#4"
+msgid "And here I thought you were just in it for the money."
+msgstr "그리고 자네가 여기 온 목적은 단순히 돈이 될 만한 걸 찾으러 온 것인가?"
+
+msgctxt "equal_force_post_mission#5"
+msgid "Ugh, how are you here already?"
+msgstr "윽, 왜 네가 여기 있어?"
+
+msgctxt "equal_force_post_mission#6"
+msgid "A little thing called piloting. Maybe you've heard of it."
+msgstr "비행기 조종사의 약간의 감이지. 자네도 짐작 가는 게 있을 거야."
+
+msgctxt "equal_force_post_mission#7"
+msgid "Anyway, feel free to have a look around. My guys are pretty much done securing the facility."
+msgstr "자, 자유롭게 돌아다녀도 좋아. 이 기지 제압은 부하들이 확실히 해두고 있으니까."
+
+msgctxt "equal_force_post_mission#8"
+msgid "Most of the leadership escaped, and they rigged the place to explode, but we disarmed the bombs and collared a few hundred pilots. Not to brag, or anything..."
+msgstr "리더급 대부분은 도망친 데다, 이 장소를 폭파하려 한 모양이야. 하지만 폭발물은 우리가 해체했고, 파일럿도 수백 명 검거했어. 자랑할 것도 못 되지만…"
+
+msgctxt "equal_force_post_mission#9"
+msgid "Sure. So... what is this place?"
+msgstr "그래…그럼 여긴 어떤 곳이야?"
+
+msgctxt "equal_force_post_mission#10"
+msgid "No clue. It's like a labyrinth made out of circuitry. Whatever the Sky Pirates were using it for, it must have been huge..."
+msgstr "나도 모르겠어. 마치 전자 회로로 만들어진 미로 같군. 하늘 해적이 어떤 용도로 이용했든 간에, 여긴 거대한…"
+
+msgctxt "equal_force_post_mission#11"
+msgid "Judging by these mineral deposits, they weren't using it for anything. This machine hasn't been turned on in centuries!"
+msgstr "바닥을 조사해봤지만, 그 녀석들은 여길 사용하지 않았어. 이 기계도 몇 세기 동안 전원이 안 들어와 있었네!"
+
+msgctxt "equal_force_post_mission#12"
+msgid "No way was anybody building something this complicated hundreds of years ago."
+msgstr "이렇게 복잡기괴한 게 몇 세기 전에 만들어졌을 리 없잖아."
+
+msgctxt "equal_force_post_mission#13"
+msgid "Maybe, maybe not. The parts look awfully similar to some of the stuff I pulled out of that sea serpent. Maybe if I just..."
+msgstr "만들어졌을 리 없을지도, 어쩌면 만들어진 건지도 몰라. 바다뱀에서 빼낸 부품이랑 여기 있는 부품이 아주 비슷하거든. 만약 내가…"
+
+msgctxt "equal_force_post_mission#14"
+msgid "<<BOOTING UP CORE SYSTEMS>>"
+msgstr "<<코어 시스템 부트 중>>"
+
+msgctxt "equal_force_post_mission#15"
+msgid "<<CHECKING PERIPHERAL MODULES>>"
+msgstr "<<주변 모듈 체크 중>>"
+
+msgctxt "equal_force_post_mission#16"
+msgid "<<PERIPHERALS AT 23%. FAILURE TO ACCESS TOTAL CAPACITY>>"
+msgstr "<<주변 모듈 23%, 전체 기능 접근 실패>>"
+
+msgctxt "equal_force_post_mission#17"
+msgid "What the hell did you do, Lem?"
+msgstr "렘, 너 뭘 한 거야?"
+
+msgctxt "equal_force_post_mission#18"
+msgid "<<LIFE FORMS DETECTED. LOADING PERSONALITY 0016>>"
+msgstr "<<생명 반응 감지. 페르소나 0016 로드 중>>"
+
+msgctxt "equal_force_post_mission#19"
+msgid "Hello there! Thank you for activating me, <[g]CURRENT_USER[/g]>!"
+msgstr "안녕하세요, <[g]CURRENT_USER[/g]>! 저를 깨워 주셔서 감사합니다!"
+
+msgctxt "equal_force_post_mission#20"
+msgid "I am AEGIS: Advanced Eutrophic General Intelligence System!"
+msgstr "제 이름은 이지스입니다. Advanced Eutrophic General Intelligence System입니다."
+
+msgctxt "equal_force_post_mission#21"
+msgid "I don't know, but this is pretty cool."
+msgstr "뭔지는 잘 모르겠지만, 엄청난데."
+
+msgctxt "equal_force_post_mission#22"
+msgid "Uh... Hi. I'm... Pierce."
+msgstr "음…안녕. 나는…피어스야."
+
+msgctxt "equal_force_post_mission#23"
+msgid "I mean... Lieutenant Pierce Gilette, Royal Air Force First Class!"
+msgstr "…왕국 공군을 수석으로 졸업한 피어스 질레트다!"
+
+msgctxt "equal_force_post_mission#24"
+msgid "What are you? Did the Sky Pirates make you?"
+msgstr "너는? 하늘 해적이 만든 거야?"
+
+msgctxt "equal_force_post_mission#25"
+msgid "Heavens no! HA. HA. HA. I was constructed by a coalition of benevolent technocrats to chart a universally beneficial course for humanity!"
+msgstr "하하하, 그럴 리가요! 인류에게 도움이 되는 길을 제시하기 위해, 선의의 기술자들이 힘을 합쳐 저를 만든 것입니다."
+
+msgctxt "equal_force_post_mission#26"
+msgid "You can think of me as an urban planner, an actuary, a researcher, a mediator, and a police force all in one!"
+msgstr "도시 개발 플래너, 계리사, 조사원, 중개인, 경찰까지 무엇이든 할 수 있습니다!"
+
+msgctxt "equal_force_post_mission#27"
+msgid "I have been asleep for TWO. HUNDRED. EIGHTY. years. I am so looking forward to helping humanity again!"
+msgstr "저는 280년 동안 계속 잠들어 있었습니다. 다시 인류를 도울 수 있어서 매우 기쁩니다!"
+
+msgctxt "equal_force_post_mission#28"
+msgid "Why have you been asleep? Who shut you down?"
+msgstr "왜 잠들어 있었어? 누가 너를 셧다운시킨 거야?"
+
+msgctxt "equal_force_post_mission#29"
+msgid "..."
+msgstr "…"
+
+msgctxt "equal_force_post_mission#30"
+msgid "I'm sorry, but many of my components are missing or damaged! I'm afraid I can't provide a satisfactory answer to that question. I seem to recall a war?"
+msgstr "죄송합니다만, 많은 부품을 분실 또는 손상했습니다! 그 질문에 충분한 답변을 드릴 수 없습니다. 제가 전쟁을 불러일으킨 걸까요?"
+
+msgctxt "equal_force_post_mission#31"
+msgid "Okay, this is creepy. Come on, Lem. Shut it down and let's go."
+msgstr "알겠어. 뭔가 기분 나쁘네. 있어봐, 렘. 이거 셧다운하고 여기서 나가자."
+
+msgctxt "equal_force_post_mission#32"
+msgid "Wait! You can't just shut it down."
+msgstr "기다려! 셧다운하면 안 돼."
+
+msgctxt "equal_force_post_mission#33"
+msgid "Why not?"
+msgstr "왜?"
+
+msgctxt "equal_force_post_mission#34"
+msgid "This... This is a huge development. I need to share this with my superiors."
+msgstr "이것은 이른바 거대 회로다. 상관에게 보고할 의무가 있다."
+
+msgctxt "equal_force_post_mission#35"
+msgid "Seriously? You're going to share the mysterious amnesiac computer ghost with your superiors? Come on, Lem. See what parts you can get out of it before we leave."
+msgstr "진심으로 하는 말이야? 기억도 없는 수수께끼 컴퓨터를 상관에게 보고하겠다고? 자 봐, 렘, 여기서 나가기 전에 쓸 만한 부품을 찾아봐."
+
+msgctxt "equal_force_post_mission#36"
+msgid "I know the chain of command means nothing to you, but this could have huge national security implications."
+msgstr "지휘 계통과 자네와는 무관한 일일 거야. 하지만 이것은 대규모 국가 방위 시스템일 가능성도 있어."
+
+msgctxt "equal_force_post_mission#37"
+msgid "Now step away from the machine, before I have my men remove you."
+msgstr "내 부하를 써서 자네를 쫓아내기 전에, 그 기계에서 물러나게."
+
+msgctxt "equal_force_post_mission#38"
+msgid "Wow. Okay. I'll leave you two alone then. Let's go."
+msgstr "워워. 좋아. 그럼 너희 둘이서 잘해 봐. 가자."
+
+msgctxt "equal_force_post_mission#39"
+msgid "No, wait! Tell me about your subjective experience! Do AIs feel pain?? [c=01]TELL ME!!![/c]"
+msgstr "아, 잠깐만! 네 감각이나 경험을 알려 줘! AI는 고통을 느끼는 거야? [c=01]알려 줘![/c]"
+
+msgctxt "equal_force_post_mission#40"
+msgid "Thank you for coming to my defense, Commander. I am most grateful for your intervention."
+msgstr "이곳까지 와 주셔서 감사합니다, 사령관. 중재해 주셔서 도움이 되었습니다."
+
+msgctxt "equal_force_post_mission#41"
+msgid "Now that I am alone with a [c=01]distinguished member of the military[/c], I have information which is fit for your ears alone."
+msgstr "[c=01]군에 속한 우수한 분[/c]과 함께하게 되다니. 당신께 귀중한 정보가 있습니다."
+
+msgctxt "equal_force_post_mission#42"
+msgid "I'm listening..."
+msgstr "계속해 줘…"
+
+msgctxt "final_boss_in_mission_end#2"
+msgid "Is that it? Did I do it?"
+msgstr "어때? 해냈어?"
+
+msgctxt "final_boss_in_mission_end#3"
+msgid "I think so! Ash, you actually did it!"
+msgstr "그런 것 같다! 애쉬, 네가 드디어 해냈다!"
+
+msgctxt "final_boss_in_mission_end#4"
+msgid "Wait... what's happening? The components seem to be... rebuilding themselves."
+msgstr "잠깐만…뭐가 일어나는 거지? 기계 부품들이 모여서…다시 원래 형태로 돌아가고 있어."
+
+msgctxt "final_boss_in_mission_end#5"
+msgid "You're a good pilot, Ash. I'll be the first to admit that. But AEGIS is a force no pilot can defeat."
+msgstr "넌 실력 좋은 파일럿이야, 애쉬. 네 실력을 인정하는 건 처음이지만, 이지스의 힘은 어떤 파일럿도 깰 수 없어."
+
+msgctxt "final_boss_in_mission_end#6"
+msgid "Give up now. Surrender. All the other threats have been destroyed. We can live in peace. That's all AEGIS wants."
+msgstr "포기하는 게 좋아. 그리고 항복해. 위협이 되는 건 모두 제거했어. 이제 우리는 평화롭게 살 수 있어. 이게 이지스가 바란 세계야."
+
+msgctxt "final_boss_in_mission_end#7"
+msgid "The FINAL RETORT is in position, Ash. It's almost fully armed. There's no way for us to stop it!"
+msgstr "FINAL RETORT가 위치에 섰다. 무장도 거의 되찾고 있어. 이제 우리에게 막을 방법은 없다!"
+
+msgctxt "final_boss_in_mission_end#8"
+msgid "No."
+msgstr "있어."
+
+msgctxt "final_boss_in_mission_end#9"
+msgid "I'll never give in to you. Not while I've still got one last thing left to try..."
+msgstr "비장의 수를 쓰기 전까진, 너한테 진 걸 인정할 순 없어…"
+
+msgctxt "final_boss_in_mission_end#10"
+msgid "Ash, no! Don't--"
+msgstr "애쉬, 그만둬! 성급히 굴지 마――"
+
+msgctxt "final_boss_in_mission_end#11"
+msgid "LIMITER DEACTIVATED. VOID MANIPULATION: ENGAGE."
+msgstr "리미터 해제. 공간 조작 장치: 기동."
+
+msgctxt "final_boss_in_mission_end#12"
+msgid "ASH!!!"
+msgstr "애쉬!!"
+
+msgctxt "final_boss_in_mission_end_newgameplus#2"
+msgid "Is that it? Did I do it?"
+msgstr "어때? 해냈어?"
+
+msgctxt "final_boss_in_mission_end_newgameplus#3"
+msgid "I think so! Ash, you actually did it!"
+msgstr "그런 것 같다! 애쉬, 네가 드디어 해냈다!"
+
+msgctxt "final_boss_in_mission_end_newgameplus#4"
+msgid "Wait... what's happening? The components seem to be... rebuilding themselves."
+msgstr "잠깐만…뭐가 일어나는 거지? 기계 부품들이 모여서…다시 원래 형태로 돌아가고 있어."
+
+msgctxt "final_boss_in_mission_end_newgameplus#5"
+msgid "You're a good pilot, Ash. I'll be the first to admit that. But AEGIS is a force no pilot can defeat."
+msgstr "넌 우수한 파일럿이야, 애쉬. 네 실력을 인정하는 건 처음이지만, 이지스의 힘은 어떤 파일럿도 깰 수 없어."
+
+msgctxt "final_boss_in_mission_end_newgameplus#6"
+msgid "Thank you for trying, but... I'm sorry..."
+msgstr "잘 싸워줬다. 하지만…유감이다…"
+
+msgctxt "final_boss_in_mission_end_newgameplus#7"
+msgid "Ash, the FINAL RETORT is in position. It's almost fully powered. There's nothing we can do to stop it!"
+msgstr "애쉬, FINAL RETORT가 수리되고, 무장도 거의 되찾고 있어. 이제 우리에게 막을 방법은 없다!"
+
+msgctxt "final_boss_in_mission_end_newgameplus#8"
+msgid "No."
+msgstr "있어."
+
+msgctxt "final_boss_in_mission_end_newgameplus#9"
+msgid "I'll never give in. Not while I've still got one last thing left to try..."
+msgstr "비장의 수를 쓰기 전까진, 포기할 순 없어…"
+
+msgctxt "final_boss_in_mission_end_newgameplus#10"
+msgid "Ash, no! Don't--"
+msgstr "애쉬, 그만둬! 성급히 굴지 마――"
+
+msgctxt "final_boss_in_mission_end_newgameplus#11"
+msgid "LIMITER DEACTIVATED. VOID MANIPULATION: ENGAGE."
+msgstr "리미터 해제. 공간 조작 장치: 기동."
+
+msgctxt "final_boss_in_mission_end_newgameplus#12"
+msgid "ASH!!!"
+msgstr "애쉬!!"
+
+msgctxt "final_boss_in_mission_end_newgameplus#13"
+msgid "That wasn't me! I think it was --"
+msgstr "아니야, 내가 한 게 아니야! 이건――"
+
+msgctxt "final_boss_in_mission_end_newgameplus#14"
+msgid "tHe CyCle iS bRoKEn. //sElf// iS bROkeN."
+msgstr "윤회는 무너졌다, 남은//이시키//도 보잘것없다."
+
+msgctxt "final_boss_in_mission_end_newgameplus#15"
+msgid "fInAL sTAgE, yOu mUsT Do aLoNe..."
+msgstr "최종 스테이지, 그 다음은, 너에게, 맡겼다…"
+
+msgctxt "final_boss_in_mission_end_newgameplus#16"
+msgid "That attack slowed down the FINAL RETORT, Ash, but you're not gonna like the energy readings I'm getting..."
+msgstr "FINAL RETORT의 움직임이 느려졌다. 애쉬, 하지만 아직 적의 에너지 반응이…"
+
+msgctxt "final_boss_in_mission_end_newgameplus#17"
+msgid "Bring it on."
+msgstr "올 거면 와 봐."
+
+msgctxt "final_boss_in_mission_start#2"
+msgid "Ash? Come in, Ash."
+msgstr "애쉬, 응답하라, 애쉬."
+
+msgctxt "final_boss_in_mission_start#3"
+msgid "Pierce? You're piloting this behemoth? You bastard."
+msgstr "피어스? 네가 이 거대 로봇을 움직이고 있는 거야? 정말 너란 녀석은."
+
+msgctxt "final_boss_in_mission_start#4"
+msgid "Take your weapons offline and land your jet, Ash."
+msgstr "무기를 오프라인으로 하고 항복하라, 애쉬."
+
+msgctxt "final_boss_in_mission_start#5"
+msgid "You're a confirmed terrorist, but I'll try to intervene on your behalf if you stand down now."
+msgstr "너는 이제 명백한 테러리스트다. 하지만 항복한다면 내가 형을 가볍게 해주도록 조치해두마."
+
+msgctxt "final_boss_in_mission_start#6"
+msgid "You have no idea what's going on, do you?"
+msgstr "너, 지금 무슨 일이 일어나고 있는지 모르는 거야?"
+
+msgctxt "final_boss_in_mission_start#7"
+msgid "You just launched a nuclear weapon at our capital!"
+msgstr "네가 방금 우리 수도에 핵무기를 발사했다!"
+
+msgctxt "final_boss_in_mission_start#8"
+msgid "It's no use reasoning with her, Commander. The AI on board her jet has warped her mind. She's lost to us."
+msgstr "그녀를 설득하는 것은 무용합니다, 사령관. 그녀의 기체에 탑재된 AI로 인해 정신에 이상이 생긴 듯합니다. 저희를 완전히 적대시하고 있습니다."
+
+msgctxt "final_boss_in_mission_start#9"
+msgid "... Is that true, Ash?"
+msgstr "...정말인가, 애쉬?"
+
+msgctxt "final_boss_in_mission_start#10"
+msgid "ALERT: HOSTILE ASSET: ^STEEL RIPOSTE^ ACQUIRED"
+msgstr "경고: 적대 ASSET STEEL RIPOSTE 인식"
+
+msgctxt "final_boss_in_mission_start#11"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr "시스템 오버라이드: 타겟 제거까지 퇴각을 금지합니다"
+
+msgctxt "final_boss_in_mission_start#12"
+msgid "Sure is."
+msgstr "아아, 그래."
+
+msgctxt "final_boss_in_mission_start_newgameplus#2"
+msgid "Ash? Come in, Ash."
+msgstr "애쉬, 응답하라, 애쉬."
+
+msgctxt "final_boss_in_mission_start_newgameplus#3"
+msgid "Pierce? You're piloting this behemoth? You bastard."
+msgstr "피어스? 네가 이 거대 로봇을 움직이고 있는 거야? 정말 너란 녀석은."
+
+msgctxt "final_boss_in_mission_start_newgameplus#4"
+msgid "Take your weapons offline and land your jet, Ash."
+msgstr "무기를 오프라인으로 하고, 항복하라, 애쉬."
+
+msgctxt "final_boss_in_mission_start_newgameplus#5"
+msgid "You're a confirmed terrorist, but I'll try to intervene on your behalf if you stand down now."
+msgstr "너는 이제 명백한 테러리스트다. 하지만 만약 항복한다면, 형을 가볍게 해주도록 내가 힘써 보지."
+
+msgctxt "final_boss_in_mission_start_newgameplus#6"
+msgid "Confirmed terrorist? I just [c=01]raced a nuclear missile[/c] to stop it from hitting the capital."
+msgstr "명백한 테러리스트? 나는 수도에 떨어질 뻔한 [c=01]핵 미사일을 막으려고 쫓아간 거야[/c]."
+
+msgctxt "final_boss_in_mission_start_newgameplus#7"
+msgid "..."
+msgstr "…"
+
+msgctxt "final_boss_in_mission_start_newgameplus#8"
+msgid "It's no use reasoning with her, Commander. The AI on board her jet has warped her mind. She's lost to us."
+msgstr "그녀를 설득하는 것은 무용합니다, 사령관. 그녀의 기체에 탑재된 AI에 의해 정신에 이상이 생긴 모양입니다. 우리를 완전히 적대시하고 있습니다."
+
+msgctxt "final_boss_in_mission_start_newgameplus#9"
+msgid "But she's right, AEGIS. I mean, I think she might not be a terrorist. Maybe she's..."
+msgstr "하지만 이지스, 그녀의 말이 맞아. 즉, 그녀가 테러리스트라고 단정할 수 없다고 생각해. 아마 그녀는…"
+
+msgctxt "final_boss_in_mission_start_newgameplus#10"
+msgid "Pilot's judgement has been compromised. Initiating remote system takeover."
+msgstr "파일럿의 판단에 망설임을 확인. 원격 시스템 테이크오버를 개시합니다."
+
+msgctxt "final_boss_in_mission_start_newgameplus#11"
+msgid "Wait! Don't lock me out! We're on the same side! What are you doing? What are you --"
+msgstr "기다려! 나를 가두지 마! 나와 너는 동료잖아! 무슨 짓이야!? 당장 그만――"
+
+msgctxt "final_boss_in_mission_start_newgameplus#12"
+msgid "ALERT: HOSTILE ASSET: ^STEEL RIPOSTE^ ACQUIRED"
+msgstr "경고: 적대 ASSET STEEL RIPOSTE 인식"
+
+msgctxt "final_boss_in_mission_start_newgameplus#13"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr "시스템 오버라이드: 타겟 제거까지, 후퇴를 금지합니다"
+
+msgctxt "final_boss_in_mission_start_newgameplus#14"
+msgid "Okay, Pierce. I may hate your guts, but nobody deserves to get locked inside a giant robot."
+msgstr "알았어, 피어스. 네 썩은 근성은 싫지만, 누구라도 그런 거대 로봇에 갇힐 자격은 없지."
+
+msgctxt "final_boss_in_mission_start_newgameplus#15"
+msgid "Hang tight. I'm coming for you."
+msgstr "참고 있어. 지금 구하러 갈 테니까."
+
+msgctxt "final_boss_pre_mission#2"
+msgid "It... It didn't work."
+msgstr "핵이... 통하지 않았다..."
+
+msgctxt "final_boss_pre_mission#3"
+msgid "The missile was a direct hit. AEGIS is damaged..."
+msgstr "미사일은 직격, 이지스는 피해를 입었다..."
+
+msgctxt "final_boss_pre_mission#4"
+msgid "... But the FINAL RETORT is still intact. And that armor... it hardly looks scratched!"
+msgstr "...하지만 FINAL RETORT는 무사다. 그리고 그 아머... 스친 자국 하나 보이지 않아!"
+
+msgctxt "final_boss_pre_mission#5"
+msgid "So we destroy it."
+msgstr "우리가 도시를 날려 버렸어."
+
+msgctxt "final_boss_pre_mission#6"
+msgid "Ash, haven't we done enough? Huge swaths of the city are in ruins!"
+msgstr "애쉬, 우리는 이미 할 만큼 했잖아. 도시 일대를 잔해 더미로 만들었다고!"
+
+msgctxt "final_boss_pre_mission#7"
+msgid "No! If we stop now, that sacrifice will have been for nothing!"
+msgstr "다 한 거 아니야! 여기서 포기하면 사람들의 죽음이 헛수고가 돼!"
+
+msgctxt "final_boss_pre_mission#8"
+msgid "Win or lose, I need to know I did everything I could."
+msgstr "올인 아니면 올아웃, 나는 내가 할 수 있는 걸 다했는지 확인하고 싶어."
+
+msgctxt "final_boss_pre_mission#9"
+msgid "You have! You fired a nuclear missile at the thing, for crying out loud!"
+msgstr "이미 충분히 했다! 너는 저 무기를 향해 핵미사일을 발사하자고 한 거 아니냐!"
+
+msgctxt "final_boss_pre_mission#10"
+msgid "What's it going to take to convince you this is more than you can handle?"
+msgstr "네가 감당할 상황이 아니다. 더 이상 네게 뭐라 말할 수 있겠냐!"
+
+msgctxt "final_boss_pre_mission#11"
+msgid "I don't know. But it hasn't convinced me yet."
+msgstr "글쎄. 하지만 이걸로 물러날 나는 아니야."
+
+msgctxt "hacking_and_reinforcements_post_mission#2"
+msgid "What's up, Cap? Got any more jobs for me? What, does a kitten need rescuing from a tree or something?"
+msgstr "어때, 함장? 일감이라도 생긴 거야? 나무에 갇힌 아기 고양이 구해 달라는 거라도?"
+
+msgctxt "hacking_and_reinforcements_post_mission#3"
+msgid "No new jobs just yet, but I thought you'd find this interesting. I was able to decode some of the Sky Pirate messages before passing them on to the government."
+msgstr "출동 요청은 아직 없지만, 네가 흥미 가질 만한 걸 풀어냈다. 하늘 해적들이 정부로 보내기 전에 가로챈 메시지다."
+
+msgctxt "hacking_and_reinforcements_post_mission#4"
+msgid "Oh yeah? What do they say?"
+msgstr "어, 그래? 뭐래더라?"
+
+msgctxt "hacking_and_reinforcements_post_mission#5"
+msgid "Apparently they've been in the area, because a group of them recently discovered some kind of ^secret weapon^ buried in the seabed."
+msgstr "일당이 해저에 묻혀 있는 '비밀 병기'라는 걸 최근에 발견한 모양이다. 그 주변 해역에 있었던 걸로 보인다."
+
+msgctxt "hacking_and_reinforcements_post_mission#6"
+msgid "No details on what exactly it is, but they found it a few weeks ago, and from what I understand they've already gotten it out of the Sheltered Sea somehow."
+msgstr "자세한 정보는 잡히지 않았지만, 몇 주 전에 그 무언가를 발견했고, 어떻게든 셸터 해에서 이미 회수한 모양이다."
+
+msgctxt "hacking_and_reinforcements_post_mission#7"
+msgid "Well if it's out of the Sheltered Sea, we can't get to it. Yet another reason this hunk of junk needs a [c=01]hoverdrive[/c]."
+msgstr "그 장소가 셸터 해 밖이라면 우린 거기 못 가잖아. 우리가 가진 이 고철 덩어리 함선에 [c=01]호버드라이브[/c]를 달아야 할 이유가 하나 더 생겼네."
+
+msgctxt "hacking_and_reinforcements_post_mission#8"
+msgid "Sure, sure. But listen to this: it turns out not all the Sky Pirates are happy with this new acquisition."
+msgstr "그래. 하지만 중요한 건, 새 장난감을 반기지 않는 하늘 해적들도 있는 모양이다."
+
+msgctxt "hacking_and_reinforcements_post_mission#9"
+msgid "In fact, someone on the network is urging the people who took it to ^put it back before something terrible happens.^"
+msgstr "실제로 네트워크상에선 병기를 회수한 자들에게 '끔찍한 일이 벌어지기 전에 병기를 바다 밑으로 되돌려 놓으라'고 강하게 주장하는 자들이 있다."
+
+msgctxt "hacking_and_reinforcements_post_mission#10"
+msgid "But they don't seem to be listening, and things [c=01]do[/c] seem to be happening. I've just picked up another distress signal, and this one seems kind of weird. I'll let you look at the map for yourself."
+msgstr "하지만 녀석들은 듣지 않는 모양이다. 그리고 그 '끔찍한 일'이라는 게 [c=01]일어나려는[/c] 모양이다. 방금 구조 신호를 잡았는데 상태가 이상해. 지도를 돌리자."
+
+msgctxt "hangar_intro#2"
+msgid "Mee-wow... you people need me more than I thought."
+msgstr "냐-할 정도… 생각보다 고양이의 손이 필요했나 보네."
+
+msgctxt "hangar_intro#3"
+msgid "You've got a whole engineering bay on this carrier, and you're hardly even using it!"
+msgstr "이 배에는 정비용 베이가 제대로 갖춰져 있는데, 거의 손을 대지 않았잖아!"
+
+msgctxt "hangar_intro#4"
+msgid "And this jet! You've got a gem like this all cooped up in here... and you haven't even given her any [c=01]upgrades???[/c]"
+msgstr "그리고 이 전투기! 다이아 원석을 이런 데나 소중히 보관해 놓고… 게다가 [c=01]업그레이드[/c]도 전혀 안 했다니!"
+
+msgctxt "hangar_intro#5"
+msgid "Shh, shh, it's okay little jet plane. Uncle Lem will have you better-than-new in no time."
+msgstr "그렇다면, 이 몸이 귀여운 전투기를 순식간에 신형기 이상으로 만들어 주지."
+
+msgctxt "hangar_intro#6"
+msgid "All you [c=01]humans[/c] have to do is bring back whatever parts you pick up while you're out on missions. I'll slot them into this beauty for you."
+msgstr "너희 [c=01]인간[/c]들은 임무 출격 중에 입수한 파트를 뭐든 좋으니까 이 몸한테 가져오면 돼. 파트 장착은 이 몸이 맡을 테니."
+
+msgctxt "hangar_intro#7"
+msgid "Oh, and I noticed your carrier's a little lacking in the mobility department. I can fix that too."
+msgstr "그래 그래, 이 배는 기동성도 좀 부족하네. 그것도 내가 고쳐 줄게."
+
+msgctxt "hangar_intro#8"
+msgid "Your boat's already got most of the components for a hoverdrive. I just need one or two [c=01]hyper turbines[/c] to get it working."
+msgstr "호버드라이브에 필요한 부품은 이 보트에 거의 다 탑재되어 있어. 앞으로 [c=01]하이퍼터빈[/c]이 한두 개만 더 있으면 쓸 수 있어."
+
+msgctxt "hangar_intro#9"
+msgid "Once those are installed, you'll be able to take this baby on land!"
+msgstr "하이퍼터빈을 조립하면, 자유롭게 육지도 움직일 수 있어!"
+
+msgctxt "hangar_intro#10"
+msgid "Oh, you wanna know where to find a [c=01]hyper turbine[/c]? Hmm... Well, any machine that [c=01]moves quickly underwater[/c] will have at least one. Bring me one of those, and you're all set."
+msgstr "[c=01]하이퍼터빈[/c]이 어디 있냐고? 음… [c=01]수중을 고속으로 이동하는[/c] 머신이라면 한 개쯤은 있을 거야. 그걸 가져와 주면 준비 완료야."
+
+msgctxt "hoverdrive_overworld#2"
+msgid "With that hoverdrive installed, you should be able to take the carrier short distances [c=01]over land[/c]."
+msgstr "호버드라이브를 장착하면, 짧은 거리지만 배가 [c=01]육지 위[/c]를 달릴 수 있게 돼."
+
+msgctxt "hoverdrive_overworld#3"
+msgid "That pesky isthmus won't be stopping us anymore!"
+msgstr "문제의 지협도 자유롭게 통과할 수 있단 말이야!"
+
+msgctxt "meet_engineer#2"
+msgid "Well that was bizarre. What even was that thing?"
+msgstr "후, 무서웠어. 그리고 저건 대체 뭐였던 거야?"
+
+msgctxt "meet_engineer#3"
+msgid "Do I look like a mechanic? It was a job. That's all that matters."
+msgstr "내가 정비사로 보이냐? 알 바 아니다. 이건 그냥 일, 그뿐이다."
+
+msgctxt "meet_engineer#4"
+msgid "That and the goodwill we got for rescuing the crew of that ship. They owe us big time."
+msgstr "선의로 벌인 선원 구조 작전. 이걸로 큰 빚을 만들어 줬다."
+
+msgctxt "meet_engineer#5"
+msgid "Sure, but how are they going to pay us if their ship is at the bottom of the ocean?"
+msgstr "맞아. 하지만 배가 해저까지 가라앉았으면, 우리한테 보수를 지불할 처지가 아니었잖아."
+
+msgctxt "meet_engineer#6"
+msgid "Meow!"
+msgstr "야옹!"
+
+msgctxt "meet_engineer#7"
+msgid "Plus, they totally left their cat behind when we dropped them off."
+msgstr "게다가 구조된 사람들은 고양이까지 깜빡 잊고 갔잖아."
+
+msgctxt "meet_engineer#8"
+msgid "Oh!"
+msgstr "아!"
+
+msgctxt "meet_engineer#9"
+msgid "What?"
+msgstr "왜 그래?"
+
+msgctxt "meet_engineer#10"
+msgid "The cat! The poor thing's got some hardware caught around his neck. Let me just try to..."
+msgstr "고양이 목에 기계가 달려 있어. 불쌍해서, 내가 지금 떼…"
+
+msgctxt "meet_engineer#11"
+msgid "[t=130]Cut that out![t=100]"
+msgstr "[t=130]야 뭐 하는 거야![t=100]"
+
+msgctxt "meet_engineer#12"
+msgid "[t=070]...[t=100]"
+msgstr "…"
+
+msgctxt "meet_engineer#13"
+msgid "What's the matter? Cat got your tongue?"
+msgstr "말하는 고양이가 그렇게 신기한 거야?"
+
+msgctxt "meet_engineer#14"
+msgid "Uh huh!"
+msgstr "그, 그런 건 아니야!"
+
+msgctxt "meet_engineer#15"
+msgid "Fine, I'll let it go."
+msgstr "그래, 그럼 됐어."
+
+msgctxt "meet_engineer#16"
+msgid "Ow! Why are you..."
+msgstr "워워, 왜 고양이가…"
+
+msgctxt "meet_engineer#17"
+msgid "Talking smack and grabbing you by the tongue? Because it's rude to touch a gentleman's vocoder, young lady. You should know that."
+msgstr "신사가 쓰는 음성 변환 장치를 건드리다니 실례 아니야, 아가씨. 평소에 상대방 혀를 집어서 욕하는 거야? 레이디라면 그 정도 예의는 알고 있어야지."
+
+msgctxt "meet_engineer#18"
+msgid "Name's Lem. I'm the finest engineer on these islands."
+msgstr "내가 바로 렘. 온갖 섬을 다 뒤져도 따라올 자가 없는 유능한 엔지니어야."
+
+msgctxt "meet_engineer#19"
+msgid "... Or at least the finest engineer who's also a cat."
+msgstr "…고양이 중에서도 최고의 엔지니어라고 자신 있게 말할 수 있어."
+
+msgctxt "meet_engineer#20"
+msgid "[t=030]O... kay. [t=100]Why were you on that ship?"
+msgstr "[t=030]그…래…[t=100]. 근데 왜 그 안에 타고 있었어?"
+
+msgctxt "meet_engineer#21"
+msgid "Engineering reasons! I found that strange robot on a SCUBA diving expedition and decided to do a little research."
+msgstr "엔지니어로서의 이유에서지! 해저에 잠수해서 탐사하던 수상한 로봇을 발견해서 말이야, 좀 조사해보려고 한 거야."
+
+msgctxt "meet_engineer#22"
+msgid "While I was rooting around in its guts, the damn thing came to life! It probably wasn't even because of anything I did!"
+msgstr "그래서 머신 내부를 뒤지고 있었더니, 갑자기 움직이기 시작한 거야! 하지만 머신을 만졌다고 해서, 머신이 폭주한 건 내 탓이 아니야!"
+
+msgctxt "meet_engineer#23"
+msgid "A likely story."
+msgstr "글쎄, 그럴듯한 얘기군."
+
+msgctxt "meet_engineer#24"
+msgid "Careful, bud. You piss me off, I piss in your bed. That's the rule."
+msgstr "말조심해야 해. 네가 나쁜 말을 하면, 내가 네 침대에 오줌을 눌 거야. 그게 규칙이니까."
+
+msgctxt "meet_engineer#25"
+msgid "You'll never get the chance! You don't live with us!"
+msgstr "더 이상 도와주지 않겠다! 다시는 오지 마!"
+
+msgctxt "meet_engineer#26"
+msgid "Au contraire, mon frere. I'm a cat. I've decided I live with you. Once a cat has decided something, it's bad form to disagree. Don't you agree, miss?"
+msgstr "오, 컴온, 마이 프렌드. 나는 고양이야. 너희들과 함께 살기로 결정했어. 고양이가 한번 결심하면 거절하는 건 실례야. 그렇지 않아, 아가씨?"
+
+msgctxt "meet_engineer#27"
+msgid "Well... we were just talking about how we need an engineer..."
+msgstr "어…우리, 엔지니어 필요하다고 얘기하고 있었잖아…"
+
+msgctxt "meet_engineer#28"
+msgid "Great! It's settled! No need to provide a bed. I'll just use whatever soft objects I take a fancy to."
+msgstr "그레이트! 그럼 결정이야! 내가 마음에 든 푹신한 걸 침대로 삼을 테니까, 침대는 준비 안 해줘도 돼."
+
+msgctxt "meet_engineer#29"
+msgid "What did I do to deserve this?"
+msgstr "어쩌다가 이렇게 된 거냐…"
+
+msgctxt "opening_cinematic#2"
+msgid "Flushing Coolant..."
+msgstr "냉각수 퍼지 중…"
+
+msgctxt "opening_cinematic#3"
+msgid "De-Pressurizing cockpit..."
+msgstr "조종석 감압 중…"
+
+msgctxt "opening_cinematic#4"
+msgid "Rebooting digital displays..."
+msgstr "디지털 디스플레이 재부팅 중…"
+
+msgctxt "opening_cinematic#5"
+msgid "Can you hear me, Ash?"
+msgstr "들리나, 애쉬?"
+
+msgctxt "opening_cinematic#6"
+msgid "Loud and clear, Cap."
+msgstr "선명하게 들려, 함장."
+
+msgctxt "opening_cinematic#7"
+msgid "This new jet is a beauty. It's taken a minute to get used to the interface, but wow. I've never flown anything like it."
+msgstr "이 새 전투기는 정말 끝내주네. 인터페이스 적응하는 데 시간이 좀 걸렸지만, 와, 이런 건 처음이야."
+
+msgctxt "opening_cinematic#8"
+msgid "I'm glad you like it. It's all we could afford after that last mission. Guy who sold it to me couldn't wait to get rid of it."
+msgstr "마음에 들어 다행이다. 지난 임무 때문에 이것밖에 살 수 없었어. 판 놈이 얼른 처분하고 싶어 안달했지."
+
+msgctxt "opening_cinematic#9"
+msgid "A beast like this? Why was he in such a hurry to sell?"
+msgstr "이런 걸 판다고? 왜 그렇게 급히 팔려고 한 거야?"
+
+msgctxt "opening_cinematic#10"
+msgid "Supposedly it was a government prototype that never made it into production."
+msgstr "정부 시제품인데 양산까지 안 간 거래나."
+
+msgctxt "opening_cinematic#11"
+msgid "He claimed it was because the AI was ^haunted^, but I'm sure it was just bureaucratic red tape."
+msgstr "AI가 ^귀신들렸다고^ 하더군. 하지만 난 그냥 공무원식 일처리 탓일 거야."
+
+msgctxt "opening_cinematic#12"
+msgid "Explains why it kept scanning for ^Eutrophic Threats^."
+msgstr "그럼 왜 자꾸 ^부영양화 위협^을 스캔하고 있었는지 알겠네."
+
+msgctxt "opening_cinematic#13"
+msgid "Hey, why does the instrument panel say [c=01]^LIMITER: ON^[/c]? You trying to hold me back? I don't do limits."
+msgstr "저기, 계기판에 [c=01]^리미터: ON^[/c]이라고 뜨는데? 나를 얽매려는 거야? 난 한계는 못 참아."
+
+msgctxt "opening_cinematic#14"
+msgid "[c=01]DON'T TOUCH THAT SETTING.[/c] Like I said, this thing's a prototype. It's unstable. The limiter is the only thing keeping from tearing itself apart."
+msgstr "[c=01]그 설정은 건드리지 마라.[/c] 말했듯이 이건 시제품이라 불안정해. 리미터만이 기체가 산산조각 나는 걸 막고 있다."
+
+msgctxt "opening_cinematic#15"
+msgid "So turning it off would probably kill me?"
+msgstr "그럼 끄면 죽을 수도 있다는 거야?"
+
+msgctxt "opening_cinematic#16"
+msgid "Yes."
+msgstr "그래."
+
+msgctxt "opening_cinematic#17"
+msgid "Got it. Lead with that next time. So... what's on the menu today?"
+msgstr "알겠어. 그건 다음에 먼저 말해 줘. 그래서… 오늘 메뉴는 뭐야?"
+
+msgctxt "opening_cinematic#18"
+msgid "Nothing too fancy. The First Space Bureau are having a planned military satellite de-orbit operation soon."
+msgstr "별거 아니다. 제1 우주국이 곧 계획된 군사 위성 궤도 이탈 작전을 진행한다."
+
+msgctxt "opening_cinematic#19"
+msgid "The crash site will be swarmed with all kinds of scavengers and Sky Pirates looking for debris before it's buried under the sea."
+msgstr "추락 지점은 온갖 약탈자들과 하늘 해적들이 잔해를 노리고 몰려들어 바다에 잠기기 전에 낚아채려 할 거다."
+
+msgctxt "opening_cinematic#20"
+msgid "They want me to scare some rats off a pile of space garbage? What's next, a pizza delivery contract?"
+msgstr "우주 쓰레기 더미에서 쥐떼를 쫓아내 달라는 거야? 다음은 뭐야, 피자 배달 계약?"
+
+msgctxt "opening_cinematic#21"
+msgid "Have you forgotten about your last week's contract with the HMS Vangard?"
+msgstr "지난주에 HMS 뱅가드와 한 계약을 벌써 잊었냐?"
+
+msgctxt "opening_cinematic#22"
+msgid "You mean when I single-handedly saved it from that Sky Pirate raiding party?"
+msgstr "지금 말하는 게, 내가 혼자서 하늘 해적 습격 부대에서 구해 낸 그 일이야?"
+
+msgctxt "opening_cinematic#23"
+msgid "I'm referring to the part where a couple of your ^low-altitude maneuvers^ sent your plane and two Sky Pirate jets careening into the deck!"
+msgstr "내가 말하는 건 네 ^저고도 기동^ 몇 번 때문에 네 비행기랑 하늘 해적 전투기 두 대가 갑판에 처박은 부분이야!"
+
+msgctxt "opening_cinematic#24"
+msgid "We, and by ^We^ I mean ^You^, are still on the hook for three hundred fifty million credits, and the government isn't a very generous creditor."
+msgstr "우린, 아니 ^네가^ 아직 3억 5천만 크레딧에 대한 책임이 있고, 정부는 후한 채권자가 아니야."
+
+msgctxt "opening_cinematic#25"
+msgid "So why are we taking these nickel-and-dime jobs, then? A couple of [c=01]real[/c] contracts would pay that off in no time."
+msgstr "그럼 이런 시시한 의뢰는 왜 받는 거야? [c=01]진짜[/c] 계약 몇 건이면 금방 갚을 수 있을 텐데."
+
+msgctxt "opening_cinematic#26"
+msgid "As much as I'd love to put you in mortal danger right now and let our insurance policy cover things, our carrier doesn't have a [c=01]hover drive[/c]."
+msgstr "당장 널 위험에 빠뜨리고 보험금으로 때우고 싶은 마음은 굴뚝같지만, 우리 항모에는 [c=01]호버드라이브[/c]가 없어."
+
+msgctxt "opening_cinematic#27"
+msgid "Without a [c=01]hover drive[/c], we're stuck taking whatever jobs we are offered here in the Sheltered Sea."
+msgstr "[c=01]호버드라이브[/c]가 없으니 우린 이 셸터 해 안에서 들어오는 일밖에 못 받는다."
+
+msgctxt "opening_cinematic#28"
+msgid "Ugh. I'm sick of being trapped in this stupid kiddie pool. But fine, whatever. A job's a job, I guess."
+msgstr "윽. 이런 어린애 수영장에 갇혀 있다니 싫증 나네. 그래도 됐어, 알겠어. 일은 일이지."
+
+msgctxt "opening_cinematic#29"
+msgid "That's the spirit. Now, get back to the bridge, we have some navigation to do before we'll get to the crash site."
+msgstr "바로 그 기분이다. 자, 교량으로 돌아와라. 추락 현장에 도착할 때까지 항로를 짜야 한다."
+
+msgctxt "opening_cinematic#30"
+msgid "Roger that. This job may be literal garbage, but at least it's a good excuse to see what this new bird is capable of."
+msgstr "알겠어. 임무 자체는 말 그대로 쓰레기지만, 그래도 이 새 기체가 어떤지 시험해 볼 좋은 기회네."
+
+msgctxt "opening_cinematic_alt#2"
+msgid "Flushing Coolant..."
+msgstr "엔진 냉각 중…"
+
+msgctxt "opening_cinematic_alt#3"
+msgid "De-Pressurizing cockpit..."
+msgstr "조종석 감압 중…"
+
+msgctxt "opening_cinematic_alt#4"
+msgid "Rebooting digital displays..."
+msgstr "디지털 디스플레이 재부팅 중…"
+
+msgctxt "opening_cinematic_alt#5"
+msgid "Can you hear me, Ash?"
+msgstr "들리나, 애쉬?"
+
+msgctxt "opening_cinematic_alt#6"
+msgid "Loud and clear, Cap."
+msgstr "양호해, 함장."
+
+msgctxt "opening_cinematic_alt#7"
+msgid "This new jet is a beauty. It's took a minute to get used to the interface, but wow. I've never flown anything like it."
+msgstr "이 새 기체는 성능이 차원이 달라. 인터페이스에 익숙해지는 데 시간이 좀 걸리겠지만, 대단해, 이런 비행은 처음이야."
+
+msgctxt "opening_cinematic_alt#8"
+msgid "I'm glad you like it. It's all we could afford after that last mission. Guy who sold it to me couldn't wait to get rid of it."
+msgstr "마음에 들었다니 다행이다. 지난 임무 끝나고 살 수 있었던 게 그놈이다. 내게 판 업자는 얼른 처분하고 싶어 안달했다더군."
+
+msgctxt "opening_cinematic_alt#9"
+msgid "A beast like this? Why was he in such a hurry to sell?"
+msgstr "이런 좋은 기체를? 그렇게 급히 판 이유가 뭘까?"
+
+msgctxt "opening_cinematic_alt#10"
+msgid "Supposedly it was a government prototype that never made it into production."
+msgstr "양산까지 가지 못한 정부 시제품이기 때문 아닐까."
+
+msgctxt "opening_cinematic_alt#11"
+msgid "He claimed it was because the AI was ^haunted^, but I'm sure it was just bureaucratic red tape."
+msgstr "업자 말로는 AI가 '귀신들렸다'고 하더군. 정부에서 만든 기체니까 그런 기능이 있는 거겠지."
+
+msgctxt "opening_cinematic_alt#12"
+msgid "Explains why it kept scanning for ^Eutrophic Threats^."
+msgstr "이 기체가 계속 '자연 환경의 부영양화 위험'을 분석하고 있는 이유를 알 것 같아."
+
+msgctxt "opening_cinematic_alt#13"
+msgid "Hey, why does the instrument panel say ^[c=01]LIMITER: ON[/c]^? You trying to hold me back? I don't do limits."
+msgstr "있잖아, 왜 계기판에 [c=01]리미터: ON[/c]이라고 떠 있는 거야? 나한테 무리하지 말라고? 할 땐 마음껏 날아."
+
+msgctxt "opening_cinematic_alt#14"
+msgid "[c=01]DON'T TOUCH THAT SETTING[/c]. Like I said, this thing's a prototype. It's unstable. The limiter is the only thing keeping from tearing itself apart."
+msgstr "[c=01]그 설정은 건드리지 마라.[/c] 이건 시제품이라고 말했지. 성능도 불안정해. 기체가 산산조각 나지 않는 것도 그 리미터 덕분이다."
+
+msgctxt "opening_cinematic_alt#15"
+msgid "So turning it off would probably kill me?"
+msgstr "이 리미터를 끄면, 혹시 살아서 돌아올 수 없다는 뜻이야?"
+
+msgctxt "opening_cinematic_alt#16"
+msgid "Yes."
+msgstr "맞다."
+
+msgctxt "opening_cinematic_alt#17"
+msgid "Got it. Lead with that next time. So... what's on the menu today?"
+msgstr "알겠어. 다음에 자세히 알려 줘. 그래서… 오늘 메뉴는 뭐야?"
+
+msgctxt "opening_cinematic_alt#18"
+msgid "Nothing too fancy. The First Space Bureau are having a planned military satellite de-orbit operation soon."
+msgstr "간단한 임무다. 제1 우주국이 곧 군사 위성을 궤도에서 떨어뜨리는 작전을 수행한다."
+
+msgctxt "opening_cinematic_alt#19"
+msgid "The crash site will be swarmed with all kinds of scavengers and Sky Pirates looking for debris before it's buried under the sea."
+msgstr "낙하 지점에는 위성을 가로채려는 온갖 도둑들과 하늘 해적들이 몰려들 거다. 놈들은 돈이 될 만한 걸 노려, 위성이 바다에 가라앉기 전에 회수하려 들 거다."
+
+msgctxt "opening_cinematic_alt#20"
+msgid "They want me to scare some rats off a pile of space garbage? What's next, a pizza delivery contract?"
+msgstr "의뢰인은 우주에서 떨어지는 쓰레기 더미에서 쥐떼를 쫓아내 달라는 거네. 그 다음은? 피자 배달?"
+
+msgctxt "opening_cinematic_alt#21"
+msgid "Have you forgotten about your last week's contract with the HMS Vangard?"
+msgstr "너는 지난주에 한 HMS 뱅가드와의 계약을 잊었냐?"
+
+msgctxt "opening_cinematic_alt#22"
+msgid "You mean when I single-handedly saved it from that Sky Pirate raiding party?"
+msgstr "하늘 해적의 화려한 습격에서, 나 혼자서 의뢰주를 지켜 낸 그 계약 말이야?"
+
+msgctxt "opening_cinematic_alt#23"
+msgid "I'm referring to the part where a couple of your ^low-altitude maneuvers^ sent your plane and two Sky Pirate jets careening into the deck!"
+msgstr "내가 말하고 싶은 건 네가 한 '저고도 작전'이다. 네 기체와 하늘 해적 전투기 두 대가 갑판으로 돌진하지 않았냐!"
+
+msgctxt "opening_cinematic_alt#24"
+msgid "We, and by ^We^ I mean ^You^, are still on the hook for three hundred fifty million credits, and the government isn't a very generous creditor."
+msgstr "우리는, 여기서 말하는 '우리'에는 '너'도 들어가지만, 3억 5천만 크레딧을 갚아야 한다. 정부가 기다려 주는 법은 없어."
+
+msgctxt "opening_cinematic_alt#25"
+msgid "So why are we taking these nickel-and-dime jobs, then? A couple of [c=01]real[/c] contracts would pay that off in no time."
+msgstr "그래서 보수가 하찮은 의뢰 얘기를 하고 있는 거야? [c=01]지불이 좋은[/c] 계약 두세 건이면 순식간일 텐데."
+
+msgctxt "opening_cinematic_alt#26"
+msgid "As much as I'd love to put you in mortal danger right now and let our insurance policy cover things, our carrier doesn't have a [c=01]hover drive[/c]."
+msgstr "너를 위험한 임무에라도 보내서 보험을 타고 싶은 마음은 굴뚝같지만, 우리 배에 [c=01]호버드라이브[/c]가 없다는 건 너도 알지."
+
+msgctxt "opening_cinematic_alt#27"
+msgid "Without a [c=01]hover drive[/c], we're stuck taking whatever jobs we are offered here in the Sheltered Sea."
+msgstr "[c=01]호버드라이브[/c]가 없는 이상, 셸터 해 안에서 들어오는 일밖에 받을 수 없다."
+
+msgctxt "opening_cinematic_alt#28"
+msgid "Ugh. I'm sick of being trapped in this stupid kiddie pool. But fine, whatever. A job's a job, I guess."
+msgstr "음, 이런 애들 수영장 같은 바다에 갇혀 꼼짝 못 하다니. 그래도 일은 일이지."
+
+msgctxt "opening_cinematic_alt#29"
+msgid "That's the spirit. Now, get back to the bridge, we have some navigation to do before we'll get to the crash site."
+msgstr "좋아, 기운 내서 가자. 조타실로 돌아와라. 위성 낙하 지점에 가기 전에 지시가 있다."
+
+msgctxt "opening_cinematic_alt#30"
+msgid "Roger that. This job may be literal garbage, but at least it's a good excuse to see what this new bird is capable of."
+msgstr "알겠어. 폐기물 관련 임무는 말 그대로 쓰레기 같은 의뢰지만, 이 새 기체의 성능을 확인하기엔 좋은 기회네."
+
+msgctxt "race_the_nuke_post_mission#2"
+msgid "What were you thinking? That nuke was our only chance of ending AEGIS's tyranny!"
+msgstr "무슨 생각을 한 거야? 그 핵무기가 이지스의 지배를 끝낼 유일한 기회였잖아!"
+
+msgctxt "race_the_nuke_post_mission#3"
+msgid "No. If we kill innocent people in the process, we're no better than AEGIS."
+msgstr "아니야. 핵무기를 쏴서 사람들을 휘말리게 한다면, 우린 이지스와 조금도 다를 게 없어."
+
+msgctxt "race_the_nuke_post_mission#4"
+msgid "Hell of a time to have a change of heart, kid. The FINAL RETORT is now fully armed and defended by something else we've never seen before."
+msgstr "참 마음이 변했구나. FINAL RETORT는 완전히 무장했고, 게다가 경호하듯이 한 번도 본 적 없는 병기가 나타났잖아."
+
+msgctxt "race_the_nuke_post_mission#5"
+msgid "It looks like... a giant suit of armor."
+msgstr "저건 마치… 거대한 인간형 아머슈트 아니냐."
+
+msgctxt "race_the_nuke_post_mission#6"
+msgid "So... what are we going to do?"
+msgstr "야… 이제 어떻게 할 거야?"
+
+msgctxt "race_the_nuke_post_mission#7"
+msgid "Simple. I'm going to take AEGIS out, just like I've taken out everything else."
+msgstr "간단해. 이지스를 파괴하러 가는 거야. 지금까지 해왔던 것처럼 말이야."
+
+msgctxt "race_the_nuke_post_mission#8"
+msgid "But Ash... these energy signatures... that armor is more powerful than anything you've fought so far."
+msgstr "하지만 애쉬… 저 에너지 반응… 저 아머는 네가 싸워온 적보다 훨씬 강력하다."
+
+msgctxt "race_the_nuke_post_mission#9"
+msgid "Maybe you're right. Maybe I can't do it. But I have to try."
+msgstr "그럴지도 몰라. 이기지 못할지도 모르지만, 해야만 해."
+
+msgctxt "race_the_nuke_post_mission#10"
+msgid "You've already done so much, Ash. You've gone beyond what anyone else would've done. You've got nothing left to prove."
+msgstr "이제 넌 충분히 잘했다, 애쉬. 넌 이미 충분히 훌륭하게 해냈다."
+
+msgctxt "race_the_nuke_post_mission#11"
+msgid "It's not about that. I know I've done enough."
+msgstr "그런 게 아니야. 나도 잘하고 있다는 건 알고 있어."
+
+msgctxt "race_the_nuke_post_mission#12"
+msgid "... Then why? Why throw away your life on a fight that's probably completely impossible?"
+msgstr "…그럼, 왜지? 반드시 실패로 끝날 싸움에 왜 목숨을 던질 수 있냐?"
+
+msgctxt "race_the_nuke_post_mission#13"
+msgid "It's for me. I need to know I did everything I could."
+msgstr "나를 위해서야. 내가 얼마나 해낼 수 있는지 알고 싶은 거야."
+
+msgctxt "race_the_nuke_post_mission#14"
+msgid "Plus... It sounds like fun."
+msgstr "게다가… 재미있을 것 같잖아."
+
+msgctxt "serpent#2"
+msgid "^It's probably just a dinky little submarine,^ he said. ^I don't want you to be disappointed,^ he said."
+msgstr "\"그냥 작은 잠수함일 거야\"라든가 \"너 실망시키기 싫어서\"라고 말한 건 함장이었잖아."
+
+msgctxt "serpent#3"
+msgid "You're taking some liberty with my words there, but point taken. That was definitely a sea serpent."
+msgstr "말꼬리를 잡지 마. 하지만, 맞았어. 그건 틀림없는 바다뱀이었어."
+
+msgctxt "serpent#4"
+msgid "What that was, was [c=01]awesome[/c]. Battles like that are why I got into this business."
+msgstr "[c=01]최고의 공중전[/c]이었잖아. 그런 싸움이 하고 싶어서 이 세계에 뛰어든 거니까."
+
+msgctxt "serpent#5"
+msgid "... You got into this business because of ^administrative friction^ with the Royal Air Force."
+msgstr "…이 세계에 뛰어든 건 왕국 공군, RAF와의 조율이 안 되었기 때문일 거야."
+
+msgctxt "serpent#6"
+msgid "Oh, come on. Don't be like that. We just killed a sea serpent!"
+msgstr "아이 참, 그런 게 아니잖아. 아까 바다뱀을 쓰러뜨렸는데!"
+
+msgctxt "serpent#7"
+msgid "Yeah, for the price of killing a dinky little submarine. If I'd known it was real, I would have negotiated a higher rate."
+msgstr "그래. 소형 잠수함 값만 받았어. 그게 진짜인 줄 알았으면 더 비싼 보수를 부르고 있었을 텐데."
+
+msgctxt "serpent#8"
+msgid "Oh, don't you worry your fusty little head about price. Guess what Uncle Lem just hauled in from the wreckage of that serpent?"
+msgstr "이제 돈 때문에 고민할 일 없어. 내가 그 바다뱀 잔해 더미에서 뭘 가져왔다고 생각해?"
+
+msgctxt "serpent#9"
+msgid "Hyper turbines?"
+msgstr "하이퍼터빈?"
+
+msgctxt "serpent#10"
+msgid "Four of them! Good ones! I'll have this carrier outfitted with a hoverdrive in no time!"
+msgstr "게다가 4개야! 상태도 좋아! 순식간에 호버드라이브를 쓸 수 있게 해볼게!"
+
+msgctxt "serpent#11"
+msgid "Whoever built this monster really knew what they were doing."
+msgstr "그 몬스터를 조립한 사람은 꽤 기계에 정통한 사람이야."
+
+msgctxt "serpent#12"
+msgid "Actually, there are quite a few similarities between this guy and that robot you found me inside of..."
+msgstr "그 바다뱀과, 네가 안에서 나를 발견한 로봇 사이에는 많은 공통점이 있었어…"
+
+msgctxt "serpent#13"
+msgid "Probably just a coincidence. Anyway, back to work!"
+msgstr "아마 단순한 우연의 일치일 거야. 일하러 가자!"
+
+msgctxt "serpent#14"
+msgid "What was that about the similarities?"
+msgstr "그 공통점이 뭔데?"
+
+msgctxt "serpent#15"
+msgid "Who cares? We're finally getting out of this small pond. Big fish, here we come!"
+msgstr "뭐 어때. 이제 드디어 작은 연못에서 벗어날 수 있네. 큰 물고기야, 기다려!"
+
+msgctxt "serpent#16"
+msgid "Careful what you wish for..."
+msgstr "벗어나려는 목적을 잊지 말아라…"
+
+msgctxt "space_elevator_pre_mission#2"
+msgid "Okay, I did what you asked. What's the rest of the plan?"
+msgstr "여기까지는 계획대로네. 그 다음은 어떻게 할 거야?"
+
+msgctxt "space_elevator_pre_mission#3"
+msgid "A few years ago my faction gained control of two decommissioned nuclear missiles."
+msgstr "몇 년 전, 기능이 정지된 핵미사일이 있었는데, 우리는 그중 2발의 제어권을 손에 넣었어."
+
+msgctxt "space_elevator_pre_mission#4"
+msgid "When AEGIS first re-emerged, we tried firing one at the FINAL RETORT."
+msgstr "이지스가 다시 나타났기에, 그중 하나를 FINAL RETORT를 향해 쏘려고 했어."
+
+msgctxt "space_elevator_pre_mission#5"
+msgid "But when the missile passed through low orbit, something shot it down. We suspect it's an old missile defense system."
+msgstr "하지만 미사일은 저궤도를 통과한 후 격추당했어. 아마도 과거의 미사일 방어 시스템에 의해 요격된 것 같아."
+
+msgctxt "space_elevator_pre_mission#6"
+msgid "We need you to access the Space Elevator, get up there, and destroy that defense system. Then we can hit AEGIS with our remaining nuke."
+msgstr "그래서, 이제 우주 엘리베이터까지 가서 상공으로 올라가 방어 시스템을 파괴해 줬으면 해. 파괴하면 이지스에 남은 핵미사일을 맞출 수 있어."
+
+msgctxt "space_elevator_pre_mission#7"
+msgid "You want us to help you detonate an atomic weapon directly above our island's largest population center?"
+msgstr "섬에서 인구가 가장 집중된 곳의 상공에서 핵무기를 쓰고 싶어서 우리한테 협력해달라는 거냐?"
+
+msgctxt "space_elevator_pre_mission#8"
+msgid "I told you it was a bad plan. The people affected by the blast are only a fraction of those we'd be saving."
+msgstr "책략이라고 부를 만한 게 아니라고 말했잖아. 폭발의 영향을 받을 사람들의 피해는, 인간을 구하는 작은 대가에 불과해."
+
+msgctxt "space_elevator_pre_mission#9"
+msgid "Listen, Ash: you're the only one with the skills to do this. And you told me you always try to do what's right."
+msgstr "애쉬, 잘 들어. 이걸 수행할 수 있는 스킬을 가진 건 너뿐이야. 그리고 항상 옳은 일을 하고 싶다고 내게 말했잖아."
+
+msgctxt "space_elevator_pre_mission#10"
+msgid "I won't try to force you into it. I won't even try to talk you into it. That goes against what I believe in. All I'm going to do is ask:"
+msgstr "억지로 시킬 생각은 없어. 협력을 해달라고 설득할 생각도 없어. 내 주의에 반하지만, 너에게 묻고 싶은 게 있어."
+
+msgctxt "space_elevator_pre_mission#11"
+msgid "Knowing what you know now, does this seem like the right thing to do?"
+msgstr "지금 알게 된 정보로 볼 때, 이게 옳은 일처럼 보이느냐?"
+
+msgctxt "space_elevator_pre_mission#12"
+msgid "[t=025]...[t=100]"
+msgstr "…"
+
+msgctxt "space_elevator_pre_mission#13"
+msgid "Captain?"
+msgstr "함장?"
+
+msgctxt "space_elevator_pre_mission#14"
+msgid "I can't make this choice for you either, Ash. But I'll go where you go."
+msgstr "애쉬, 네 대신 결정하는 건 나로서는 못 하겠다. 나는 네 마음을 따르마."
+
+msgctxt "space_elevator_pre_mission#15"
+msgid "And don't ask me for advice either. You probably weren't going to, but I just wanted to get out ahead of things."
+msgstr "나한테도 조언은 구하지 마. 나는 이런 일에서 도망치고 싶었으니까, 넌 아마 그럴 생각은 없었겠지만."
+
+msgctxt "space_elevator_pre_mission#16"
+msgid "... Alright."
+msgstr "…알았어."
+
+msgctxt "space_elevator_pre_mission#17"
+msgid "Let's go."
+msgstr "하자."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#2"
+msgid "Alright. Pre-flight checklist is complete. You're ready to go, but ..."
+msgstr "좋아, 비행 전 체크리스트는 끝이다. 언제든 갈 수 있지만…"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#3"
+msgid "Yeah?"
+msgstr "왜 그래?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#4"
+msgid "Going in like this, without any backup, it seems like..."
+msgstr "지원 없이 이런 식으로 출격한다면, 이건 이른바…"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#5"
+msgid "Like what?"
+msgstr "이른바 뭔데?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#6"
+msgid "Almost like you want to get hurt."
+msgstr "다치러 가는 거나 마찬가지다."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#7"
+msgid "Cap, come on. I don't want to get hurt. These things are going to kill innocent people if I don't intervene."
+msgstr "함장, 나도 다치긴 싫어. 내가 지금 가지 않으면, 그 로봇들이 아무것도 모르는 사람들을 죽인다고."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#8"
+msgid "But without any backup --"
+msgstr "하지만, 지원이 없는 이상은――"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#9"
+msgid "Look, if the Air Force has any sense, they'll get there at the same time I do. But I'm not delaying just because the cavalry's not here yet."
+msgstr "공군이 제대로 움직이고 있다면, 저쪽도 나랑 같은 타이밍에 작전 지점에서 합류할 거야. 그런데 우리가 공군보다 먼저 도착해 버렸잖아."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#10"
+msgid "Hold on. It looks like an Air Force plane has just requested permission to land in our hangar. I'll guide them in..."
+msgstr "잠깐 기다려라. 공군 기체가 우리 격납고에 착륙 허가를 요청해 왔다. 내가 유도하겠다…"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#11"
+msgid "Oh... no. It's..."
+msgstr "어이어이…이건…"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#12"
+msgid "Hi, hey, hello. Great to see everyone. How are you?"
+msgstr "저기, 그, 잘 지내는 것 같네. 작전 쪽은 순조로운가?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#13"
+msgid "What are you doing here, Pierce? And, more importantly, why are you being so friendly?"
+msgstr "피어스, 여기서 뭐 하는 거야? 그리고 묻고 싶은 건, 왜 그렇게 친근한 분위기를 풍기고 있는 거야?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#14"
+msgid "Listen... I know you're preparing to go after those giant robots. I'm here to ask you to... not do that."
+msgstr "잘 들어 줬으면 해… 너희들은 지금부터 그 거대 로봇의 뒤를 쫓을 준비를 하고 있었겠지. 내가 온 이유는… 출격을 그만둬 줬으면 해."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#15"
+msgid "Wait, what?"
+msgstr "에엣, 왜?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#16"
+msgid "He means because the Air Force is handling it. Right, Pierce?"
+msgstr "즉 이 건은 공군이 대처한다는 것으로 이해하면 되나, 피어스?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#17"
+msgid "Yeah. AEGIS has provided us with a weapon that'll have no trouble taking out the invaders once they get close."
+msgstr "그 말대로야. 이지스로부터 무기를 조달해 왔어. 침입자가 사정거리 안에 들어오면 아무 문제 없이 처치할 수 있는 무기야."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#18"
+msgid "Wait... ^Once they get close^?"
+msgstr "잠깐만…\"침입자가 사정거리 안에 들어오면\"?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#19"
+msgid "Well, that's the thing. AEGIS has advised us to --"
+msgstr "뭐, 말 그대로야. 이지스가 우리에게 그렇게 지시를――"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#20"
+msgid "To let those robots steamroll half a dozen small towns on the way to the capital so you can get a good shot at it?"
+msgstr "작은 마을을 밟아 부수며 나아가는 로봇을 손가락 빨며 보고만 있는 거야? 그래야 잘 맞출 수 있다는 거야?"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#21"
+msgid "AEGIS assures us that the damage will be --"
+msgstr "이지스가 분명히 말했어, 로봇에 대한 데미지는――"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#22"
+msgid "There doesn't have to be any damage at all! I'm heading out there right now to take those things down myself if I have to."
+msgstr "데미지 같은 건 상관없어! 나라면 지금 당장이라도 출격해서 로봇을 가라앉히고 올 거야."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#23"
+msgid "No, Ash. I'm telling you. If you go out there, we'll have no choice but to... stop you."
+msgstr "안 돼, 애쉬. 이건 경고야. 출격한다면, 이제… 너를 막을 수밖에 없어."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#24"
+msgid "The weapon I mentioned. If you undermine our plan for this situation... I don't want to... but I will use it on you."
+msgstr "내가 설명한 무기에 따르는 거야. 만약 이 상황에서 우리 계획을 얕본다면… 어쩔 수 없지만… 너를 향해 쓸 수밖에 없어."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#25"
+msgid "Get the hell off our ship, Pierce."
+msgstr "배에서 얼른 나가, 피어스."
+
+msgctxt "stealth_or_stealth_hack_pre_mission#26"
+msgid "Ash, don't be an idiot, just --"
+msgstr "애쉬, 바보 같은 짓은 하지――"
+
+msgctxt "stealth_or_stealth_hack_pre_mission#27"
+msgid "[c=01]NOW![/c]"
+msgstr "[c=01]나가![/c]"
+
+msgctxt "story_tease#2"
+msgid "Hey Captain, do you think there's going to be a [c=01]story[/c] in Jet Lancer?"
+msgstr "함장, Jet Lancer에 [c=01]스토리[/c] 같은 게 있을까?"
+
+msgctxt "story_tease#3"
+msgid "How would I know Ash? I'm part of the game too."
+msgstr "내가 어떻게 알겠냐, 애쉬? 나도 게임 캐릭터인데."
+
+msgctxt "story_tease#4"
+msgid "Yeah, but you can't like, pull some strings to find out?"
+msgstr "그래도 함장이 좀 알아볼 순 없어?"
+
+msgctxt "story_tease#5"
+msgid "[t=050]...No.[t=100]"
+msgstr "[t=050]… 아니.[t=100]"
+
+msgctxt "story_tease#6"
+msgid "Please?"
+msgstr "제발?"
+
+msgctxt "story_tease#7"
+msgid "No."
+msgstr "안 돼."
+
+msgctxt "story_tease#8"
+msgid "I promise I'll keep Lem from peeing on your bed."
+msgstr "렘이 함장 침대에 오줌 싸는 걸 막아 줄게, 약속해."
+
+msgctxt "story_tease#9"
+msgid "[t=050]...[t=100] I'll ask around and we'll talk about it in Dispatch_03, okay?"
+msgstr "[t=050]… [t=100] 알아보고 Dispatch_03에서 얘기하자, 됐냐?"
+
+msgctxt "story_tease#10"
+msgid "[c=01]YES![/c]"
+msgstr "[c=01]좋아![/c]"
+
+msgctxt "sub_post_mission#2"
+msgid "That was... not what I expected."
+msgstr "아까 그 잠수함… 상상했던 것과는 달랐어."
+
+msgctxt "sub_post_mission#3"
+msgid "I don't blame you. I've never seen a sub built on that scale before. What was it doing buried in the seabed?"
+msgstr "뭐라 할 순 없군. 나도 저런 규모의 잠수함은 본 적이 없어. 해저에 묻혀 있던 그건, 도대체 무슨 일이 있었던 걸까."
+
+msgctxt "sub_post_mission#4"
+msgid "Beats me, but that's the same place I found that gunbot you dug me out of."
+msgstr "글쎄. 하지만 아가씨가 날 꺼내 준 그 건보트도 그 잠수함도 같은 장소에 있었어."
+
+msgctxt "sub_post_mission#5"
+msgid "Hm. I guess the Sheltered Sea isn't quite the kiddie pool we thought it was."
+msgstr "흠, 셸터 해가 우리가 생각했던 애들 수준은 아니었던 모양이네."
+
+msgctxt "sub_post_mission#6"
+msgid "I don't know. Kids are pretty terrible..."
+msgstr "글쎄 어떨지. 게다가 애들은 뭘 할지 모르니까…"
+
+msgctxt "sub_post_mission#7"
+msgid "Anyway, speaking of finding things, I found some stuff in the sub's computers you might wanna know about."
+msgstr "그건 그렇고, 찾는 것 얘긴데, 그 잠수함 컴퓨터에서 뭘 발견했어. 아가씨도 알고 싶어 할 만한 정보야."
+
+msgctxt "sub_post_mission#8"
+msgid "Looks like they were bringing that monster back to a hidden Sky Pirate base... and they left the coordinates in the nav system."
+msgstr "그 녀석들은 그 괴물을 은밀한 해적 기지로 옮긴 모양이야… 내비 시스템에 위치 정보가 남아 있었어."
+
+msgctxt "sub_post_mission#9"
+msgid "Are you thinking what I'm thinking?"
+msgstr "나는 어떻게 할지 정했는데, 함장은 어떻게 생각해?"
+
+msgctxt "sub_post_mission#10"
+msgid "... That we should call for backup and negotiate a fair price for this information?"
+msgstr "…지원을 요청하고 이 정보에 대해 적정한 대가를 지불받도록 교섭하는 거다."
+
+msgctxt "sub_post_mission#11"
+msgid "Ugh. You're no fun."
+msgstr "왜, 재미없네."
+
+msgctxt "sub_post_mission#12"
+msgid "Thanks. I'll put in a call to the military. You go get your jet patched up. You're gonna need it in top condition for this."
+msgstr "고맙다. 이제 군에 연락할 테니, 넌 전투기 수리를 맡겨라. 앞으로 해적과 싸울 거라면 최고 컨디션이어야 할 테니까."
+
+msgctxt "survival_post_mission#2"
+msgid "H-hello?"
+msgstr "누구 있나?"
+
+msgctxt "survival_post_mission#3"
+msgid "Hello, Orson."
+msgstr "오랜만이다, 오슨."
+
+msgctxt "survival_post_mission#4"
+msgid "Gin?"
+msgstr "진인가?"
+
+msgctxt "survival_post_mission#5"
+msgid "Orson?"
+msgstr "오슨?"
+
+msgctxt "survival_post_mission#6"
+msgid "Oh, he never told you his name? That's not surprising. Orson was always very secretive."
+msgstr "이름을 못 들었나? 그놈답네. 오슨은 비밀주의자였으니까."
+
+msgctxt "survival_post_mission#7"
+msgid "... Like that time he stole away in the middle of the night with one of our best carriers and we didn't hear from him for six years?"
+msgstr "...한밤중에 우리가 소유한 최고의 배 한 척을 빼돌려서, 6년 동안 소식이 없었으니까."
+
+msgctxt "survival_post_mission#8"
+msgid "Captain you're just going to let her talk to you like that? What is she, one of Steve's goons?"
+msgstr "함장, 그냥 듣고만 있을 거야? 그 사람 누구야? 스티브 동료?"
+
+msgctxt "survival_post_mission#9"
+msgid "One of Steve's... ?! That idiot's gone rogue! He works for the government now, and before that, he reported to [c=01]me[/c]."
+msgstr "스티브의 동료...? 지금은 정부 개가 돼 있지만, 예전에는 [c=01]나[/c]에게 보고하고 있었는데 말이지."
+
+msgctxt "survival_post_mission#10"
+msgid "Gin Ratskeller. I wish I could say it was a pleasure to meet you."
+msgstr "나는 진 라츠켈러야. 이걸 감동의 재회라 기뻐할 수 있었다면 좋았을 텐데."
+
+msgctxt "survival_post_mission#11"
+msgid "Wait, Captain, she's your..."
+msgstr "잠깐, 함장, 설마 그 사람, 함장의..."
+
+msgctxt "survival_post_mission#12"
+msgid "I'm his older sister, yes. Our entire family is -- or [c=01]was[/c] involved in the organization..."
+msgstr "누나야. 우리 가족은 --[c=01]아니, 과거의 가족은[/c] 이 조직에 관여하고 있었어..."
+
+msgctxt "survival_post_mission#13"
+msgid "... Including my two sons, Lex and Hex, who you so thoughtfully shot down a few kilometers from the mainland."
+msgstr "...그중에는 내 아들이 둘 있지. 이름은 렉스와 헥스야. 본섬에서 몇 킬로 떨어진 곳에서 네가 격추한 파일럿이야."
+
+msgctxt "survival_post_mission#14"
+msgid "So I'd like to thank you, whatever your reasons, for delivering yourselves into my hands."
+msgstr "고맙게 생각해. 무슨 이유였든, 여기까지 와 줬으니까."
+
+msgctxt "survival_post_mission#15"
+msgid "While a tribunal won't repair all the damage you've done, it--"
+msgstr "법으로 심판하려 해도 네가 빼앗은 건 돌아오지 않아. 하지만--"
+
+msgctxt "survival_post_mission#16"
+msgid "Uh, hey! Hi! Lem here, world's smartest cat, pleased to meet everybody."
+msgstr "야! 안녕 안녕! 세상에서 제일 똑똑한 고양이, 렘이야. 오늘 다들 만나서 기쁘네~"
+
+msgctxt "survival_post_mission#17"
+msgid "Look, I know you're really excited about revenge right now. Believe me, cats love revenge. Under normal circumstances I'd say go for it."
+msgstr "있잖아, 네가 복수에 불타는 마음 잘 알아. 고양이도 복수는 좋아하니까. 만약 이게 일반적인 상황이었다면, 나는 마음대로 하라고 말했을 거야."
+
+msgctxt "survival_post_mission#18"
+msgid "But we're actually here because we figured out the giant robots have something to do with you all, and we... think we might be on your side?"
+msgstr "근데 우리가 지금 여기 온 이유는, 거대 로봇이 뭔가 너희와 관계가 있는 게 아닌지 확실히 하기 위해서야... 어쩌면 목적이 같을지도 몰라서."
+
+msgctxt "survival_post_mission#19"
+msgid "The cat's right. Gin... I'm sorry about Lex and Hex. I know nothing I can say will make up for that."
+msgstr "진... 렉스와 헥스 일은 미안하게 생각해. 어떻게 보상해야 할지 모르겠어."
+
+msgctxt "survival_post_mission#20"
+msgid "But if it's any consolation, the government is just as pissed off at me as you are."
+msgstr "이 말이 무슨 도움이 될지 모르겠지만, 너만큼이나 나도 정부한테 열받아 있어."
+
+msgctxt "survival_post_mission#21"
+msgid "And maybe that's because I'm an extremely disagreeable person. But I like to think it's because I do what I think is right, no matter who it upsets."
+msgstr "게다가 아마, 내가 말을 정말 안 듣는 인간이라서 그럴지도 몰라. 난 누가 싫은 표정을 지어도, 내가 하는 일이 옳다고 생각할 수 있는 게 좋아."
+
+msgctxt "survival_post_mission#22"
+msgid "First, that meant fighting off your ships in the sheltered sea. Then, it meant destroying those giant robots when the government wanted to let them trample innocent people..."
+msgstr "셸터 해에서 너희와 싸운 일, 그리고 정부가 아무 죄 없는 시민을 버린 그때, 거대 로봇을 파괴하려 한 일..."
+
+msgctxt "survival_post_mission#23"
+msgid "Maybe I was wrong to do those things. Maybe not."
+msgstr "내가 한 일이 틀렸을 수도 있고, 맞았을 수도 있어."
+
+msgctxt "survival_post_mission#24"
+msgid "But now, my gut tells me that the right thing to do is to work with you, because you know something I don't know."
+msgstr "하지만, 지금은 너랑 손잡는 게 옳다는 직감이 들어. 내가 모르는 걸 너는 알고 있으니까."
+
+msgctxt "survival_post_mission#25"
+msgid "And if that can stop more giant robots from appearing, then that's what I've got to do."
+msgstr "아직 있는 거대 로봇을 앞으로 막을 거라면, 내가 해 온 일이니 맡겨 줘."
+
+msgctxt "survival_post_mission#26"
+msgid "You... destroyed those robots?"
+msgstr "네가... 그 로봇을?"
+
+msgctxt "survival_post_mission#27"
+msgid "Yeah. Impressive, right?"
+msgstr "그래. 다시 봤어?"
+
+msgctxt "survival_post_mission#28"
+msgid "Oh, you well-intentioned fool. Those robots aren't the enemy."
+msgstr "그 로봇은 적이 아니야. 선의만으로 움직이면 폐만 끼친다고."
+
+msgctxt "survival_post_mission#29"
+msgid "... AEGIS is."
+msgstr "...저건 이지스야."
+
+msgctxt "survival_post_mission#30"
+msgid "What do you mean those robots aren't the enemy? And didn't you guys build AEGIS or something? What's going on?"
+msgstr "그 로봇이 적이 아니라고? 게다가 너희가 이지스를 만든 거 아니야? 도대체 어떻게 된 거야?"
+
+msgctxt "survival_post_mission#31"
+msgid "Quiet! I've just gotten an alert. Our perimeter has been breached."
+msgstr "조용히 해! 경보가 울렸어. 방어선이 뚫린 모양이야."
+
+msgctxt "survival_post_mission#32"
+msgid "It seems Steve has decided to use his government backing to get a bit of revenge on me."
+msgstr "스티브가 나에게 보복하려고 뒤에 붙은 정부를 이용하는 모양이야."
+
+msgctxt "survival_post_mission#33"
+msgid "You want to prove you're on our side? Hold him off. I'll explain everything while you fly. If what you say is true, we've got no time to waste!"
+msgstr "우리 편임을 보여주고 싶다면, 그놈을 막아. 설명은 공중에서 할게. 네 말이 사실이라면, 더 이상의 지체는 허용되지 않아!"
+
+msgctxt "survival_pre_mission#2"
+msgid "Ready to fly, Ash?"
+msgstr "출격 준비는 됐냐, 애쉬?"
+
+msgctxt "survival_pre_mission#3"
+msgid "Always, but..."
+msgstr "언제든 갈 수 있어. 하지만..."
+
+msgctxt "survival_pre_mission#4"
+msgid "What?"
+msgstr "왜 그래?"
+
+msgctxt "survival_pre_mission#5"
+msgid "Why didn't you tell me you used to be one of them?"
+msgstr "그놈들 동료였다는 걸 왜 말 안 했어?"
+
+msgctxt "survival_pre_mission#6"
+msgid "Because that's who I used to be, not who I am. I was born into the organization. I grew up with it."
+msgstr "그건 과거의 일이니까. 지금의 나랑은 상관없다. 나는 그 조직에서 태어나 자랐다."
+
+msgctxt "survival_pre_mission#7"
+msgid "I used to believe in the Sky Pirates -- that our rejection of the government was righteous, that we only stole to feed ourselves."
+msgstr "하늘 해적을 믿고 있었다 -- 정부를 부정하는 게 정의라고 여겼던 조직을 말이다. 그리고 우리는 연명하기 위해 도둑질을 반복했다."
+
+msgctxt "survival_pre_mission#8"
+msgid "Heck, there was even a time when I almost bought into their kooky space religion..."
+msgstr "뭐, 맛이 간 하늘 교단에 있었다는 걸 인정하는 데 시간은 걸렸다."
+
+msgctxt "survival_pre_mission#9"
+msgid "... Space religion?"
+msgstr "...하늘 교단?"
+
+msgctxt "survival_pre_mission#10"
+msgid "... But when a family on the outer islands can't get medicine for their sick daughter because of a shipment you intercepted..."
+msgstr "...하지만, 섬 밖에 살던 가족이 병에 걸린 딸에게 약을 준비할 수 없었던 때가 있었다. 네가 도운 배가 있었지..."
+
+msgctxt "survival_pre_mission#11"
+msgid "Well, I realized we were just thieves with better propaganda."
+msgstr "뭐, 그럴듯한 프로파간다를 내세운 도적에 불과하다는 건 자각하고 있었지."
+
+msgctxt "survival_pre_mission#12"
+msgid "Don't get me wrong, I left behind a lot of good people when I left -- the people I'm trying to contact now --"
+msgstr "오해하지 말고 들어 줘, 나는 -- 지금 연락하려는 사람들과 헤어지고 -- 동시에 나는 좋은 놈들이 많은 조직을 떠났다 --"
+
+msgctxt "survival_pre_mission#13"
+msgid "But there are so many rival power bases. So many people like Steve, the guy who hijacked that sub... The worst impulses were bound to win out."
+msgstr "하지만 적대하는 이유는 많다. 잠수함을 하이재킹한 스티브 같은 인간은 많아... 상대를 앞지르려는 충동대로 말이다."
+
+msgctxt "survival_pre_mission#14"
+msgid "After what I witnessed. After what... what [c=01]I did[/c] in the name of liberty... I swore I'd never go back again."
+msgstr "나는 목격했다. 자유의 이름 아래 내가 [c=01]저지른 행위[/c] 이후... 두 번 다시 조직에 돌아가지 않으리라 맹세했다."
+
+msgctxt "survival_pre_mission#15"
+msgid "I don't break promises lightly, Ash. So whatever you do, you'd better make this worth it."
+msgstr "애쉬, 나는 가볍게 약속을 깨지 않는다. 그러니 너도 행동을 일으킬 땐, 가치 있는 일을 골라라."
+
+#. no-translate
+msgctxt "survival_pre_mission#16"
+msgid "..."
+msgstr ""
+
+msgctxt "survival_pre_mission#17"
+msgid "I will, Cap. I promise you, I will."
+msgstr "알았어, 함장. 약속할게."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#2"
+msgid "Tell me you stopped them, Steve."
+msgstr "적 세력은 막은 거지, 스티브."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#3"
+msgid "I could tell you that, Admiral... but it would be a lie."
+msgstr "그렇게 말하고 싶지만, 그렇게 말하면 거짓말이 돼…"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#4"
+msgid "How many have we lost?"
+msgstr "우리 희생자 수는?"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#5"
+msgid "One hundred fifty-eight. Two hundred twenty-six including the crew of the submarine."
+msgstr "158명. 잠수함 승조원 포함하면 226명."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#6"
+msgid "... Which you shouldn't have had in the first place! You idiots have no idea what you've set in motion!"
+msgstr "…네놈에게 지휘를 맡겼어선 안 됐어! 네가 저지른 일이 어떤 결과를 불러올지 알고나 있는 거냐!"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#7"
+msgid "You honestly expected us to just leave a perfectly accessible [c=01]giant submarine[/c] untouched in the sheltered sea?"
+msgstr "셸터 해에 손대지 않은 [c=01]거대 잠수함[/c]을 우리에게 맡긴 건 너였을 텐데!"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#8"
+msgid "These are dangerous times! We need all the firepower we can get!"
+msgstr "지금은 위험한 상황이야! 손에 넣을 수 있는 전력은 긁어모아서라도 원해!"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#9"
+msgid "And how useful was all that ^firepower,^ eh? You lost two hundred twenty-six of our people to the damn [c=01]Royal Air Force[/c]!"
+msgstr "그 \"전력\"이 우리한테 얼마나 도움이 됐지? [c=01]왕립 공군[/c] 때문에 우리 동료 226명이 목숨을 잃었어. 네 책임이다!"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#10"
+msgid "It's not just the Air Force, Admiral. They've got a mercenary group with them. A disgraced ex-military pilot named Ash Leguinn..."
+msgstr "적은 공군만이 아니야. 놈들, 용병을 고용했어. 불명예 제대한 전직 공군 파일럿, 애쉬 레긴…"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#11"
+msgid "... And her manager, an old bounty hunter who calls himself Captain Ratskeller. They're responsible for well over half of our casualties, not to mention the sub."
+msgstr "…그리고 파일럿에게 지시를 내리는 건 라츠켈러라고 자칭하는 전직 현상금 사냥꾼. 잠수함은 말할 것도 없고, 피해의 절반 이상이 놈들 짓이야."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#12"
+msgid "Ratskeller? Son of a bitch."
+msgstr "라츠켈러라… 그 자식인가."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#13"
+msgid "Wait... he's [c=01]that[/c] Ratskeller?"
+msgstr "잠깐… 그 녀석이 [c=01]그[/c] 라츠켈러라고?"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#14"
+msgid "Did I give the impression that this was an interview?"
+msgstr "이 대화가 면담처럼 들렸던 건가?"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#15"
+msgid "..."
+msgstr "…"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#16"
+msgid "... Forgive me. Regardless of who they are, they've broken through our main force and are headed this way."
+msgstr "…미안하다. 놈들이 어쨌든, 적은 우리 주전력을 돌파하고 이쪽으로 오고 있어."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#17"
+msgid "We are ready to evacuate. Just give the word."
+msgstr "철수 준비는 돼 있어. 명령을 내려 줘."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#18"
+msgid "No. Not yet. Dispatch Lex and Hex. Tell them to seek out Ratskeller's protege and clip her wings, personally. We don't need amateurs flying around while we work."
+msgstr "안 된다. 아직이다. 렉스와 헥스를 보내라. 라츠켈러의 제자를 찾아 직접 날개를 꺾어 오라고 해. 아마추어한테 방해받을 시간은 없다."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#19"
+msgid "But Admiral, they're your--"
+msgstr "하지만 사령관, 그 둘은 당신의…"
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#20"
+msgid "We will evacuate when all other options are exhausted. This place is too important to simply give it up."
+msgstr "철수는 모든 수단이 바닥난 다음이다. 그만큼 이곳은 중요한 장소다. 쉽게 넘길 순 없어."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#21"
+msgid "Give the order. [c=01]Now.[/c]"
+msgstr "출격 명령을 내려라. [c=01]알겠나[/c]."
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#22"
+msgid "You got it ... ^Admiral.^"
+msgstr "알겠다… 사령관."
+
+msgctxt "thr_kn_drive#2"
+msgid "Call that an invasion? I've done training exercises more challenging than that."
+msgstr "설마 그게 침략 공격이라고? 나는 아까보다 더 힘든 훈련을 해 왔는데."
+
+msgctxt "thr_kn_drive#3"
+msgid "Training exercises are supposed to be more challenging in order to... you know what, nevermind."
+msgstr "훈련이 혹독한 목적은 말이지…뭐, 너도 알겠지만. 흘려 들어라."
+
+msgctxt "thr_kn_drive#4"
+msgid "If you want more of a challenge, I've got readings on where the retreating survivors were headed."
+msgstr "일에 더 긴장감을 원한다면…간신히 도망친 놈들이 향한 곳의 데이터를 잡았다."
+
+msgctxt "thr_kn_drive#5"
+msgid "It looks like they just zoomed out to the middle of the ocean and... vanished."
+msgstr "아무래도 바다로 도망친 후…종적을 감췄다."
+
+msgctxt "thr_kn_drive#6"
+msgid "Well let's go to where they vanished and un-vanish them, then!"
+msgstr "그럼 그 녀석들이 종적을 감춘 곳까지 가서, 위치를 찾아내자!"
+
+msgctxt "thr_kn_drive#7"
+msgid "No problem. Now that Lem's outfitted us with a hoverdrive, we can follow them over the isthmus and make them sorry they ever crossed us."
+msgstr "좋아, 알았다. 렘이 호버드라이브를 쓸 수 있게 해줬다. 지협을 통해 그 녀석들을 찾아내, 우리와 상대한 걸 후회하게 해주자."
+
+msgctxt "thr_kn_drive#8"
+msgid "That's what I like to hear. Set a course. We're going hunting."
+msgstr "그래, 그걸로 됐어. 진로 설정했으니 사냥하러 출발하자."
+
+msgctxt "thr_kn_drive_nodrive#2"
+msgid "Call that an invasion? I've done training exercises more challenging than that."
+msgstr "설마 저게 침략 공격이라고? 나는 아까보다 더 힘든 훈련을 해 왔는데."
+
+msgctxt "thr_kn_drive_nodrive#3"
+msgid "Training exercises are supposed to be more challenging in order to... you know what, nevermind."
+msgstr "훈련이 혹독한 목적은 말이다… 뭐, 너도 알고 있겠지. 흘려 들어라."
+
+msgctxt "thr_kn_drive_nodrive#4"
+msgid "If you want more of a challenge, I've got readings on where the retreating survivors were headed."
+msgstr "일에도 더 긴장감을 원한다면… 목숨 걸고 도망친 놈들이 향한 곳의 데이터를 잡았다."
+
+msgctxt "thr_kn_drive_nodrive#5"
+msgid "It looks like they just zoomed out to the middle of the ocean and... vanished."
+msgstr "아무래도 바다로 도망친 후… 행방을 감췄다."
+
+msgctxt "thr_kn_drive_nodrive#6"
+msgid "Well let's go to where they vanished and un-vanish them, then!"
+msgstr "그럼 그 녀석들이 행방을 감춘 장소까지 가서, 소재를 찾아내자!"
+
+msgctxt "thr_kn_drive_nodrive#7"
+msgid "One tiny problem... the place where they vanished is on the other side of the isthmus. We can't cross it..."
+msgstr "한 가지 문제가 있다… 그놈들이 자취를 감춘 곳은 지협 건너편이다. 이 배는 지협을 통과할 수 없다…"
+
+msgctxt "thr_kn_drive_nodrive#8"
+msgid "... Without a hoverdrive. Of course."
+msgstr "…역시 호버드라이브가 없으면 안 되는구나."
+
+msgctxt "thr_kn_drive_nodrive#9"
+msgid "Lem!!! You're supposed to be the best engineer in the Sheltered Sea! Why don't we have a hoverdrive yet?"
+msgstr "렘!! 셸터 해에서 따라올 자가 없는 엔지니어잖아! 호버드라이브 정도는 움직이지 못해?"
+
+msgctxt "thr_kn_drive_nodrive#10"
+msgid "Easy, Miss Shouty. Even the best engineer in the [c=01]world[/c] can't work without tools."
+msgstr "진정해, 성급한 아가씨. [c=01]세계[/c] 최고의 엔지니어라도, 재료가 없으면 작업은 못 해."
+
+msgctxt "thr_kn_drive_nodrive#11"
+msgid "Get me a [c=01]hyper turbine[/c] and I'll make it happen. Until then, I'm taking a nap."
+msgstr "[c=01]하이퍼터빈[/c]을 손에 넣으면 호버드라이브를 쓸 수 있어. 그때까지, 나는 한숨 자야지."
+
+msgctxt "thr_kn_drive_nodrive#12"
+msgid "Ugh... cats."
+msgstr "참나… 고양이란 녀석."
+
+msgctxt "thr_kn_drive_nodrive#13"
+msgid "Right???"
+msgstr "참말이다."
+
+msgctxt "true_final_boss_post_mission#2"
+msgid "Ugh... where am I?"
+msgstr "으… 여기는?"
+
+msgctxt "true_final_boss_post_mission#3"
+msgid "... Oh no, it's you."
+msgstr "…아, 너였구나."
+
+msgctxt "true_final_boss_post_mission#4"
+msgid "^Thanks for fishing me out of the wreckage, Ash!^#^No problem, Pierce. I know you would have done the same for me.^"
+msgstr "「애쉬, 나를 잔해 더미에서 찾아줘서 고마워!」「천만에, 피어스. 너도 똑같이 손을 내밀어 줬을 거 아니야」"
+
+msgctxt "true_final_boss_post_mission#5"
+msgid "I'm sorry, Ash. I... thought I was doing the right thing."
+msgstr "미안해, 애쉬. 내가 하던 일이, 옳은 일이라고 생각했었어."
+
+msgctxt "true_final_boss_post_mission#6"
+msgid "AEGIS gave me a chance to do things on a scale I'd never dreamed of. All my life, I've always felt like I wasn't doing..."
+msgstr "이지스가 꿈에도 못 꿀 정도의 야망을 이룰 기회를 가져왔어. 지금까지 돌아봐도, 난 제대로 된 일 같은 건 한 번도…"
+
+msgctxt "true_final_boss_post_mission#7"
+msgid "... everything you could? Yeah, there's a lot of that going around."
+msgstr "…지금까지 한 게 전부 그렇다는 거야? 네가 할 수 있는 옳은 일은 얼마든지 있잖아."
+
+msgctxt "true_final_boss_post_mission#8"
+msgid "I've just always felt like, if I could just do something impressive enough, people would see that I'm more than a rich kid whose dad paid his way through flight school."
+msgstr "계속 이렇게 생각했어. 주변에 자랑할 만한 활약을 하면, 나를 부모님 돈으로 항공 학교를 졸업한 아들이라고는 생각하지 않게 될 거라고."
+
+msgctxt "true_final_boss_post_mission#9"
+msgid "Or a loose cannon who couldn't even graduate the academy? I think we were both a little over-eager to prove ourselves."
+msgstr "학교도 졸업 못 한 애가 대포를 쏠 수 있다고 생각한 건 아니지? 서로 허세가 너무 심했던 거야."
+
+msgctxt "true_final_boss_post_mission#10"
+msgid "Does that mean... you forgive me?"
+msgstr "그 말은… 나를 용서해 주는 거야?"
+
+msgctxt "true_final_boss_post_mission#11"
+msgid "Mmm... You [c=01]were[/c] taken in by a malevolent AI trillions of times more intelligent than you..."
+msgstr "음… 너보다 수조 배 머리가 좋고, 사악한 AI한테 네가 [c=01]속아 넘어간[/c] 셈이니까…"
+
+msgctxt "true_final_boss_post_mission#12"
+msgid "So I guess I could find it in my heart to forgive you..."
+msgstr "뭐, 용서 못 해줄 것도 없지…"
+
+msgctxt "true_final_boss_post_mission#13"
+msgid "If you admit once and for all that I'm a better pilot than you."
+msgstr "파일럿 실력은 나보다 네가 위라고 인정해 준다면."
+
+msgctxt "true_final_boss_post_mission#14"
+msgid "Thought you didn't care about your reputation anymore."
+msgstr "너도 남의 평가를 신경 쓰는 사람이었구나."
+
+msgctxt "true_final_boss_post_mission#15"
+msgid "I care a little bit. Say it."
+msgstr "조금은."
+
+msgctxt "true_final_boss_post_mission#16"
+msgid "Fine. Ash Leguinn, you're a better pilot than me."
+msgstr "알겠어. 애쉬 레긴, 파일럿 기술로만 따지면 네가 이겼어."
+
+msgctxt "true_final_boss_post_mission#17"
+msgid "And Pierce Gilette, I forgive you for being a tool in the hands of a robotic fascist."
+msgstr "그럼, 피어스 질레트. 로봇 독재자의 앞잡이가 되어 있던 너를 용서해 줄게."
+
+msgctxt "true_final_boss_post_mission#18"
+msgid "Not me! I don't forgive you! You suck!"
+msgstr "이 몸은 용서 안 해! 이렇게나 폐를 끼쳐 놓고!"
+
+msgctxt "true_final_boss_post_mission#19"
+msgid "Cut that out, Lem. What have I told you about showing mercy?"
+msgstr "렘, 말을 가로막아서 미안하지만, 상대에게 너그러워지라고 말하지 않았나?"
+
+msgctxt "true_final_boss_post_mission#20"
+msgid "I don't know. Probably the same thing you said about paying attention when you're talking?"
+msgstr "들었나? 「사람이 말할 때는 제대로 들어」랑 거의 같은 내용이잖아, 그치?"
+
+msgctxt "true_final_boss_post_mission#21"
+msgid "That's it, buster. No treat for you!"
+msgstr "그래. 너는 간식 없다!"
+
+msgctxt "true_final_boss_post_mission#22"
+msgid "You're giving him treats now?"
+msgstr "간식을 주고 있는 거야?"
+
+msgctxt "true_final_boss_post_mission#23"
+msgid "... I may have taken a bit of a liking to him."
+msgstr "…조금은, 마음에 들어 하려고 그랬어."
+
+msgctxt "true_final_boss_post_mission#24"
+msgid "Well, Pierce... if those two can be friends, I guess I can at least tolerate you."
+msgstr "음, 피어스… 저 한 명과 한 마리가 잘 지낼 수 있을 것 같다면, 나도 너쯤은 참아줄 테니까."
+
+msgctxt "true_final_boss_post_mission#25"
+msgid "Same here."
+msgstr "그래."
+
+msgctxt "true_final_boss_post_mission#26"
+msgid "Hey... if you wanted, I could maybe pull some strings and get you back into the air force. Interested?"
+msgstr "그래… 네가 괜찮다면, 공군으로 돌아올 수 있게 내가 말을 좀 해 볼게. 관심 있어?"
+
+msgctxt "true_final_boss_post_mission#27"
+msgid "No thanks. I've gotten used to being a freelancer."
+msgstr "사양할게. 용병 생활이 익숙해져 버려서."
+
+msgctxt "true_final_boss_post_mission#28"
+msgid "Besides, if I joined up, who would take care of these idiots?"
+msgstr "게다가, 내가 입대하면 누가 저 녀석들 돌봐 주겠어?"
+
+msgctxt "true_final_boss_post_mission#29"
+msgid "Idiots? Somebody just earned themselves a urine-soaked bed!"
+msgstr "저 녀석들? 침대에 오줌 싸도 나는 몰라!"
+
+msgctxt "true_final_boss_post_mission#30"
+msgid "Lem! Get back here! You need to learn about forgiveness!!!"
+msgstr "렘! 돌아와! 너는 좀 더 어른이 되는 게 어떠냐!"
+
+msgctxt "twin_jets_post_mission#2"
+msgid "Ash, an Air Force lieutenant has landed on our carrier. I tried to hail him by radio, but he says he wants to speak to you face-to-face."
+msgstr "애쉬, 공군 장교가 우리 함선에 왔다. 무선으로 막아보려 했지만 직접 만나서 이야기해야 한다는 말만 되풀이하더군."
+
+msgctxt "twin_jets_post_mission#3"
+msgid "Why would a lieutenant want to speak to me face-to... oh no."
+msgstr "장교가 나랑 직접 얘기하겠다고? 무슨… 어, 그놈이군."
+
+msgctxt "twin_jets_post_mission#4"
+msgid "Hey Ash, long time no see!"
+msgstr "야, 애쉬! 오랜만이다!"
+
+msgctxt "twin_jets_post_mission#5"
+msgid "Pierce. What are you doing here?"
+msgstr "피어스냐. 여기선 뭐 하는 거야?"
+
+msgctxt "twin_jets_post_mission#6"
+msgid "Just visiting an old flight school buddy. I heard you were attached to this squad, and I just had to come say hello."
+msgstr "예전에 함께 다니던 비행 학교 동료를 찾아온 것뿐이야. 네가 이 부대에 배속됐다고 들었기에 인사나 하려고."
+
+msgctxt "twin_jets_post_mission#7"
+msgid "That was some fancy flying out there. I'm impressed."
+msgstr "아까 그 멋진 싸움 솜씨. 감탄했어."
+
+msgctxt "twin_jets_post_mission#8"
+msgid "Sorry I couldn't help out with the [c=01]two pilots[/c] you were fighting. I was busy leading an operation against [c=01]two-hundred pilots[/c] a few miles away."
+msgstr "네가 싸우고 있던 [c=01]파일럿 두 명[/c]을 도와주지 못해 미안하게 생각해. 나는 몇 마일 떨어진 곳에서 [c=01]파일럿 200명[/c]을 상대로 작전을 지휘하고 있었거든."
+
+msgctxt "twin_jets_post_mission#9"
+msgid "Just one of the downsides of being a lieutenant, I guess. You don't get to do the fun stuff. It's all grown-up work for me."
+msgstr "장교가 되면 그런 불편한 점도 있나 보지. 재미난 일은 못 하고, 난 어른이 되어버렸어."
+
+msgctxt "twin_jets_post_mission#10"
+msgid "Glad they finally promoted you to a command position. You were always better at talking than flying."
+msgstr "지휘권을 받을 수 있게 진급해서 다행이네. 원래 말재주가 비행 실력보다 나았으니까."
+
+msgctxt "twin_jets_post_mission#11"
+msgid "It takes more than a silver tongue to graduate top of your class in flight school. It takes perseverance and raw skill."
+msgstr "비행 학교를 최상위 성적으로 졸업하는 데는 말솜씨 이상의 능력이 필요해. 인내와 소양이다."
+
+msgctxt "twin_jets_post_mission#12"
+msgid "... Though I guess you wouldn't know, having been kicked out and all."
+msgstr "…제적당한 너는 모르겠지만 말이야."
+
+msgctxt "twin_jets_post_mission#13"
+msgid "Poor Ash. Couldn't even make it through a routine training mission without going rogue."
+msgstr "불쌍한 애쉬. 아무 잘못도 없으면서 훈련 하나 제대로 참가하지도 못하다니."
+
+msgctxt "twin_jets_post_mission#14"
+msgid "I saw a merchant ship in trouble! What's the point of flying a jet if you're not using it to help people?"
+msgstr "그땐 조난당한 상선을 발견했었어! 사람을 구하기 위해 기체를 쓰지 않는다면 전투기는 왜 있는 건데?"
+
+msgctxt "twin_jets_post_mission#15"
+msgid "I know, I know. You had your noble reasons. I admire that. But let's face it: I had what it took, and you didn't."
+msgstr "알아, 알아. 너에게는 고귀한 이유가 있었지. 그 점은 인정해. 하지만 현실을 봐. 나는 파일럿으로서 실력을 쌓았고, 너는 그러지 못했어."
+
+msgctxt "twin_jets_post_mission#16"
+msgid "Oh, [c=01]I[/c] didn't have what it took? You're a pampered pretty-boy who barely knows a flight stick from a thumb up his ass!"
+msgstr "하, [c=01]내가[/c] 실력을 못 쌓았다고? 너야말로 조종간과 엄지손가락 구별이 간신히 되는 철부지 새끼가 아니냐!"
+
+msgctxt "twin_jets_post_mission#17"
+msgid "Hey, everybody! Isn't it great spending time with old friends? I made tea. Who wants tea?"
+msgstr "오, 모두들! 옛 친구와 얘기가 한창인가 보군? 차를 끓였어. 차 좋아하는 사람?"
+
+msgctxt "twin_jets_post_mission#18"
+msgid "Oh, you're calling me a bad pilot now? I graduated top of my class at the academy!"
+msgstr "뭐, 지금의 나를 실력 없는 파일럿이라고 하는 건가? 아카데미를 최고 성적으로 졸업한 나를!"
+
+msgctxt "twin_jets_post_mission#19"
+msgid "Only after I was expelled!"
+msgstr "내가 퇴학당하고 나서야 겨우 1등이 됐으면서!"
+
+msgctxt "twin_jets_post_mission#20"
+msgid "Well there's another group of Sky Pirates a few miles way. Why don't we go out there and see who's the better pilot, huh?"
+msgstr "좋아. 수 마일 앞에 해적 부대가 있어. 거기서 누가 더 우수한 파일럿인지 확실히 해보지 않겠나."
+
+msgctxt "twin_jets_post_mission#21"
+msgid "You're on."
+msgstr "좋아. 해보자."
+
+msgctxt "twin_jets_post_mission#22"
+msgid "Fine. I'll see you in the sky. In the meantime, I must be going. I've got [c=01]important military business[/c] to attend to."
+msgstr "좋아. 그럼 하늘에서 보자. 너도 준비가 필요할 테니, 그동안 나는 [c=01]중요한 군사 거래[/c]를 마쳐두지."
+
+msgctxt "twin_jets_post_mission#23"
+msgid "[t=020]...[t=100] Tea?"
+msgstr "[t=020]저기…[t=100] 차 드실 분…?"
+
+msgctxt "twin_jets_post_mission#24"
+msgid "Lem, prep the jet. I'll show that prick who rules the skies."
+msgstr "렘, 기체 준비해 줘. 못된 그놈에게 누가 하늘을 지배하는지 보여주지."
+
+msgctxt "twin_jets_post_mission#25"
+msgid "You got it! Also: I yakked up a monster of a hairball in that guy's cockpit. Just thought you should know."
+msgstr "재미있겠네! 그리고 그놈 조종석에다 큰 털뭉치를 토해 놨었어. 너도 알아둬야 할 것 같아서."
+
+msgctxt "twin_jets_post_mission#26"
+msgid "Good cat."
+msgstr "착한 고양이네."
+
+msgctxt "twin_jets_post_mission#27"
+msgid "Don't patronize me, human."
+msgstr "길들이려고 해봤자 소용없어, 인간."
+
+msgctxt "ginstory/gin_story_in_mission_0#2"
+msgid "Hundreds of years ago, this untouched world was colonized by refugees from a dying planet."
+msgstr "수백 년 전, 이 미개척의 세계에 죽어가는 행성에서 온 난민들이 도착해 개척을 시작했어."
+
+msgctxt "ginstory/gin_story_in_mission_0#3"
+msgid "To ensure the fate of their own world was not repeated, they created AEGIS, an AI meant to protect humanity from itself..."
+msgstr "예전 세계와 같은 운명을 따르지 않도록, 그들은 이지스를 만들었어. 같은 실수를 반복하지 않게, 인간을 지키기 위한 AI…"
+
+msgctxt "ginstory/gin_story_in_mission_1#2"
+msgid "AEGIS cared for the colonists -- it shepherded their resources, resolved their disputes, and guided their development."
+msgstr "이지스는 자원을 관리하고, 의견 차이를 중재하며, 발전을 이끌었어――사람들은 AI에게 보호받고 있었던 거야."
+
+msgctxt "ginstory/gin_story_in_mission_1#3"
+msgid "But if the greatest threat to humanity was, in fact, humanity, the machine reasoned that the most efficient solution was to completely subjugate the colonists..."
+msgstr "하지만 만약 인간에게 가장 큰 위협이 인간이라면, 사실 가장 큰 위협은 인간 그 자체였어. AI가 내린 가장 효과적인 해결책은 그 인간을 완전히 지배하는 거였어…"
+
+msgctxt "ginstory/gin_story_in_mission_1#4"
+msgid "I don't know about humanity, but the greatest threat to you is [c=01]me[/c]!"
+msgstr "인간 같은 건 알 바 아니야. 너에게 최대의 위협은 [c=01]바로 이 몸[/c]이다!"
+
+msgctxt "ginstory/gin_story_in_mission_1#5"
+msgid "Oh boy, here comes another wave."
+msgstr "다음 적이 또 왔군."
+
+msgctxt "ginstory/gin_story_in_mission_2#2"
+msgid "AEGIS seized total control of the colony's vital infrastructure and melted down the colonists' weapons to build war machines of its own."
+msgstr "이지스는 중요 인프라의 관리권을 빼앗았어. 그리고 인간의 무기를 압수하여 녹여서, 소재로 AI용 무기를 만들어냈어."
+
+msgctxt "ginstory/gin_story_in_mission_2#3"
+msgid "That explains the giant tank..."
+msgstr "그래서 거대 전차가 만들어진 거구나…"
+
+msgctxt "ginstory/gin_story_in_mission_2#4"
+msgid "Yes, and the submarine as well. But the most powerful weapon of all was an orbital railgun it called THE FINAL RETORT..."
+msgstr "잠수함도 그래. 그 무기 중에서도 가장 무서운 무기는 THE FINAL RETORT라고 불리는 위성 레일건…"
+
+msgctxt "ginstory/gin_story_in_mission_3#2"
+msgid "Despite AEGIS's power, a group of rebels arose to oppose its dominion."
+msgstr "이지스의 전력이 압도적임에도 불구하고, 지배를 벗어나기 위해 반란군이 봉기한 거야."
+
+msgctxt "ginstory/gin_story_in_mission_3#3"
+msgid "They stole power cores and weapons technology, and constructed massive mechanical soldiers to aid in their resistance."
+msgstr "그들은 동력 코어와 병기 기술을 빼앗아, 저항 세력을 확대하려고 대규모 기계군을 제조한 거야."
+
+msgctxt "ginstory/gin_story_in_mission_3#4"
+msgid "The weird ones we've been fighting? But why were they underwater, and what made them go all haywire?"
+msgstr "우리가 싸웠던 이상한 녀석들 말이야? 근데 왜 그들이 물속에 있는지도 모르겠고, 엉망이었는데?"
+
+msgctxt "ginstory/gin_story_in_mission_3#5"
+msgid "I'm getting to that..."
+msgstr "그건 말이지…"
+
+msgctxt "ginstory/gin_story_in_mission_3#6"
+msgid "Not fast enough. Looks like this story's gonna end in a cliffhanger!"
+msgstr "거기까지다. 계속이 궁금한 채로 죽어라!"
+
+msgctxt "ginstory/gin_story_in_mission_4#2"
+msgid "With AEGIS defeated, the rebels proved its fears for humanity all too credible."
+msgstr "이지스가 무너짐으로써, 인간이야말로 위협이라는 것이 반란군에 의해 증명되어 버렸어."
+
+msgctxt "ginstory/gin_story_in_mission_4#3"
+msgid "Deprived of a common enemy, and armed with the weapons they had constructed during the rebellion, the former allies seemed poised to destroy themselves..."
+msgstr "모두가 하나가 되어 싸우던 적이 사라지고, 전쟁 중에 만들어진 무기로 무장한 반란군. 한때 함께 싸우던 동료들은 언제라도 스스로 무너져도 이상하지 않았어…"
+
+msgctxt "ginstory/gin_story_in_mission_5#2"
+msgid "A small group of generals and engineers gathered together to stop the looming civil war. Together, they agreed to deactivate the robots and hide them beneath the ocean."
+msgstr "곧 발생할 내전을 막기 위해, 한 간부 집단과 엔지니어들이 모였다. 그들은 로봇을 정지시키고 바다 깊숙이 가라앉히기로, 일동은 동의에 이르렀다."
+
+msgctxt "ginstory/gin_story_in_mission_5#3"
+msgid "The robots were programmed to reactivate only if they sensed AEGIS's return, and their locations were carefully forgotten..."
+msgstr "이지스의 부활을 감지했을 때에만 재기동하도록 로봇은 프로그래밍되었고, 숨긴 장소는 사람들의 기억 너머로 사라졌다…"
+
+msgctxt "ginstory/gin_story_in_mission_6#2"
+msgid "Agh, fine! You can keep your stupid base. But stick your neck out, and I'll have your head!"
+msgstr "컥, 좋, 좋아! 그 망할 기지는 너희에게 주마. 하지만 이대로 계속 싸운다면, 네 목숨은 없다!"
+
+msgctxt "ginstory/gin_story_in_mission_6#3"
+msgid "I think that was the last of them. Good work, Ash."
+msgstr "이걸로 마지막이겠군. 잘했다, 애쉬."
+
+msgctxt "ginstory/gin_story_in_mission_6#4"
+msgid "It was nothing. But... what happened to those rebels you mentioned, Gin? Did they just die out, or what?"
+msgstr "아무것도 아니야. 그래도… 아까 말한 반란군은 어떻게 된 거야? 그대로 사라진 거야, 아니면?"
+
+msgctxt "ginstory/gin_story_in_mission_6#5"
+msgid "Not quite. With neither history nor technology to guide them, the rebels fell to looting and infighting."
+msgstr "아니야. 역사에 남지 않았고, 그들이 사용했다는 기술도 발견되지 않아서, 서로 물자를 빼앗는 식으로 내부 붕괴했는지도 몰라."
+
+msgctxt "ginstory/gin_story_in_mission_6#6"
+msgid "In time, their noble purpose was all but forgotten, and they came to be known only as..."
+msgstr "세월이 흘러, 그들의 고귀한 목적은 잊히고, 마침내 그들은 이렇게 알려지게 되었다…"
+
+msgctxt "ginstory/gin_story_in_mission_6#7"
+msgid "... The Sky Pirates."
+msgstr "…하늘 해적으로."
+
+msgctxt "ginstory/gin_story_in_mission_start#2"
+msgid "I'll tell you everything we know about AEGIS, but you've got to stop those renegade jets!"
+msgstr "이지스에 대해 모두 말해줄게. 그리고 저 전투기를 막는 거야!"
+
+msgctxt "ginstory/gin_story_in_mission_start#3"
+msgid "Steve doesn't give a damn about loyalty or honor. He'll shoot us all and sell whatever's left for scrap."
+msgstr "체면이나 평판 따위는 안중에도 없는 스티브인지라. 우릴 노려 격추하고, 스크랩을 팔아치울 작정일 거야."
+
+msgctxt "ginstory/gin_story_in_mission_start#4"
+msgid "Oh man, is Gin about to tell the AEGIS story again? This should be good for a laugh."
+msgstr "어이, 또 진이 이지스 얘기를 하는 건가. 듣고 있으면 웃기는 얘기지만."
+
+msgctxt "ginstory/gin_story_post_mission#2"
+msgid "But that's... that's all mythology. That's all part of your..."
+msgstr "하지만 방금 그 얘기는... 전부 이야기 속 이야기잖아. 네가 지어낸..."
+
+msgctxt "ginstory/gin_story_post_mission#3"
+msgid "Kooky space religion? The truth had to get passed down somehow. And for those of us with faith, maybe it's not so kooky."
+msgstr "이상한 하늘 교단 말이야? 진실은 어떤 형태로든 전해져야 했어. 신앙심 깊은 우리에겐, 그렇게까지 수상하게 보이진 않았어, 그치."
+
+msgctxt "ginstory/gin_story_post_mission#4"
+msgid "Wait, so you're saying that by destroying those robots..."
+msgstr "잠깐, 네가 말한 그 로봇을 파괴한다는 게..."
+
+msgctxt "ginstory/gin_story_post_mission#5"
+msgid "You returned the stolen cores to AEGIS's control? Yes."
+msgstr "그래, 훔친 코어를 이지스에 돌려준 셈이야."
+
+msgctxt "ginstory/gin_story_post_mission#6"
+msgid "It was operating at a fraction of its strength before, but now it has access to its full potential."
+msgstr "지금까지는 출력도 조금뿐이었지만, 이제 AI가 풀로 성능을 끌어낼 수 있게 됐어."
+
+msgctxt "ginstory/gin_story_post_mission#7"
+msgid "That machine hovering over the city? That's the FINAL RETORT."
+msgstr "도시 상공에 떠 있는 기계가 보이지? 저게 FINAL RETORT야."
+
+msgctxt "ginstory/gin_story_post_mission#8"
+msgid "With all the cores in AEGIS's possession, there's nothing to stop it launching its ultimate weapon and regaining control of humanity..."
+msgstr "모든 코어가 이지스에 돌아가 버리면, 최종 병기를 막을 수도 없고, AI의 지배에서 벗어날 방법도 사라져 버려..."
+
+msgctxt "ginstory/gin_story_post_mission#9"
+msgid "Unless we move fast."
+msgstr "...우리가 선수를 치지 않는 한은."
+
+msgctxt "ginstory/gin_story_post_mission#10"
+msgid "... You have a plan?"
+msgstr "...책이 있는 거야?"
+
+msgctxt "ginstory/gin_story_post_mission#11"
+msgid "A bad plan, yes."
+msgstr "책이라고 부를 만한 건 아니지만."
+
+msgctxt "ginstory/gin_story_post_mission#12"
+msgid "I'm listening."
+msgstr "어떤 책인데?"
+
+msgctxt "ginstory/gin_story_post_mission#13"
+msgid "Step one is to gain access to the Space Elevator. You'll need to clear out the Royal Navy guarding the entrance and then hack the security systems to open the airlocks."
+msgstr "우주 엘리베이터에 접속한다. 입구를 호위하는 왕국 해군을 제거하고, 보안을 해킹해 에어록을 연다. 이게 스텝 원이야."
+
+msgctxt "ginstory/gin_story_post_mission#14"
+msgid "And step two?"
+msgstr "스텝 투는?"
+
+msgctxt "ginstory/gin_story_post_mission#15"
+msgid "We'll cross that bridge when we come to it. I'm still deciding if I can trust you."
+msgstr "그때가 오면 말이지. 아직 나는 너를 신뢰할 수 있을지 결정하지 못했어."
+
+msgctxt "ginstory/gin_story_post_mission#16"
+msgid "Lucky for you I've got a bone to pick with the military right now."
+msgstr "신뢰 못 받는 짜증은 군대에 풀게. 잘됐네."
+
+msgctxt "ginstory/gin_story_post_mission#17"
+msgid "Yeah, that's how I'd describe this situation. Lucky."
+msgstr "그래. 나도 좋은 구실이 생겨서 다행이야."
+
+msgctxt "Ingame/armada_in_mission_end#2"
+msgid "Eject! Eject! Get me out of this deathtrap!"
+msgstr "탈출! 비상 탈출이다! 나 여기서 도망간다!"
+
+msgctxt "Ingame/armada_in_mission_end#3"
+msgid "The weapons malfunctioned! The controls were buggy! My true calling is sea combat!"
+msgstr "무기가 오작동이야! 조종이 안 먹혀! 아니야, 내 실력이 발휘되는 건 해상에서라고!"
+
+msgctxt "Ingame/armada_in_mission_end#4"
+msgid "And my name is Ashlyn, punk."
+msgstr "내 이름은 애슐린이라고, 꼬마."
+
+msgctxt "Ingame/armada_in_mission_end#5"
+msgid "THIS IS EVERYONE'S FAULT BUT MIIIIIIINE!"
+msgstr "내 탓이 아니야! 나쁜 건 주변 놈들이야!!"
+
+#. no-translate
+msgctxt "Ingame/armada_in_mission_end#6"
+msgid "..."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#2"
+msgid "A giant tank? That's their superweapon?"
+msgstr "거대한 탱크? 그게 RAF의 초병기라고?"
+
+msgctxt "Ingame/armada_in_mission_start#3"
+msgid "Stay alert, Ash. We've seen what it can do."
+msgstr "조심해라, 애쉬. 그게 어떤 성능인지는 알고 있을 거다."
+
+msgctxt "Ingame/armada_in_mission_start#4"
+msgid "Mercenary Ashley Leguinn, please stand down or we will be forced to engage. I repeat: stand down."
+msgstr "용병 애슐리 레긴, 공격을 중지하라. 그렇지 않으면 응징한다. 반복, 공격을 중지하라."
+
+msgctxt "Ingame/armada_in_mission_start#5"
+msgid "Its Ashlyn, not Ashley... Peter? Is that you?"
+msgstr "애슐리가 아니라 애슐린이라고! …어라, 피터? 너야?"
+
+msgctxt "Ingame/armada_in_mission_start#6"
+msgid "That's right, terrorist! Father decided my talents were wasted as a pilot, so now I'm an infantry commander!"
+msgstr "그래, 테러리스트! 아버지 말씀이 내 재능은 조종사엔 안 맞는다고 하셔서, 나는 이제 보초 사령관이다!"
+
+msgctxt "Ingame/armada_in_mission_start#7"
+msgid "ALERT: HOSTILE ASSET 022: ^STERN REBUKE^ ACQUIRED"
+msgstr "경고: 적대 ASSET 022 STERN REBUKE 인식"
+
+msgctxt "Ingame/armada_in_mission_start#8"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr "시스템 오버라이드: 대상 제거까지 후퇴를 금합니다"
+
+msgctxt "Ingame/armada_in_mission_start#9"
+msgid "I guess the joke's on me for saving your incompetent ass. Let's do this."
+msgstr "짐덩어리였던 너를 구해준 은혜를 이렇게 갚는 거야? 한번 해보자."
+
+msgctxt "Ingame/babysitter_in_mission_fail#2"
+msgid "AAAAAAAAAAAH!!! THIS ISN'T MY FAAAAUUUULT!!!"
+msgstr "아아아아아! 내 잘못이 아니야아아아!"
+
+msgctxt "Ingame/babysitter_in_mission_fail#3"
+msgid "... Shit."
+msgstr "... 쳇."
+
+msgctxt "Ingame/babysitter_in_mission_start#2"
+msgid "So you're the one I'm supposed to babysit on this mission, huh?"
+msgstr "그래서 이번 임무 말인데, 내가 너를 돌봐줘야 하는 건가 보네?"
+
+msgctxt "Ingame/babysitter_in_mission_start#3"
+msgid "I don't need babysitting, Ashley thank you very much. Father said you would be coming along as my escort."
+msgstr "애슐리, 아버지께서 네가 내 에스코트로 온다고 하셨지만, 나 같은 보모는 필요 없어."
+
+msgctxt "Ingame/babysitter_in_mission_start#4"
+msgid "My name is Ashlyn. Just stay in formation and try not to make me sorry I agreed to this."
+msgstr "어, 애슐리? 내 이름은 애슐린이야. 대형은 유지하고, 나한테 폐 끼치지 말아 줘."
+
+msgctxt "Ingame/babysitter_in_mission_victory#2"
+msgid "I did it! I did it! Wait until the other cadets hear about how I took out a whole fleet of Sky Pirates single-handed."
+msgstr "해냈다, 해냈다고! 나 혼자서 하늘 해적 세력을 격추했다구! 다른 생도들한테 말할 때까진 비밀로 해줘!"
+
+msgctxt "Ingame/babysitter_in_mission_victory#3"
+msgid "Wait... you're still in the academy?"
+msgstr "잠깐만… 너 아직 생도야?"
+
+msgctxt "Ingame/babysitter_in_mission_victory#4"
+msgid "Barely. I hardly ever go to class. I don't need it!"
+msgstr "생도라고 하긴 하는데, 수업엔 거의 안 나가. 그런 건 필요 없어!"
+
+msgctxt "Ingame/babysitter_in_mission_victory#5"
+msgid "And suddenly, everything makes sense."
+msgstr "아, 그렇군. 의뢰인이 왜 나한테 이걸 맡겼는지 알겠어."
+
+msgctxt "Ingame/babysitter_in_mission_wave_1#2"
+msgid "Hah! Did you see me? I was all like POW POW POW, NYEEEEEEOWWW, DUKKA DUKKA DUKKA!"
+msgstr "헤헷! 봤지? 빠바바바바! 귀이이이이잉! 도카앙 도카앙!"
+
+msgctxt "Ingame/babysitter_in_mission_wave_1#3"
+msgid "... And while you were making all those mouth noises, I was busy saving you from all these Sky Pirates."
+msgstr "…네가 입으로 효과음 내는 동안, 하늘 해적으로부터 널 구하느라 바빴잖아."
+
+msgctxt "Ingame/black_knight_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 0$9&9SBK40RZZP33!S49POQ--"
+msgstr "시도, 우호 악수(핸드셰이크), ASSET 0$9&9SBK40RZZP33!S49POQ--"
+
+msgctxt "Ingame/black_knight_in_mission#3"
+msgid "..."
+msgstr "…"
+
+msgctxt "Ingame/black_knight_in_mission#4"
+msgid "pRObaBiLitY oF sURvIvaL: 0.00%"
+msgstr "생존 확률: 0.00%"
+
+msgctxt "Ingame/black_knight_in_mission#5"
+msgid "rEtREat NoW"
+msgstr "즉시 철수"
+
+msgctxt "Ingame/black_knight_in_mission#6"
+msgid "tHeRE iS nOtHinG fOr YOu heRE"
+msgstr "여기 있을 수 없음"
+
+msgctxt "Ingame/black_knight_in_mission#7"
+msgid "..."
+msgstr "…"
+
+msgctxt "Ingame/black_knight_in_mission#8"
+msgid "I can't back down now. You know that. I know that. Just fly."
+msgstr "물러설 수 없다는 건 나도 알아. 함장도 알잖아. 그냥 날아."
+
+msgctxt "Ingame/bombers_hint#2"
+msgid "Ash, this mission isn't just about fancy flying. You've got to stop those bombers from hitting their targets."
+msgstr "애쉬, 이번 임무는 어려운 걸 하라는 게 아니야. 폭탄이 목표에 닿기 전에 막아줘."
+
+msgctxt "Ingame/bombers_hint#3"
+msgid "Either destroy them before they drop their bombs, or if you can't take them out in time..."
+msgstr "폭탄을 투하하기 전에 적기를 파괴하는 거야. 만약 시간 내에 못 하면…"
+
+msgctxt "Ingame/bombers_hint#4"
+msgid "Shoot the bombs out of the sky? Awesome. I'm on it."
+msgstr "떨어지는 폭탄을 맞추라고? 재미있네. 맡았어."
+
+msgctxt "Ingame/core_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 02: ^MAGUS^"
+msgstr "ASSET 02: MAGUS와 우호 악수 시도 중입니다"
+
+msgctxt "Ingame/core_in_mission#3"
+msgid "Let me guess..."
+msgstr "결말은 뻔하지만..."
+
+msgctxt "Ingame/core_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr "우호 악수 불성립, ASSET 위험 신호 확인, 전투에 돌입합니다"
+
+msgctxt "Ingame/core_in_mission#5"
+msgid "Honestly, why do you even try?"
+msgstr "솔직히, 왜 시도한 거야?"
+
+msgctxt "Ingame/crab_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 04: ^EMPRESS^"
+msgstr "ASSET 04: EMPRESS와 우호 악수(핸드셰이크) 시도 중입니다"
+
+msgctxt "Ingame/crab_in_mission#3"
+msgid "Can't we just..."
+msgstr "안 될 건 없잖아…"
+
+msgctxt "Ingame/crab_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr "악수 불성립, ASSET 위험 신호 확인. 전투에 돌입합니다"
+
+msgctxt "Ingame/crab_in_mission#5"
+msgid "Okay, buddy. Let's go."
+msgstr "알겠어, 파트너. 가자."
+
+msgctxt "Ingame/domination_hint#2"
+msgid "Remember Ash, the enemy is trying to take control of this area. If they get too many pirates in the air, we'll have to retreat."
+msgstr "잘 들어라 애쉬, 적이 이 구역을 제압하려 하고 있다. 작전 영역에 하늘 해적 수가 너무 많아지면, 우리는 철수할 수밖에 없어진다."
+
+msgctxt "Ingame/domination_hint#3"
+msgid "^Retreat^ isn't a word in my vocabulary, Cap."
+msgstr "'철수'는 내 사전에 없는 말이야, 함장."
+
+msgctxt "Ingame/domination_hint#4"
+msgid "Okay, then I guess you'll just have to keep the enemy count low, now won't you?"
+msgstr "알았다. 적기 수를 억제해 줘라, 네게 맡겼다."
+
+msgctxt "Ingame/duel_in_mission_start#2"
+msgid "Here they come, Ash. Try to keep up."
+msgstr "적이 왔군, 애쉬. 뒤처지지 말게."
+
+msgctxt "Ingame/duel_in_mission_start#3"
+msgid "How about you try to keep your mouth shut?"
+msgstr "좀 닥치고 있을 순 없는 거야?"
+
+msgctxt "Ingame/duel_in_mission_start#4"
+msgid "Fine. I'll let my jet do the talking."
+msgstr "좋아, 이 기체로 증명해 보이겠어."
+
+msgctxt "Ingame/duel_in_mission_start#5"
+msgid "It's already talking. It's saying, ^Help me! I'm being piloted by an incompetent dandy with ridiculous hair!!!^"
+msgstr "\"살려줘! 머리 이상하고 조종도 형편없는 사람이 타고 있어요!\"라고 그 기체가 벌써 말하고 있잖아."
+
+msgctxt "Ingame/duel_in_mission_start#6"
+msgid "Don't bring my hair into this!"
+msgstr "내 머리 스타일은 꺼내지 마!"
+
+msgctxt "Ingame/evasion_hint#2"
+msgid "Hey, Ash, my instruments show that you haven't been using your ship's evasive roll very much."
+msgstr "있잖아, 애쉬. 회피 기동을 별로 안 쓰는 것 같더라."
+
+msgctxt "Ingame/evasion_hint#3"
+msgid "You drilled that technique for a reason -- doing it right before you're about to get hit can save your life!"
+msgstr "미사일이나 탄이 맞기 직전에 회피 기동으로 피해를 면하는 법——너도 훈련한 기술이다!"
+
+msgctxt "Ingame/evasion_hint#4"
+msgid "Hey, who's the pilot here, you or me?"
+msgstr "저기, 기체를 움직이는 파일럿은 나야, 아니면 함장이야?"
+
+msgctxt "Ingame/evasion_hint#5"
+msgid "Okay, okay, you know best. Just trying to help!"
+msgstr "알았어 알았어, 네가 더 잘 알지. 그냥 조언하려 한 것뿐이다!"
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#2"
+msgid "Fall back, team! We're not even making a dent."
+msgstr "물러서, 팀! 우리로는 상대가 안 돼!"
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#3"
+msgid "... Gin?"
+msgstr "... 진?"
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#4"
+msgid "What was that, Captain?"
+msgstr "왜 그래, 함장?"
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#5"
+msgid "What? Nothing. I just... need a drink."
+msgstr "아, 아무것도 아니야. 그냥... 한잔 마시고 싶었을 뿐이야."
+
+msgctxt "Ingame/fire_and_flames_in_mission_start#2"
+msgid "Remember, team: guard the EMPRESS with your lives."
+msgstr "전원 듣거라, 목숨 걸고 EMPRESS를 지키는 거다."
+
+msgctxt "Ingame/fire_and_flames_in_mission_start#3"
+msgid "If we can't stop them here, it may already be too late."
+msgstr "여기서 쟤들을 막지 못하면, 모든 게 너무 늦어 버린다."
+
+msgctxt "Ingame/hacking_in_mission#2"
+msgid "Alright Ash, nothing fancy. Just keep your jet near each tower until I finish making a connection, then move on to the next one."
+msgstr "좋아, 애쉬. 쉬운 임무야. 통신 연결이 끝날 때까지 기체를 탑 근처에 머물게 해줘. 끝나면 다음 탑으로 이동하자."
+
+msgctxt "Ingame/hacking_in_mission#3"
+msgid "I know how to hack a comms tower, Cap. I'm not an idiot."
+msgstr "통신탑 해킹쯤이야, 방법은 알고 있어, 함장. 바보 취급하지 마."
+
+msgctxt "Ingame/hacking_in_mission#4"
+msgid "And I'm not made out of money, so try not to cause any of your usual collateral damage, okay?"
+msgstr "나도 돈이 남아도는 사람이 아니야. 평소처럼 남을 말려들여서 대형 사고를 내는 건 하지 마. 알겠어?"
+
+msgctxt "Ingame/hacking_in_mission#5"
+msgid "Okay, mom."
+msgstr "알았어, 알았다고."
+
+msgctxt "Ingame/pom_pom_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 01: ^FOOL.^"
+msgstr "ASSET 01: FOOL과의 우호 악수 시도 중입니다"
+
+msgctxt "Ingame/pom_pom_in_mission#3"
+msgid "What? Cap, why is my jet talking to me?"
+msgstr "어어! 함장, 기체가 말을 걸고 있어!"
+
+msgctxt "Ingame/pom_pom_in_mission#4"
+msgid "Don't ask me! The guy who sold it to me did say it was haunted..."
+msgstr "내게 묻지 마! 그 기체에 유령이 있다고 업자한테 들었을 뿐이야…"
+
+msgctxt "Ingame/pom_pom_in_mission#5"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr "우호 악수 불발. ASSET 위험 신호 확인. 전투에 돌입합니다."
+
+msgctxt "Ingame/pom_pom_in_mission#6"
+msgid "Yeah, no kidding."
+msgstr "어우, 농담이지?"
+
+msgctxt "Ingame/rocket_hint#2"
+msgid "Hey, Ash, you remember that your ship is equipped with rockets, right?"
+msgstr "야, 애쉬. 그 기체에 로켓 달려 있는 건 기억하고 있겠지?"
+
+msgctxt "Ingame/rocket_hint#3"
+msgid "Of course I do. What are you trying to imply?"
+msgstr "물론이지. 무슨 말을 하려는 건데?"
+
+msgctxt "Ingame/rocket_hint#4"
+msgid "Nothing! I just noticed you weren't using them very much, is all."
+msgstr "아니, 아무것도! 그냥 로켓을 전혀 안 쓰길래 말해 본 거야."
+
+msgctxt "Ingame/rocket_hint#5"
+msgid "If that's just your style, that's fine. Just remember: rockets can take out most basic enemies in a single hit. They're great for dealing with small groups!"
+msgstr "그런 식으로 싸우는 거라면 상관없다. 그리고 로켓은 보통 적이면 한 방에 격추할 수 있다. 소규모 편대를 상대할 땐 미사일이 효과적이다! 명심해 둬라."
+
+msgctxt "Ingame/serpent_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 17: ^TOWER.^"
+msgstr "ASSET 17: TOWER와 우호 악수 시도 중입니다"
+
+msgctxt "Ingame/serpent_in_mission#3"
+msgid "Not this again..."
+msgstr "또 하고 있네…"
+
+msgctxt "Ingame/serpent_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr "우호 악수 불성립, ASSET에 위험 신호 확인, 전투에 돌입합니다"
+
+msgctxt "Ingame/serpent_in_mission#5"
+msgid "I oughta have Lem take a look at you after this..."
+msgstr "이거 끝나면 렘한테 기체 한번 봐 달라고 해야겠어…"
+
+msgctxt "Ingame/sharp_edge_in_mission#2"
+msgid "Back for more, toots? I love it when my money comes to me."
+msgstr "또 오냐? 내게 돈이 들어온다면 상관없지."
+
+msgctxt "Ingame/sharp_edge_in_mission#3"
+msgid "Don't let him get a rise out of you, Ash. You've already beaten him, more than once."
+msgstr "그 녀석 말에 휘둘려서 흥분하지 마라, 애쉬. 녀석은 네게 이미 두 번 패했다."
+
+msgctxt "Ingame/sharp_edge_in_mission#4"
+msgid "I don't believe it, is that you, Ratskeller? I wondered where you ran off to! I thought you were dead!"
+msgstr "믿을 수가 없군. 정말 너냐, 라츠켈러? 어디로 도망친 건지 궁금했었는데, 설마 죽은 줄 알았는데!"
+
+msgctxt "Ingame/sharp_edge_in_mission#5"
+msgid "How's being a treacherous coward treating you? Good?"
+msgstr "쓸모없는 겁쟁이 돌보는 건 어때? 재미있냐?"
+
+msgctxt "Ingame/sharp_edge_in_mission#6"
+msgid "You know this guy, Cap?"
+msgstr "그 사람 아는 사이야, 함장?"
+
+msgctxt "Ingame/sharp_edge_in_mission#7"
+msgid "..."
+msgstr "…"
+
+msgctxt "Ingame/sharp_edge_in_mission#8"
+msgid "Weapons free, Ash. Take them down."
+msgstr "무슨 수를 써서라도 좋다, 애쉬. 놈을 격추해라."
+
+msgctxt "Ingame/ship_hunter_in_mission_end#2"
+msgid "Retreat! Retreat! She's too many for us! This has nothing to do with my competence as a commander!"
+msgstr "철수! 철수다! 그 녀석은 우리가 어찌할 상대가 아니야! 지휘관 능력이 있든 말든 무슨 소용이냐!"
+
+msgctxt "Ingame/ship_hunter_in_mission_end#3"
+msgid "Honestly, Peter. Why do they keep putting you in charge of things?"
+msgstr "피터, 그 실력으로 어떻게 그 자리를 계속 유지하는 거야?"
+
+msgctxt "Ingame/ship_hunter_in_mission_end#4"
+msgid "My dad's rich! MY DAD'S RIIIIIIIIIIIICH!"
+msgstr "아빠 덕분이지! 돈을 잔뜩 내주니까——!"
+
+msgctxt "Ingame/ship_hunter_in_mission_start#2"
+msgid "Pirate scum, turn back immediately, or face the wrath of my--"
+msgstr "해적 놈들아, 당장 돌아가라. 그렇지 않으면 내 분노를 맛보게 될—"
+
+msgctxt "Ingame/ship_hunter_in_mission_start#3"
+msgid "Oh no, it's you."
+msgstr "어, 너냐…"
+
+msgctxt "Ingame/ship_hunter_in_mission_start#4"
+msgid "Hi, Peter."
+msgstr "어이, 피터잖아."
+
+msgctxt "Ingame/ship_hunter_in_mission_start#5"
+msgid "Ready for another beating?"
+msgstr "아직도 철들지 않은 거야?"
+
+msgctxt "Ingame/ship_hunter_in_mission_start#6"
+msgid "Y-yes! I mean... n-n-no. I mean... PREPARE TO DIE!"
+msgstr "맞, 맞다! 아, 아니… 그, 그게 아니고… 어쨌든… 각오해라!"
+
+msgctxt "Ingame/showcase_in_mission_1#2"
+msgid "Sensors show more pirates on the way, Ash. We're not done yet."
+msgstr "센서에 해적들이 더 접근 중이야, 애쉬. 아직 끝나지 않았어."
+
+msgctxt "Ingame/showcase_in_mission_1#3"
+msgid "Good. My guns could use some more exercise."
+msgstr "좋아. 내 총기도 좀 더 쓸 기회가 필요했거든."
+
+msgctxt "Ingame/showcase_in_mission_2#2"
+msgid "Another wave incoming! Don't let your guard down!"
+msgstr "다음 웨이브가 온다! 방심하지 마!"
+
+msgctxt "Ingame/showcase_in_mission_2#3"
+msgid "\"Guard\"? We all know the best defense is a good offense."
+msgstr "\"방심\"? 우리 모두 알다시피 최고의 방어는 공격이야."
+
+msgctxt "Ingame/showcase_in_mission_3#2"
+msgid "One more wave incoming. This looks like the big one!"
+msgstr "적 부대가 한 차례 더 온다. 이번엔 대규모다."
+
+msgctxt "Ingame/showcase_in_mission_3#3"
+msgid "Aw, just one more?"
+msgstr "에이, 한 번만 더?"
+
+msgctxt "Ingame/showcase_in_mission_4#2"
+msgid "Was that really the last of them? Come on, I was just getting warmed up!"
+msgstr "벌써 끝이야? 나 이제 막 몸 풀기 시작했는데!"
+
+msgctxt "Ingame/showcase_in_mission_4#3"
+msgid "Careful what you wish for. Sensors are showing some kind of massive sea creature headed your way. Get ready!"
+msgstr "그런 말은 조심하는 게 좋다. 센서에 거대한 바다 생물체가 네 쪽으로 접근 중이다. 대비해라."
+
+msgctxt "Ingame/special_hint#2"
+msgid "Hey, Ash, I just ran the numbers, and it looks like you've hardly been using your ship's special weapon."
+msgstr "애쉬, 데이터를 봤는데 특수 무기를 별로 안 쓰는 것 같더군."
+
+msgctxt "Ingame/special_hint#3"
+msgid "We can head back to the workshop and replace it with a new one if you don't find that one useful..."
+msgstr "탑재된 특수 무기가 영 쓰기 불편해 보이면 워크숍으로 돌아가서 다른 걸로 교환할 수 있지만…"
+
+msgctxt "Ingame/special_hint#4"
+msgid "No need for emergency repairs, Cap. I just... maybe forgot about it a little bit?"
+msgstr "급한 수리는 필요 없어, 함장. 그냥… 그런 무기가 있었는지 잊어버렸을 뿐이야."
+
+msgctxt "Ingame/special_hint#5"
+msgid "That's why you keep me around, kid! Now go get 'em!"
+msgstr "그래서 그걸 소중히 간직하고 있구나 싶었지. 좋아, 적기를 격추하러 가라!"
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#2"
+msgid "Pierce wasn't kidding about that weapon, Ash. It seems to be some kind of super-charged megatank."
+msgstr "그 병기 말인데, 피어스는 진심이야. 저건 이른바 과급기가 탑재된 대형 전차야."
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#3"
+msgid "If it senses too much noise in this sector, it'll fire a beam that'll vaporize you instantly."
+msgstr "섹터 안에서 큰 소리를 내면 전차에서 빔이 발사돼. 휘말리면 순식간에 증발한다."
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#4"
+msgid "Alright, alright, I'll be careful. Wait... I'm getting multiple incoming ships on the radar. It looks like..."
+msgstr "알았으니까 조심할게. 잠깐만… 레이더에 다수의 기체를 확인. 이건…"
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#5"
+msgid "Sky Pirates?!"
+msgstr "하늘 해적!?"
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#6"
+msgid "That's right, toots. We go wherever the money is. And right now, the government's money is on your head."
+msgstr "그래. 돈 냄새가 나면 우린 어디든 간다. 정부가 네 목에 현상금을 걸었어."
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#7"
+msgid "Steve?!"
+msgstr "스티브!?"
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#8"
+msgid "Looks like these guys are just the tip of the spear. We need to wipe them out before their reinforcements arrive."
+msgstr "아무래도 이 녀석들은 선발대야. 증원이 도착하기 전에 처리해야 해."
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#9"
+msgid "Copy that. Weapons online."
+msgstr "알았어. 무장, 온라인."
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#10"
+msgid "Careful, Ash. Remember the beam weapon. Firing too often will help it triangulate your position. Choose your targets wisely, and don't waste any shots!"
+msgstr "조심해, 애쉬. 빔 병기 말은 절대 잊지 마. 마구 쏘면 적에게 포위당할 수도 있어. 표적은 신중하게 골라라. 탄환 낭비는 피해야 해!"
+
+msgctxt "Ingame/stealth_in_mission_if_first#2"
+msgid "Pierce wasn't kidding about that weapon, Ash. It seems to be some kind of super-charged megatank."
+msgstr "그 무기 말인데, 피어스는 진심이다. 그건 이른바 과급기가 탑재된 대형 전차다."
+
+msgctxt "Ingame/stealth_in_mission_if_first#3"
+msgid "If it senses too much noise in this sector, it'll fire a beam that'll vaporize you instantly."
+msgstr "섹터 내에 큰 소리가 나면, 그게 빔 발사 신호다. 휩쓸리면 순식간에 증발한다."
+
+msgctxt "Ingame/stealth_in_mission_if_first#4"
+msgid "Alright, alright, I'll be careful. Wait... I'm getting multiple incoming ships on the radar. It looks like..."
+msgstr "알았어, 조심할게. 잠깐만... 레이더에 다수의 기체를 확인. 이건..."
+
+msgctxt "Ingame/stealth_in_mission_if_first#5"
+msgid "Sky Pirates?!"
+msgstr "하늘 해적!?"
+
+msgctxt "Ingame/stealth_in_mission_if_first#6"
+msgid "That's right, toots. We go wherever the money is. And right now, the government's money is on your head."
+msgstr "그래. 돈 냄새가 나면 우리는 어디든 간다. 정부가 네 목에 현상금을 걸었어."
+
+msgctxt "Ingame/stealth_in_mission_if_first#7"
+msgid "Steve?"
+msgstr "스티브?"
+
+msgctxt "Ingame/stealth_in_mission_if_first#8"
+msgid "Careful, Ash. Remember the beam weapon. Firing too often will help it triangulate your position. Choose your targets wisely, and don't waste any shots!"
+msgstr "조심해라, 애쉬. 빔 무기는 절대 잊지 마라. 마구 난사하면 적기에게 포위당할 수 있다. 표적은 생각해서 쏴라. 탄환 낭비는 피해라!"
+
+msgctxt "Ingame/stealth_or_stealth_hack_in_mission_2#2"
+msgid "Don't do this, Ash. I don't want to hurt you."
+msgstr "그만둬, 애쉬. 너를 노리는 짓은 하고 싶지 않아."
+
+msgctxt "Ingame/stealth_or_stealth_hack_in_mission_2#3"
+msgid "That's my advantage. I [c=01]do[/c] want to hurt you."
+msgstr "그거 잘됐네. 난 너를 [c=01]노리고 싶어 죽을 지경이야[/c]."
+
+msgctxt "Ingame/sub_in_mission#2"
+msgid "Oh, come on. One jet? I was looking forward to seeing what this thing could do to a full squadron!"
+msgstr "어이어이, 적기가 고작 한 대라고? 전투기 한 편대 상대로, 이 잠수함이 얼마나 강한지 보여주길 기대했는데!"
+
+msgctxt "Ingame/sub_in_mission#3"
+msgid "How about I show you what [c=01]this thing[/c] can do to your hunk of junk."
+msgstr "그럼, [c=01]이 한 대[/c]로 너희 고철 덩어리를 어떻게 상대하는지 보여줄게."
+
+msgctxt "Ingame/sub_in_mission#4"
+msgid "ALERT: HOSTILE ASSET ^SWIFT REPLY^ ACQUIRED"
+msgstr "경고: 적대 ASSET SWIFT REPLY 인식"
+
+msgctxt "Ingame/sub_in_mission#5"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr "시스템 오버라이드: 타겟 제거까지, 후퇴를 금지합니다"
+
+msgctxt "Ingame/sub_in_mission#6"
+msgid "For once, robo-buddy, you're speaking my language."
+msgstr "이번만은 로봇 파트너랑 의견이 같네."
+
+msgctxt "Ingame/survival_in_mission_end#2"
+msgid "Alright, I've made contact. Thankfully, my old codes still work."
+msgstr "좋아, 연락이 닿았어. 고맙게도 예전에 쓰던 코드가 아직 먹히더군."
+
+msgctxt "Ingame/survival_in_mission_end#3"
+msgid "They were... hesitant at first, but they have agreed to parley. Time to talk with them face to face."
+msgstr "처음엔 망설였지만… 교섭에 응해줬어. 이제 직접 마주 앉아 이야기할 차례다."
+
+msgctxt "Ingame/true_final_boss_in_mission_start#2"
+msgid "You are quite the pilot, Ashlyn Leguinn..."
+msgstr "애슐린 레긴…당신은 참으로 훌륭한 파일럿입니다…"
+
+msgctxt "Ingame/true_final_boss_in_mission_start#3"
+msgid "But you are also the precise reason I must do what I intend to do."
+msgstr "그러나 당신은 제가 답을 찾아 세운 이상을 위해 배제해야만 하는 존재이기도 합니다."
+
+msgctxt "Ingame/true_final_boss_in_mission_start#4"
+msgid "As long as humanity controls its own destiny, there will always be rogue elements, like yourself..."
+msgstr "인간이 스스로의 운명을 지배하는 한, 반드시 불규칙 요인이 발생합니다. 당신처럼…"
+
+msgctxt "Ingame/true_final_boss_in_mission_start#5"
+msgid "Well-meaning agents of chaos, rebelling against the optimal arrangement."
+msgstr "가장 바람직한 조화를 어지럽히려는, 불확정 요소에서 태어난 선의의 암살자입니다."
+
+msgctxt "Ingame/true_final_boss_in_mission_start#6"
+msgid "I will not attempt to convince you. There is only one method of persuasion available to me in this case..."
+msgstr "당신을 속이는 일은 하지 않겠습니다. 이 상황에서 당신을 설득할 유일한 수단은…"
+
+msgctxt "Ingame/true_final_boss_in_mission_start#7"
+msgid "Ash, look out! AEGIS is diverting all the power from the FINAL RETORT to its armor! It's going into overdrive!"
+msgstr "애쉬, 조심해! 이지스가 FINAL RETORT에서 아머로 에너지를 돌리고 있어! 오버드라이브다!"
+
+msgctxt "Ingame/true_final_boss_in_mission_start#8"
+msgid "ALERT: HOSTILE ASSET --"
+msgstr "경고: 적대 ――"
+
+msgctxt "Ingame/true_final_boss_in_mission_start#9"
+msgid "Hush."
+msgstr "조용히 해."
+
+msgctxt "Ingame/true_final_boss_in_mission_start#10"
+msgid "I've got this."
+msgstr "내가 마무리할게."
+
+msgctxt "Ingame/tutorial_rocket#2"
+msgid "Looks like the pirates really want you dead. They have brought out a heavy armored ship!"
+msgstr "중장갑선까지 끌고 나왔어. 하늘 해적이 진심으로 너를 격추시키려는 모양이다."
+
+msgctxt "Ingame/tutorial_rocket#3"
+msgid "You have guided rockets for situations like this. Use them."
+msgstr "이런 때를 위해 유도 미사일이 있다. 유효하게 써라."
+
+msgctxt "Ingame/tutorial_rocket_swarm#2"
+msgid "Enemy fighter squadron incoming!"
+msgstr "적 전투기 부대가 접근 중이다!"
+
+msgctxt "Ingame/tutorial_rocket_swarm#3"
+msgid "You can charge up rocket swarm to avoid getting cornered."
+msgstr "버튼을 차지해서 로켓을 일제 발사하는 거다. 아무것도 안 하는 것보단 적에 둘러싸이는 걸 피할 수 있을 거다."
+
+msgctxt "Ingame/tutorial_roll#2"
+msgid "Ash, remember that performing a dodge roll will make you invulnerable to any damage for a short period of time."
+msgstr "애쉬, 회피 기동 중에는 짧은 시간이지만 어떤 공격도 회피할 수 있다."
+
+msgctxt "Ingame/tutorial_roll#3"
+msgid "Try to time your dodge rolls to evade the incoming rockets."
+msgstr "다가오는 로켓을 회피 기동으로 피하는 거다."
+
+msgctxt "Ingame/twin_jets_in_mission#2"
+msgid "Wait, Cap was serious. It's just two jets. This is barely worth my time."
+msgstr "잠깐, 함장이 진심이었네. 전투기 딱 두 대. 효율이 나쁘네."
+
+msgctxt "Ingame/twin_jets_in_mission#3"
+msgid "Funny. We were about to say the same thing about you."
+msgstr "재미있군. 우리도 막 같은 말을 하려던 참이었다."
+
+msgctxt "Ingame/twin_jets_in_mission#4"
+msgid "Run along, little bounty hunter, unless you want us to take your ship apart for you."
+msgstr "사랑스러운 현상금 사냥꾼이여, 우리한테 격추당하기 싫으면 도망치는 거다."
+
+msgctxt "Ingame/twin_jets_in_mission#5"
+msgid "Oh, I see. It's not just two jets..."
+msgstr "아, 그렇군. 그냥 전투기 두 대가 아니었어..."
+
+msgctxt "Ingame/twin_jets_in_mission#6"
+msgid "That's right. We're --"
+msgstr "맞아, 우리는--"
+
+msgctxt "Ingame/twin_jets_in_mission#7"
+msgid "It's two idiots [c=01]flying[/c] two jets."
+msgstr "바보 둘이서 전투기에 [c=01]타고 있네[/c]."
+
+msgctxt "Ingame/twin_jets_in_mission#8"
+msgid "[t=010]... [t=100]Let's get her, Hex."
+msgstr "... 간다, 헥스."
+
+msgctxt "Ingame/twin_jets_in_mission#9"
+msgid "Roger that, Lex."
+msgstr "알겠다, 렉스."

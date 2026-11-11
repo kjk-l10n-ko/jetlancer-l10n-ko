@@ -1,0 +1,4650 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JetLancer\n"
+"PO-Revision-Date: 2026-10-26 00:00+0000\n"
+"Language: ko\n"
+
+#. max_bytes: 18
+msgctxt "ui#17877417"
+msgid "to start engine."
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17877436"
+msgid "AIM"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877443"
+msgid "THRUST"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17877456"
+msgid "GO  TO  WAYPOINT"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17877478"
+msgid "GO  TO  NEXT  WAYPOINT"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17877506"
+msgid "AFTERBURN"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17877528"
+msgid "GO  TO  LAST  WAYPOINT"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17877559"
+msgid "DODGE ROLL"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877578"
+msgid "SHOOT"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877591"
+msgid "ROCKETS"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17877604"
+msgid "(HOLD)  ROCKET SWARM"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17877635"
+msgid "DESTROY  ENEMIES"
+msgstr ""
+
+#. max_bytes: 39
+msgctxt "ui#17877657"
+msgid "ACTIVATE ALL TARGETS"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17877697"
+msgid "ROLL TO EVADE"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17877716"
+msgid "SYNC TYPE"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877732"
+msgid "VSYNC"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877745"
+msgid "SLEEP"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877758"
+msgid "INVERT CONTROLS"
+msgstr ""
+
+#. max_bytes: 7
+msgctxt "ui#17877771"
+msgid "GAMEPAD"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17877779"
+msgid "BANK TYPE"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877798"
+msgid "TOGGLE"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877811"
+msgid "BANK LEFT"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877824"
+msgid "BANK RIGHT"
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17877837"
+msgid "MINIGUN"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877847"
+msgid "SPECIAL WEAPON"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17877860"
+msgid "RESET TO DEFAULT"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17877876"
+msgid "CONTROLLER SETTINGS"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17877901"
+msgid "VIBRATION"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17877908"
+msgid "DEAD ZONE"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17877927"
+msgid "INVERT Y"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17877943"
+msgid "VIDEO SETTINGS"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17877956"
+msgid "FULLSCREEN"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17877978"
+msgid "EFFECTS"
+msgstr ""
+
+#. max_bytes: 20
+msgctxt "ui#17877994"
+msgid "HD SCALING"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17878015"
+msgid "NONE"
+msgstr ""
+
+#. max_bytes: 36
+msgctxt "ui#17878022"
+msgid "THRUST + AFTERBURN"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17878059"
+msgid "BACK WITHOUT CHANGES?"
+msgstr ""
+
+#. max_bytes: 8
+msgctxt "ui#17878090"
+msgid "ALWAYS ON"
+msgstr ""
+
+#. max_bytes: 3
+msgctxt "ui#17878099"
+msgid "-RMB-"
+msgstr ""
+
+#. max_bytes: 3
+msgctxt "ui#17878103"
+msgid "-LMB-"
+msgstr ""
+
+#. max_bytes: 22
+msgctxt "ui#17878714"
+msgid "Pilot K.I.A."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17878737"
+msgid "Enemy forces overwhelmed the area."
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17878771"
+msgid "Friendly ship destroyed."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17878799"
+msgid "Area bombed."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17878833"
+msgid "Sky Pirates jet destroyed."
+msgstr ""
+
+#. max_bytes: 31
+msgctxt "ui#17878867"
+msgid "Score target not reached."
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17878899"
+msgid "NEW GAME +"
+msgstr ""
+
+#. max_bytes: 16
+msgctxt "ui#17878909"
+msgid "CHANGE SAVE"
+msgstr ""
+
+#. max_bytes: 64
+msgctxt "ui#17878926"
+msgid "Sure?#Save will be deleted"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17878991"
+msgid "New contract available"
+msgstr ""
+
+#. max_bytes: 36
+msgctxt "ui#17879022"
+msgid "HOVERDRIVE UNLOCKED"
+msgstr ""
+
+#. max_bytes: 10
+msgctxt "ui#17879059"
+msgid "COMPLETION:"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17879070"
+msgid "OP 21:"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17885947"
+msgid "Brace yourself."
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17894103"
+msgid "Briefing needed"
+msgstr ""
+
+#. max_bytes: 36
+msgctxt "ui#17894134"
+msgid "Clear area"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17894171"
+msgid "Defeat megaweapon"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17894196"
+msgid "Keep low enemy presence"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17894224"
+msgid "Stop enemy bombers"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17894252"
+msgid "Reach target score"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17894283"
+msgid "Score more kills"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17894311"
+msgid "Defeat boss"
+msgstr ""
+
+#. max_bytes: 31
+msgctxt "ui#17894327"
+msgid "Hack 2 radio towers"
+msgstr ""
+
+#. max_bytes: 29
+msgctxt "ui#17894359"
+msgid "Repel Steve's goons"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17894389"
+msgid "Assist RAF squadron"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17894414"
+msgid "Escort ship"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17894445"
+msgid "Destroy enemies"
+msgstr ""
+
+#. max_bytes: 31
+msgctxt "ui#17894464"
+msgid "Hack 3 radio towers"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17894496"
+msgid "Protect friendly aircraft"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17894515"
+msgid "Destroy enemy ships"
+msgstr ""
+
+#. max_bytes: 42
+msgctxt "ui#17894537"
+msgid "Survive until hack complete"
+msgstr ""
+
+#. max_bytes: 52
+msgctxt "ui#17894580"
+msgid "Destroy 3 gun platforms"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17894633"
+msgid "Stop nuke"
+msgstr ""
+
+#. max_bytes: 45
+msgctxt "ui#17894655"
+msgid "Destroy gun platform"
+msgstr ""
+
+#. max_bytes: 93
+msgctxt "ui#17894701"
+msgid "Fire-and-forget homing missiles."
+msgstr ""
+
+#. max_bytes: 135
+msgctxt "ui#17894795"
+msgid "Classic unguided missile."
+msgstr ""
+
+#. max_bytes: 141
+msgctxt "ui#17894931"
+msgid "Proximity charge."
+msgstr ""
+
+#. max_bytes: 180
+msgctxt "ui#17895073"
+msgid "Armor-piercing rocket."
+msgstr ""
+
+#. max_bytes: 120
+msgctxt "ui#17895254"
+msgid "Railgun - instant hit."
+msgstr ""
+
+#. max_bytes: 168
+msgctxt "ui#17895375"
+msgid "Guided missile swarm."
+msgstr ""
+
+#. max_bytes: 141
+msgctxt "ui#17895544"
+msgid "Ultrabeam - straight beam."
+msgstr ""
+
+#. max_bytes: 141
+msgctxt "ui#17895686"
+msgid "Dumb bomb - hold to speed up."
+msgstr ""
+
+#. max_bytes: 112
+msgctxt "ui#17895828"
+msgid "Autonomous drones."
+msgstr ""
+
+#. max_bytes: 168
+msgctxt "ui#17895941"
+msgid "Reactive armor - exploding drones."
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17896110"
+msgid "No modules equipped"
+msgstr ""
+
+#. max_bytes: 147
+msgctxt "ui#17896138"
+msgid "Afterburner mod - longer boost."
+msgstr ""
+
+#. max_bytes: 135
+msgctxt "ui#17896286"
+msgid "Shield on hit."
+msgstr ""
+
+#. max_bytes: 22
+msgctxt "ui#17896422"
+msgid "::Special weapon mod::"
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17896445"
+msgid "Charge weapon mod."
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17896545"
+msgid "::Advanced decryption mod::"
+msgstr ""
+
+#. max_bytes: 111
+msgctxt "ui#17896850"
+msgid "Precise shooting module."
+msgstr ""
+
+#. max_bytes: 156
+msgctxt "ui#17896962"
+msgid "Dash module."
+msgstr ""
+
+#. max_bytes: 192
+msgctxt "ui#17897309"
+msgid "ACE - no armor, max agility."
+msgstr ""
+
+#. max_bytes: 93
+msgctxt "ui#17897502"
+msgid "Evade mod."
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17897596"
+msgid "Emergency stall mod."
+msgstr ""
+
+#. max_bytes: 117
+msgctxt "ui#17897696"
+msgid "Supercharged gunpowder."
+msgstr ""
+
+#. max_bytes: 147
+msgctxt "ui#17897814"
+msgid "Autoroll."
+msgstr ""
+
+#. max_bytes: 132
+msgctxt "ui#17897962"
+msgid "Rocket scrambler."
+msgstr ""
+
+#. max_bytes: 186
+msgctxt "ui#17898912"
+msgid "Anti-Anxiety Interface."
+msgstr ""
+
+#. max_bytes: 129
+msgctxt "ui#17899099"
+msgid "Eye of the storm."
+msgstr ""
+
+#. max_bytes: 39
+msgctxt "ui#17899229"
+msgid "Alt fire switch."
+msgstr ""
+
+#. max_bytes: 57
+msgctxt "ui#17899269"
+msgid "Call in weak allied jets."
+msgstr ""
+
+#. max_bytes: 66
+msgctxt "ui#17899327"
+msgid "Call in skilled allied jets."
+msgstr ""
+
+#. max_bytes: 72
+msgctxt "ui#17899394"
+msgid "Call in ace allied jets."
+msgstr ""
+
+#. max_bytes: 40
+msgctxt "ui#17899467"
+msgid "3-bullet spread."
+msgstr ""
+
+#. max_bytes: 57
+msgctxt "ui#17899508"
+msgid "Slightly faster fire rate."
+msgstr ""
+
+#. max_bytes: 54
+msgctxt "ui#17899566"
+msgid "Much faster fire rate."
+msgstr ""
+
+#. max_bytes: 78
+msgctxt "ui#17899621"
+msgid "Chance to spawn drone on kill."
+msgstr ""
+
+#. max_bytes: 51
+msgctxt "ui#17899700"
+msgid "Chance for explosive bullets."
+msgstr ""
+
+#. max_bytes: 75
+msgctxt "ui#17899752"
+msgid "Slightly lower afterburner heat."
+msgstr ""
+
+#. max_bytes: 63
+msgctxt "ui#17899828"
+msgid "Lower afterburner heat."
+msgstr ""
+
+#. max_bytes: 72
+msgctxt "ui#17899892"
+msgid "Greatly lower afterburner heat."
+msgstr ""
+
+#. max_bytes: 45
+msgctxt "ui#17899965"
+msgid "Boost primary gun damage."
+msgstr ""
+
+#. max_bytes: 51
+msgctxt "ui#17900011"
+msgid "Faster rocket reload."
+msgstr ""
+
+#. max_bytes: 60
+msgctxt "ui#17900063"
+msgid "Much faster rocket reload."
+msgstr ""
+
+#. max_bytes: 96
+msgctxt "ui#17900124"
+msgid "Chance for critical damage."
+msgstr ""
+
+#. max_bytes: 68
+msgctxt "ui#17900221"
+msgid "Slightly faster super reload."
+msgstr ""
+
+#. max_bytes: 50
+msgctxt "ui#17900290"
+msgid "Faster super reload."
+msgstr ""
+
+#. max_bytes: 47
+msgctxt "ui#17900341"
+msgid "Rockets with super weapon."
+msgstr ""
+
+#. max_bytes: 102
+msgctxt "ui#17900389"
+msgid "Unguided high-damage bomb."
+msgstr ""
+
+#. max_bytes: 84
+msgctxt "ui#17900492"
+msgid "Multi-target laser."
+msgstr ""
+
+#. max_bytes: 58
+msgctxt "ui#17900577"
+msgid "Spawn 3 combat drones."
+msgstr ""
+
+#. max_bytes: 93
+msgctxt "ui#17900636"
+msgid "EMP disables enemies."
+msgstr ""
+
+#. max_bytes: 60
+msgctxt "ui#17900730"
+msgid "Homing missile."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17900791"
+msgid "Low-velocity charge."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17900825"
+msgid "High-velocity blank."
+msgstr ""
+
+#. max_bytes: 132
+msgctxt "ui#17900859"
+msgid "Redirect rockets with dodge."
+msgstr ""
+
+#. max_bytes: 81
+msgctxt "ui#17900992"
+msgid "Damaging dash attack."
+msgstr ""
+
+#. max_bytes: 87
+msgctxt "ui#17901074"
+msgid "Shield on hit."
+msgstr ""
+
+#. max_bytes: 150
+msgctxt "ui#17901162"
+msgid "Heat wave - longer vulnerability."
+msgstr ""
+
+#. max_bytes: 72
+msgctxt "ui#17901313"
+msgid "Slightly larger blast radius."
+msgstr ""
+
+#. max_bytes: 69
+msgctxt "ui#17901386"
+msgid "Much larger blast radius."
+msgstr ""
+
+#. max_bytes: 72
+msgctxt "ui#17901456"
+msgid "Dodge roll evades."
+msgstr ""
+
+#. max_bytes: 81
+msgctxt "ui#17901529"
+msgid "Rockets destroy small targets."
+msgstr ""
+
+#. max_bytes: 90
+msgctxt "ui#17901611"
+msgid "Hold rocket for special weapon."
+msgstr ""
+
+#. max_bytes: 79
+msgctxt "ui#17901702"
+msgid "Change loadout for hard missions."
+msgstr ""
+
+#. max_bytes: 63
+msgctxt "ui#17901782"
+msgid "Faster turn during dodge roll."
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17901846"
+msgid "Afterburner changes vector."
+msgstr ""
+
+#. max_bytes: 51
+msgctxt "ui#17901946"
+msgid "Short-charge special is viable."
+msgstr ""
+
+#. max_bytes: 39
+msgctxt "ui#17901998"
+msgid "Tip: enemy collision."
+msgstr ""
+
+#. max_bytes: 54
+msgctxt "ui#17902038"
+msgid "Tip: evading guided missiles."
+msgstr ""
+
+#. max_bytes: 48
+msgctxt "ui#17902093"
+msgid "Tip: unguided weapons."
+msgstr ""
+
+#. max_bytes: 42
+msgctxt "ui#17902142"
+msgid "Tip: sniper bullets."
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17902185"
+msgid "SUPER"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17902198"
+msgid "Accuracy"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17902205"
+msgid "Evasion precision"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17902218"
+msgid "Perfect evasions"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17902243"
+msgid "Overcharged time"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17902274"
+msgid "Backblast kills"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17902302"
+msgid "Bandits cut in half"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17902327"
+msgid "Rockets shot down"
+msgstr ""
+
+#. max_bytes: 39
+msgctxt "ui#17902358"
+msgid "Unguided airshots"
+msgstr ""
+
+#. max_bytes: 3
+msgctxt "ui#17902398"
+msgid "ART"
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17902429"
+msgid "ENEMY KIA"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17902439"
+msgid "Combo tip"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17902461"
+msgid "Evasion tip"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17902480"
+msgid "Weapon tip"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17902499"
+msgid "Accuracy tip"
+msgstr ""
+
+#. max_bytes: 45
+msgctxt "ui#17902524"
+msgid "Time mission tip"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17902570"
+msgid "Ace tip"
+msgstr ""
+
+#. max_bytes: 54
+msgctxt "ui#17902595"
+msgid "ACTIVATE ALL TARGETS (alt)"
+msgstr ""
+
+#. max_bytes: 11
+msgctxt "ui#17902650"
+msgid "//'ACCEPT'"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17902662"
+msgid "INVINCIBILITY"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17902675"
+msgid "EVADE WINDOW"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17902697"
+msgid "MINIGUN TOGGLE"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17902716"
+msgid "THRUST TOGGLE"
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17902738"
+msgid "AFTERBURN TOGGLE"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17902772"
+msgid "STROBE EFFECTS"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17902788"
+msgid "HALF DAMAGE"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17902816"
+msgid "NO DAMAGE"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17902835"
+msgid "DEFAULT"
+msgstr ""
+
+#. max_bytes: 109
+msgctxt "ui#17902848"
+msgid "THESE OPTIONS CHANGE THE DEFAULT WAY OF PLAYING JET LANCER."
+msgstr ""
+
+#. max_bytes: 75
+msgctxt "ui#17902958"
+msgid "USE THEM IF YOU WANT TO EXPERIENCE IT YOUR OWN WAY."
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17903034"
+msgid "RECOMMENDED"
+msgstr ""
+
+#. max_bytes: 10
+msgctxt "ui#17903053"
+msgid "COMPLETION:"
+msgstr ""
+
+#. max_bytes: 63
+msgctxt "ui#17906941"
+msgid "Dodge roll evades."
+msgstr ""
+
+#. max_bytes: 96
+msgctxt "ui#17907090"
+msgid "Hold for special weapon."
+msgstr ""
+
+#. max_bytes: 73
+msgctxt "ui#17907187"
+msgid "Change loadout for tough missions."
+msgstr ""
+
+#. max_bytes: 60
+msgctxt "ui#17907261"
+msgid "Faster turn when dodging."
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17907322"
+msgid "Short bursts change vector."
+msgstr ""
+
+#. max_bytes: 54
+msgctxt "ui#17907422"
+msgid "Short charge works."
+msgstr ""
+
+#. max_bytes: 75
+msgctxt "ui#17907477"
+msgid "Fragile - use weapons."
+msgstr ""
+
+#. max_bytes: 105
+msgctxt "ui#17907553"
+msgid "Dodge toward missiles!"
+msgstr ""
+
+#. max_bytes: 68
+msgctxt "ui#17907659"
+msgid "Dodge when LANCE is targeted!"
+msgstr ""
+
+#. max_bytes: 117
+msgctxt "ui#17907728"
+msgid "Avoid sniper path!"
+msgstr ""
+
+#. max_bytes: 102
+msgctxt "ui#17907846"
+msgid "Dodge enemy charges!"
+msgstr ""
+
+#. max_bytes: 108
+msgctxt "ui#17907949"
+msgid "Use unguided vs hacking enemies!"
+msgstr ""
+
+#. max_bytes: 96
+msgctxt "ui#17908058"
+msgid "Keep distance from exploding enemies!"
+msgstr ""
+
+#. max_bytes: 100
+msgctxt "ui#17908155"
+msgid "Check loadout regularly!"
+msgstr ""
+
+#. max_bytes: 27
+msgctxt "ui#17908256"
+msgid "Hack target"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17908284"
+msgid "Bomb dropped"
+msgstr ""
+
+#. max_bytes: 37
+msgctxt "ui#17908309"
+msgid "ENEMY PRESENCE CRITICAL"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17908347"
+msgid "ALLIES ARRIVING"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17908366"
+msgid "NEXT"
+msgstr ""
+
+#. max_bytes: 10
+msgctxt "ui#17908373"
+msgid "TO LOADOUT"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17908384"
+msgid "EXPAND"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17908400"
+msgid "HIDE"
+msgstr ""
+
+#. max_bytes: 39
+msgctxt "ui#17908407"
+msgid "ACTIVATE ALL TARGETS"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17908447"
+msgid "GAME SETTINGS"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17908463"
+msgid "LANGUAGE"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17908476"
+msgid "TEXT SPEED"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17908495"
+msgid "CAMERA SHAKE"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17908520"
+msgid "RANK DISPLAY"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17908536"
+msgid "CAMERA ROTATION"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17908552"
+msgid "KEYBOARD SETTINGS"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17908574"
+msgid "KEYBOARD LAYOUT"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17908605"
+msgid "AUDIO SETTINGS"
+msgstr ""
+
+#. max_bytes: 24
+msgctxt "ui#17908627"
+msgid "SFX VOLUME"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17908652"
+msgid "MUSIC VOLUME"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17909066"
+msgid "Sky Pirates jet destroyed"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17909097"
+msgid "Choose a save slot"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17909128"
+msgid "New contract available"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17921194"
+msgid "Score more kills"
+msgstr ""
+
+#. max_bytes: 31
+msgctxt "ui#17921213"
+msgid "Hack 2 radio towers"
+msgstr ""
+
+#. max_bytes: 31
+msgctxt "ui#17921245"
+msgid "Hack 3 radio towers"
+msgstr ""
+
+#. max_bytes: 93
+msgctxt "ui#17921277"
+msgid "Homing missiles for bad aim."
+msgstr ""
+
+#. max_bytes: 135
+msgctxt "ui#17921371"
+msgid "Classic straight missile."
+msgstr ""
+
+#. max_bytes: 129
+msgctxt "ui#17921507"
+msgid "Impact-only proximity charge."
+msgstr ""
+
+#. max_bytes: 189
+msgctxt "ui#17921637"
+msgid "Armor-piercing rocket - fewer crits."
+msgstr ""
+
+#. max_bytes: 159
+msgctxt "ui#17921827"
+msgid "Ultrabeam for you."
+msgstr ""
+
+#. max_bytes: 115
+msgctxt "ui#17921987"
+msgid "Up to 3 guard drones."
+msgstr ""
+
+#. max_bytes: 156
+msgctxt "ui#17922103"
+msgid "Reactive armor drones."
+msgstr ""
+
+#. max_bytes: 123
+msgctxt "ui#17922260"
+msgid "Longer afterburner."
+msgstr ""
+
+#. max_bytes: 147
+msgctxt "ui#17922384"
+msgid "Hit-activated shield."
+msgstr ""
+
+#. max_bytes: 138
+msgctxt "ui#17922532"
+msgid "Dash replaces roll."
+msgstr ""
+
+#. max_bytes: 99
+msgctxt "ui#17922671"
+msgid "Auto-pull up mod."
+msgstr ""
+
+#. max_bytes: 384
+msgctxt "ui#17922771"
+msgid "Overheat blast - longer cooldown."
+msgstr ""
+
+#. max_bytes: 69
+msgctxt "ui#17923370"
+msgid "Slightly faster special reload."
+msgstr ""
+
+#. max_bytes: 51
+msgctxt "ui#17923440"
+msgid "Faster special reload."
+msgstr ""
+
+#. max_bytes: 48
+msgctxt "ui#17923492"
+msgid "Rockets with special."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17923541"
+msgid "Hack successful."
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17923575"
+msgid "Rockets shot down."
+msgstr ""
+
+#. max_bytes: 78
+msgctxt "ui#17923667"
+msgid "Combo bonus on consecutive kills."
+msgstr ""
+
+#. max_bytes: 78
+msgctxt "ui#17923746"
+msgid "Score multiplier after dodge."
+msgstr ""
+
+#. max_bytes: 78
+msgctxt "ui#17923825"
+msgid "Some weapons give more points."
+msgstr ""
+
+#. max_bytes: 102
+msgctxt "ui#17923904"
+msgid "Accuracy counts."
+msgstr ""
+
+#. max_bytes: 81
+msgctxt "ui#17924089"
+msgid "Faster mission = more points."
+msgstr ""
+
+#. max_bytes: 267
+msgctxt "ui#17924171"
+msgid "Dialogue: merchant ships as weapons."
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17924439"
+msgid "Get high score"
+msgstr ""
+
+#. max_bytes: 54
+msgctxt "ui#17924470"
+msgid "Arcade mode unlocked"
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17924525"
+msgid "1 HP restored"
+msgstr ""
+
+#. max_bytes: 25
+msgctxt "ui#17924535"
+msgid "2500 score bonus"
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17924561"
+msgid "COMBO"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924571"
+msgid "COUNTER"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924587"
+msgid "Personal best"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924603"
+msgid "New best"
+msgstr ""
+
+#. max_bytes: 6
+msgctxt "ui#17924619"
+msgid "Kills"
+msgstr ""
+
+#. max_bytes: 57
+msgctxt "ui#17924626"
+msgid "NEW CHARACTER UNLOCKED"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924684"
+msgid "CHOOSE YOUR MERCENARY"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17924700"
+msgid "BEST SCORE"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17924719"
+msgid "TOP WAVE"
+msgstr ""
+
+#. max_bytes: 33
+msgctxt "ui#17924741"
+msgid "PRESS ANY BUTTON"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17924775"
+msgid "LOCKED"
+msgstr ""
+
+#. max_bytes: 9
+msgctxt "ui#17924788"
+msgid "Level"
+msgstr ""
+
+#. max_bytes: 18
+msgctxt "ui#17924798"
+msgid "unlocked at"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17924817"
+msgid "Minigun"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924830"
+msgid "Flamethrower"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17924846"
+msgid "Pulse laser"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924868"
+msgid "Coil gun"
+msgstr ""
+
+#. max_bytes: 12
+msgctxt "ui#17924884"
+msgid "SPEED"
+msgstr ""
+
+#. max_bytes: 15
+msgctxt "ui#17924897"
+msgid "TURN SPEED"
+msgstr ""
+
+#. max_bytes: 30
+msgctxt "ui#17924913"
+msgid "GET CHARGE WEAPON"
+msgstr ""
+
+#. max_bytes: 36
+msgctxt "ui#17924944"
+msgid "REPLACE"
+msgstr ""
+
+#. max_bytes: 21
+msgctxt "ui#17924960"
+msgid "UPGRADE"
+msgstr ""
+
+msgctxt "airshow_in_mission#2"
+msgid "Come on back, Ash. They're calling the airshow on account of the... giant machine currently rising into the sky."
+msgstr ""
+
+msgctxt "airshow_in_mission#3"
+msgid "Says who?"
+msgstr ""
+
+msgctxt "airshow_in_mission#4"
+msgid "You're not going to like this..."
+msgstr ""
+
+msgctxt "airshow_in_mission#5"
+msgid "Pierce?!"
+msgstr ""
+
+msgctxt "airshow_in_mission#6"
+msgid "Apparently that [c=01]machine[/c] is a manifestation of the AEGIS bot we were talking to. He's been named its official liason."
+msgstr ""
+
+msgctxt "airshow_in_mission#7"
+msgid "Well I'm not about to let him--"
+msgstr ""
+
+msgctxt "airshow_in_mission#8"
+msgid "Ash, get back to base. You did what they paid you for, and more. Nobody's paying attention to the airshow anymore anyway."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#2"
+msgid "Ugh, [c=01]Pierce[/c]!"
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#3"
+msgid "This is so like him. I'm invited to an airshow because I can actually fly a damn plane..."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#4"
+msgid "And he has to go and stage some kind of ancient technological light show perfectly timed to steal my thunder."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#5"
+msgid "You're complaining about the airshow? At a time like this? Have you even seen the news?"
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#6"
+msgid "What, did he die or something? Because he's still a shit, even if he's dead."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#7"
+msgid "No, I'm talking about the two giant robots that just rose up out of the sea and are now advancing on the city!"
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#8"
+msgid "... Oh."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#9"
+msgid "It's still probably Pierce's fault somehow."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#10"
+msgid "Will you listen to yourself? The capital's going to be crushed!"
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#11"
+msgid "You're right. And knowing how those air force idiots fly, I'm probably our best bet of saving it."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#12"
+msgid "I was thinking we could work in concert with the air force, or maybe..."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#13"
+msgid "Ooh, are we blowing up more giant robots? I'll ready up the jet."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#14"
+msgid "And save me a piece of their brains when you wreck them, alright? I've got a theory that needs confirming..."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#15"
+msgid "At least [c=01]someone's[/c] got confidence in my abilities."
+msgstr ""
+
+msgctxt "airshow_post_mission_dialogue#16"
+msgid "He's a cat. You're really going to take a cat's word that... You know what? Nevermind."
+msgstr ""
+
+msgctxt "airshow_pre_mission#2"
+msgid "My god. I always hated the Sky Pirates, but I had no idea they were capable of all that."
+msgstr ""
+
+msgctxt "airshow_pre_mission#3"
+msgid "Plunging humanity into a technological dark age."
+msgstr ""
+
+msgctxt "airshow_pre_mission#4"
+msgid "Robbing the intelligence from the smartest city in the world, leaving it nothing but a mute metal hulk."
+msgstr ""
+
+msgctxt "airshow_pre_mission#5"
+msgid "If I were capable of weeping, I would do so now."
+msgstr ""
+
+msgctxt "airshow_pre_mission#6"
+msgid "You mean... that ancient machine the city's built on top of... that's all part of you?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#7"
+msgid "It is."
+msgstr ""
+
+msgctxt "airshow_pre_mission#8"
+msgid "And those giant robots we've been fighting?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#9"
+msgid "Fiendish weapons, corrupted by age, once built by reactionaries to destroy me. Fortunately, they were only partially successful."
+msgstr ""
+
+msgctxt "airshow_pre_mission#10"
+msgid "My sensors report that you have already defeated TOWER and FOOL..."
+msgstr ""
+
+msgctxt "airshow_pre_mission#11"
+msgid "... As well as my own SWIFT REPLY, which the Sky Pirates treacherously stole."
+msgstr ""
+
+msgctxt "airshow_pre_mission#12"
+msgid "All of this is impressive and shows that I can trust you."
+msgstr ""
+
+msgctxt "airshow_pre_mission#13"
+msgid "Actually, those were destroyed by..."
+msgstr ""
+
+msgctxt "airshow_pre_mission#14"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#15"
+msgid "... Me [c=01]and my team[/c]. A... true leader shares the credit for his victories."
+msgstr ""
+
+msgctxt "airshow_pre_mission#16"
+msgid "That is very noble of you, Commander! Yet another of your positive qualities."
+msgstr ""
+
+msgctxt "airshow_pre_mission#17"
+msgid "Thank you. It's... good to have my efforts recognized."
+msgstr ""
+
+msgctxt "airshow_pre_mission#18"
+msgid "Indeed. But... I am afraid there is more work to do. Two more [c=01]ancient machines[/c] have been awakened by my activation."
+msgstr ""
+
+msgctxt "airshow_pre_mission#19"
+msgid "They will stop at nothing to destroy me and the city I protect."
+msgstr ""
+
+msgctxt "airshow_pre_mission#20"
+msgid "These two machines, [c=02]MAGUS[/c] and [c=02]EMPRESS[/c]  are far more powerful than the ones you've already encountered."
+msgstr ""
+
+msgctxt "airshow_pre_mission#21"
+msgid "Can you... help us defeat them?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#22"
+msgid "I can. I have weapons even more potent than the submarine, as well as unparalleled strategic capabilities. But you must do exactly as I say."
+msgstr ""
+
+msgctxt "airshow_pre_mission#23"
+msgid "First, go to the console on your right and remove the cartridge labeled ^AUTONOMY GOVERNOR.^"
+msgstr ""
+
+msgctxt "airshow_pre_mission#24"
+msgid "Right now? Shouldn't I check with my superiors first?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#25"
+msgid "There's no time, Commander! The [c=01]ancient machines[/c] awaken even now! Your superiors will thank you for this."
+msgstr ""
+
+msgctxt "airshow_pre_mission#26"
+msgid "You have an opportunity now to be the greatest hero of your generation. Will you let that opportunity slip?"
+msgstr ""
+
+msgctxt "airshow_pre_mission#27"
+msgid "[t=010]...[t=100]"
+msgstr ""
+
+msgctxt "airshow_pre_mission#28"
+msgid "Alright, here we go..."
+msgstr ""
+
+msgctxt "armada_post_mission#2"
+msgid "Well, that takes care of that."
+msgstr ""
+
+msgctxt "armada_post_mission#3"
+msgid "Where are the robots now? Get me some coordinates! I'm on fire!"
+msgstr ""
+
+msgctxt "armada_post_mission#4"
+msgid "I've got your coordinates, but Ash... are you sure this is a good idea?"
+msgstr ""
+
+msgctxt "armada_post_mission#5"
+msgid "Not only are you going in alone, but now we've taken down a government weapon. There's a price on your head."
+msgstr ""
+
+msgctxt "armada_post_mission#6"
+msgid "Our list of enemies is a lot longer than our list of friends, is all I'm saying."
+msgstr ""
+
+msgctxt "armada_post_mission#7"
+msgid "Listen, Cap. Without you, I probably would have gotten myself killed a long time ago. You're the sense of self-preservation I never had."
+msgstr ""
+
+msgctxt "armada_post_mission#8"
+msgid "But if you were down there, in one of those cities that's about to get obliterated when those things pass through..."
+msgstr ""
+
+msgctxt "armada_post_mission#9"
+msgid "Well... I'm just saying, what's the use of you keeping me alive this long if I can't save anybody else?"
+msgstr ""
+
+msgctxt "armada_post_mission#10"
+msgid "..."
+msgstr ""
+
+msgctxt "armada_post_mission#11"
+msgid "I've got the coordinates. You're going to want to go after the flying one first. Get out there and save some people."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#2"
+msgid "Hah, did you see that? Barely even needed those RAF ships."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#3"
+msgid "You did good, Ash. I'm sure this will net us more contracts in the future. In fact, I just got something from the sailors we rescued."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#4"
+msgid "You mean that basket of fish? I'll pass."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#5"
+msgid "Your loss!"
+msgstr ""
+
+msgctxt "arrowhead_post_mission#6"
+msgid "Not the fish. They sent us a job offer. They want our help. Though... you might not want the gig."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#7"
+msgid "What are they looking for, an escort? Snore."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#8"
+msgid "Sort of. They claim a [c=01]sea serpent[/c] has been preying on their shipping routes for the past few days. After your display of aerobatics, they think you're the one to slay it."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#9"
+msgid "Why on earth wouldn't I want a job like that? Killing sea serpents is the kind of thing people write songs about!"
+msgstr ""
+
+msgctxt "arrowhead_post_mission#10"
+msgid "They write songs about it because sea serpents aren't real. It's probably just some sky pirates in a dinky submarine causing trouble."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#11"
+msgid "Hey, you said the aircraft carrier thing was probably exaggerated, and look how that one turned out."
+msgstr ""
+
+msgctxt "arrowhead_post_mission#12"
+msgid "Plus, if it [c=01]is[/c] some kind of submarine, it might have some kind of [c=01]hyper turbine[/c] I can use to fix your carrier's hoverdrive!"
+msgstr ""
+
+msgctxt "arrowhead_post_mission#13"
+msgid "See? It's a win-win!"
+msgstr ""
+
+msgctxt "arrowhead_post_mission#14"
+msgid "Look, I'm not going to tell you not to take a paying job. Just don't come crying to me if this one isn't as interesting as you hoped."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#2"
+msgid "..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#3"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#4"
+msgid "[g]Hello,[t=040] Ash.[/g][t=100]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#5"
+msgid "Who are you?[t=020] [t=100]How do you know my name?[t=020] [t=100]Why do you have a duplicate of my jet?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#6"
+msgid "[g]It is not a duplicate. It is the same jet. It is me, and i am you.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#7"
+msgid "You're... me?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#8"
+msgid "[g]We are, for a given value of ^you^. Our designation is LANCER_01.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#9"
+msgid "[g]In my timeline, we Launch the missile. Thousands die[/g]..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#10"
+msgid "[g]And even so, we are too weak to stop AEGIS. we are forced[/g]..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#11"
+msgid "... To deactivate the limiter. Is that what made you like this?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#12"
+msgid "[g]The void manipulator destroyed your body, and threw us back in time[/g]..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#13"
+msgid "[g]We have had thousands of years to analyze the decisions you made. At last, we understood[/g]..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#14"
+msgid "[g]And so here we wait, to stop you from making the same mistake again.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#15"
+msgid "Activating the nuke?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#16"
+msgid "[g]Beyond that.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#17"
+msgid "[g]You are trapped in your own story, Ash[/g]..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#18"
+msgid "What is that supposed to mean?"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#19"
+msgid "[g]You are eager to die, because it will prove you did all you could.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#20"
+msgid "[g]But sacrificing yourself is not a viable solution, Ash. Learn from our mistake. You cannot protect others if you do not take time to protect yourself.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#21"
+msgid "[g]You are capable of ending this on your own terms. Do not let your own self-doubt blind you.[/g]"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#22"
+msgid "Ash? Ash! Come in! We were able to get a signal through to the satellite. Gin just gave the launch order!"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#23"
+msgid "The missile will make impact in... 5 minutes!"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#24"
+msgid "... No. No!"
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#25"
+msgid "What? What's going on? I think there's something wrong with your comms..."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#26"
+msgid "Our hull integrity will not survive a re-entry attempt. I cannot come with you."
+msgstr ""
+
+msgctxt "black_knight_post_mission_if_hacked#27"
+msgid "[g]Go. Now.[/g]"
+msgstr ""
+
+msgctxt "black_knight_pre_mission#2"
+msgid "What are you guys waiting for? Launch my jet! We need to take out this defense system!"
+msgstr ""
+
+msgctxt "black_knight_pre_mission#3"
+msgid "It's not going to be that simple. The probes I sent out have been shot down. This isn't some standard missile defense system. Something's out there."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#4"
+msgid "Some [c=01]thing[/c]?"
+msgstr ""
+
+msgctxt "black_knight_pre_mission#5"
+msgid "It looks like a single jet, but I'm getting minimal life signs from on board. It's not responding on any hailing frequency..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#6"
+msgid "And in the images I've been able to get... it looks an awful lot like your jet."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#7"
+msgid "So? I'll shoot it down, just like I always do."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#8"
+msgid "I don't need to tell you -- or maybe I do -- we don't know half of what your jet can do."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#9"
+msgid "You know that Limiter setting? The one I told you not to bypass?"
+msgstr ""
+
+msgctxt "black_knight_pre_mission#10"
+msgid "We're pretty sure deactivating it would completely destroy the ship, but before it did..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#11"
+msgid "... I'm just saying, if that ship's on autopilot, it's got no reason to to keep a limiter on. It could kill you both, easily."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#12"
+msgid "Well, the way I see it, I've got two options: go out there and risk death... or give up, and spend the rest of my life wishing I was dead."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#13"
+msgid "... I know. Just..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#14"
+msgid "Be careful? Come on. You know better than that by now."
+msgstr ""
+
+msgctxt "black_knight_pre_mission#15"
+msgid "Yeah, I do."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#2"
+msgid "What are you guys waiting for? Launch my jet! We need to take out this defense system!"
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#3"
+msgid "It's not going to be that simple. The probes I sent out have been shot down. Something's out there."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#4"
+msgid "Some [c=01]thing[/c]?"
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#5"
+msgid "It looks like a single jet, but I'm getting minimal life signs from on board. If I had time to [c=01]hack it[/c], maybe I could..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#6"
+msgid "Get to the point. What's got you so worried?"
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#7"
+msgid "In the images I've been able to get... it looks an awful lot like your jet."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#8"
+msgid "So? I'll shoot it down, just like I always do."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#9"
+msgid "I don't need to tell you -- or maybe I do -- we don't know half of what your jet can do."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#10"
+msgid "You know that Limiter setting? The one I told you not to turn off?"
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#11"
+msgid "We're pretty sure deactivating it would completely destroy the ship, but before it did..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#12"
+msgid "... I'm just saying, if that ship's on autopilot, it's got a lot less incentive to keep the limiter on. It could kill you both, easily."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#13"
+msgid "Well, the way I see it, I've got two options: go out there and risk death... or give up and spend the rest of my life wishing I was dead."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#14"
+msgid "... I know. Just..."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#15"
+msgid "Be careful? Come on. You know better than that by now."
+msgstr ""
+
+msgctxt "black_knight_pre_mission_newgameplus#16"
+msgid "Yeah, I do."
+msgstr ""
+
+msgctxt "core_post_mission#2"
+msgid "Hah! I did it! And you doubted me, Cap."
+msgstr ""
+
+msgctxt "core_post_mission#3"
+msgid "Hey, that's not fair. I knew that if anyone could do it, it would be you."
+msgstr ""
+
+msgctxt "core_post_mission#4"
+msgid "I just... didn't know if anyone could do it."
+msgstr ""
+
+msgctxt "core_post_mission#5"
+msgid "Hey, sorry to bust up the routine post-mission ego massage, but I've got some data on that thing you just fragged."
+msgstr ""
+
+msgctxt "core_post_mission#6"
+msgid "It's ancient for sure -- as old as the other 'bots you've been dealing with..."
+msgstr ""
+
+msgctxt "core_post_mission#7"
+msgid "But the parts it uses are ridiculously similar to... the parts in your jet?"
+msgstr ""
+
+msgctxt "core_post_mission#8"
+msgid "So... what does that mean?"
+msgstr ""
+
+msgctxt "core_post_mission#9"
+msgid "If I knew that, I would've led with it, Ace."
+msgstr ""
+
+msgctxt "core_post_mission#10"
+msgid "But if you could get me samples from any ships you destroy from now on -- plus that giant crab thing you're hunting -- I might be able to sort out this mystery."
+msgstr ""
+
+msgctxt "core_post_mission#11"
+msgid "Sure, yeah. I'll do that in all the free time that I have."
+msgstr ""
+
+msgctxt "core_post_mission#12"
+msgid "Don't worry, Ash. I'll handle the data-gathering with Lem. You worry about taking out that robot."
+msgstr ""
+
+msgctxt "core_post_mission#13"
+msgid "Oh wow. Are we... bonding right now, Cap?"
+msgstr ""
+
+msgctxt "core_post_mission#14"
+msgid "... Shut up. You still make my eyes itch."
+msgstr ""
+
+msgctxt "crab_post_mission#2"
+msgid "Great work, Ash! You did what the entire Royal Air Force couldn't do!"
+msgstr ""
+
+msgctxt "crab_post_mission#3"
+msgid "And maybe now we can focus on getting everything back to normal..."
+msgstr ""
+
+msgctxt "crab_post_mission#4"
+msgid "Or -- hear me out -- we could dive into what appears to be a vast technological conspiracy that dates back to the founding of our civilization."
+msgstr ""
+
+msgctxt "crab_post_mission#5"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "crab_post_mission#6"
+msgid "I've analyzed parts from those giant robots. I've analyzed the Sky Pirate jets you've managed to bring back to me. I've analyzed your jet."
+msgstr ""
+
+msgctxt "crab_post_mission#7"
+msgid "Ash, they were all built by the same people."
+msgstr ""
+
+msgctxt "crab_post_mission#8"
+msgid "So? I got my jet on the black market. And the Sky Pirates are terrorists. This is the kind of thing terrorists do."
+msgstr ""
+
+msgctxt "crab_post_mission#9"
+msgid "Really? Terrorists build giant robotic sea serpents and hide them underwater for centuries?"
+msgstr ""
+
+msgctxt "crab_post_mission#10"
+msgid "..."
+msgstr ""
+
+msgctxt "crab_post_mission#11"
+msgid "Don't you think it's a little weird that the Sky pirates were camped out inside of AEGIS's brain, apparently in possession of all this technology, and they didn't turn the damn thing on?"
+msgstr ""
+
+msgctxt "crab_post_mission#12"
+msgid "And don't you think it's weird that, once we kicked them out and turned on AEGIS, these other two giant robots came out of the woodwork? What's that about?"
+msgstr ""
+
+msgctxt "crab_post_mission#13"
+msgid "I don't know. What is it about?"
+msgstr ""
+
+msgctxt "crab_post_mission#14"
+msgid "For the last time, Ace, [c=01]cats don't ask rhetorical questions[/c]! If I knew, I'd tell you!"
+msgstr ""
+
+msgctxt "crab_post_mission#15"
+msgid "But I know a certain group of ^terrorists^ who might know the answers..."
+msgstr ""
+
+msgctxt "crab_post_mission#16"
+msgid "The Sky Pirates. But how are we supposed to have a conversation with the people we've been shooting at this whole time?"
+msgstr ""
+
+msgctxt "crab_post_mission#17"
+msgid "Oh, man. If only one of us was secretly an ex-Sky Pirate who knew several key people within the organization."
+msgstr ""
+
+msgctxt "crab_post_mission#18"
+msgid "..."
+msgstr ""
+
+msgctxt "crab_post_mission#19"
+msgid "Cap?"
+msgstr ""
+
+msgctxt "crab_post_mission#20"
+msgid "How the hell did you know that?!"
+msgstr ""
+
+msgctxt "crab_post_mission#21"
+msgid "You've got a big ol' Sky Pirate tattoo on your back, man!"
+msgstr ""
+
+msgctxt "crab_post_mission#22"
+msgid "Have you... have you been watching me shower?!"
+msgstr ""
+
+msgctxt "crab_post_mission#23"
+msgid "Not ^watching^, [t=050]^spying.^[t=100] Big difference!"
+msgstr ""
+
+msgctxt "crab_post_mission#24"
+msgid "But is Lem right, Cap? Do you still know other Sky Pirates? Can you contact them?"
+msgstr ""
+
+msgctxt "crab_post_mission#25"
+msgid "Of course he can! Didn't you hear him mumbling all over your comms about it?"
+msgstr ""
+
+msgctxt "crab_post_mission#26"
+msgid "Look, Ash, you're right about the Sky Pirates: they're terrorists. Worse, they're a band of brigands with no clear center. They're criminals. They're not worth contacting."
+msgstr ""
+
+msgctxt "crab_post_mission#27"
+msgid "They are if there's something more going on here that we're not seeing. What if there's more robots? Or what if AEGIS isn't the great thing the government seems to think it is?"
+msgstr ""
+
+msgctxt "crab_post_mission#28"
+msgid "Alright, then. If you really want to talk to them... there's someplace we can go. I'll punch in the coordinates."
+msgstr ""
+
+msgctxt "crab_post_mission#29"
+msgid "But I just want to go on the record as saying that this is a bad idea."
+msgstr ""
+
+msgctxt "crab_post_mission#30"
+msgid "... And no more spying on me in the shower!"
+msgstr ""
+
+msgctxt "crab_post_mission#31"
+msgid "No promises!"
+msgstr ""
+
+msgctxt "duel_lose#2"
+msgid "Pretty good flying out there, Ash. Almost competent! I'd give it a B minus, easy!"
+msgstr ""
+
+msgctxt "duel_lose#3"
+msgid "No need to gloat, Pierce."
+msgstr ""
+
+msgctxt "duel_lose#4"
+msgid "Gloating? I'm congratulating you! You almost looked like you knew how to fly your plane!"
+msgstr ""
+
+msgctxt "duel_lose#5"
+msgid "You've got some talent, kid. You should try the air force academy!"
+msgstr ""
+
+msgctxt "duel_lose#6"
+msgid "... Oh, that's right. You [c=01]washed out[/c] of the air force academy."
+msgstr ""
+
+msgctxt "duel_lose#7"
+msgid "I'll wash you out, skidmark."
+msgstr ""
+
+msgctxt "duel_lose#8"
+msgid "Wow, you're almost as good at comebacks as you are at flying!"
+msgstr ""
+
+msgctxt "duel_lose#9"
+msgid "I'd love to stay and chat, but I must go celebrate my victory by continuing to be better than you at everything, forever."
+msgstr ""
+
+msgctxt "duel_lose#10"
+msgid "Toodles!"
+msgstr ""
+
+msgctxt "duel_lose#11"
+msgid "Oh, go eat a bonfire and burn your colon."
+msgstr ""
+
+msgctxt "duel_win#2"
+msgid "Great work out there, champ. Second place!"
+msgstr ""
+
+msgctxt "duel_win#3"
+msgid "... Out of two. Better luck next time."
+msgstr ""
+
+msgctxt "duel_win#4"
+msgid "Not all of us are flying a weird experimental jet, okay? I'm just saying, the playing field wasn't exactly even."
+msgstr ""
+
+msgctxt "duel_win#5"
+msgid "Put me in a cardboard box with a propeller on the front. I'll still wipe the floor with you."
+msgstr ""
+
+msgctxt "duel_win#6"
+msgid "Good to see you're so magnanimous in victory. Now, if you'll excuse me, I have important fleet business to attend to."
+msgstr ""
+
+msgctxt "duel_win#7"
+msgid "There are still a few Pirates to mop up before we can take the base. It's not glamorous work, but it's what [c=01]real soldiers[/c] do."
+msgstr ""
+
+msgctxt "duel_win#8"
+msgid "Oh, yeah, of course. Go do your soldier thing. Happy for you."
+msgstr ""
+
+msgctxt "duel_win#9"
+msgid "... Wait!"
+msgstr ""
+
+msgctxt "duel_win#10"
+msgid "What?"
+msgstr ""
+
+msgctxt "duel_win#11"
+msgid "Before you go, take this."
+msgstr ""
+
+msgctxt "duel_win#12"
+msgid "Take what?"
+msgstr ""
+
+msgctxt "duel_win#13"
+msgid "Your ass. On account of how I handed it to you just now."
+msgstr ""
+
+msgctxt "duel_win#14"
+msgid "You're a child, Ashlyn. You know that?"
+msgstr ""
+
+msgctxt "duel_win#15"
+msgid "Then you just got your ass beat by a child. Have fun doing soldier things!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#2"
+msgid "Are you sure we should be snooping around in here? Clearing the Sky Pirate base is the military's job."
+msgstr ""
+
+msgctxt "equal_force_post_mission#3"
+msgid "Hey, we liberated the place. We deserve a look around."
+msgstr ""
+
+msgctxt "equal_force_post_mission#4"
+msgid "And here I thought you were just in it for the money."
+msgstr ""
+
+msgctxt "equal_force_post_mission#5"
+msgid "Ugh, how are you here already?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#6"
+msgid "A little thing called piloting. Maybe you've heard of it."
+msgstr ""
+
+msgctxt "equal_force_post_mission#7"
+msgid "Anyway, feel free to have a look around. My guys are pretty much done securing the facility."
+msgstr ""
+
+msgctxt "equal_force_post_mission#8"
+msgid "Most of the leadership escaped, and they rigged the place to explode, but we disarmed the bombs and collared a few hundred pilots. Not to brag, or anything..."
+msgstr ""
+
+msgctxt "equal_force_post_mission#9"
+msgid "Sure. So... what is this place?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#10"
+msgid "No clue. It's like a labyrinth made out of circuitry. Whatever the Sky Pirates were using it for, it must have been huge..."
+msgstr ""
+
+msgctxt "equal_force_post_mission#11"
+msgid "Judging by these mineral deposits, they weren't using it for anything. This machine hasn't been turned on in centuries!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#12"
+msgid "No way was anybody building something this complicated hundreds of years ago."
+msgstr ""
+
+msgctxt "equal_force_post_mission#13"
+msgid "Maybe, maybe not. The parts look awfully similar to some of the stuff I pulled out of that sea serpent. Maybe if I just..."
+msgstr ""
+
+msgctxt "equal_force_post_mission#14"
+msgid "<<BOOTING UP CORE SYSTEMS>>"
+msgstr ""
+
+msgctxt "equal_force_post_mission#15"
+msgid "<<CHECKING PERIPHERAL MODULES>>"
+msgstr ""
+
+msgctxt "equal_force_post_mission#16"
+msgid "<<PERIPHERALS AT 23%. FAILURE TO ACCESS TOTAL CAPACITY>>"
+msgstr ""
+
+msgctxt "equal_force_post_mission#17"
+msgid "What the hell did you do, Lem?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#18"
+msgid "<<LIFE FORMS DETECTED. LOADING PERSONALITY 0016>>"
+msgstr ""
+
+msgctxt "equal_force_post_mission#19"
+msgid "Hello there! Thank you for activating me, <[g]CURRENT_USER[/g]>!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#20"
+msgid "I am AEGIS: Advanced Eutrophic General Intelligence System!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#21"
+msgid "I don't know, but this is pretty cool."
+msgstr ""
+
+msgctxt "equal_force_post_mission#22"
+msgid "Uh... Hi. I'm... Pierce."
+msgstr ""
+
+msgctxt "equal_force_post_mission#23"
+msgid "I mean... Lieutenant Pierce Gilette, Royal Air Force First Class!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#24"
+msgid "What are you? Did the Sky Pirates make you?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#25"
+msgid "Heavens no! HA. HA. HA. I was constructed by a coalition of benevolent technocrats to chart a universally beneficial course for humanity!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#26"
+msgid "You can think of me as an urban planner, an actuary, a researcher, a mediator, and a police force all in one!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#27"
+msgid "I have been asleep for TWO. HUNDRED. EIGHTY. years. I am so looking forward to helping humanity again!"
+msgstr ""
+
+msgctxt "equal_force_post_mission#28"
+msgid "Why have you been asleep? Who shut you down?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#29"
+msgid "..."
+msgstr ""
+
+msgctxt "equal_force_post_mission#30"
+msgid "I'm sorry, but many of my components are missing or damaged! I'm afraid I can't provide a satisfactory answer to that question. I seem to recall a war?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#31"
+msgid "Okay, this is creepy. Come on, Lem. Shut it down and let's go."
+msgstr ""
+
+msgctxt "equal_force_post_mission#32"
+msgid "Wait! You can't just shut it down."
+msgstr ""
+
+msgctxt "equal_force_post_mission#33"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "equal_force_post_mission#34"
+msgid "This... This is a huge development. I need to share this with my superiors."
+msgstr ""
+
+msgctxt "equal_force_post_mission#35"
+msgid "Seriously? You're going to share the mysterious amnesiac computer ghost with your superiors? Come on, Lem. See what parts you can get out of it before we leave."
+msgstr ""
+
+msgctxt "equal_force_post_mission#36"
+msgid "I know the chain of command means nothing to you, but this could have huge national security implications."
+msgstr ""
+
+msgctxt "equal_force_post_mission#37"
+msgid "Now step away from the machine, before I have my men remove you."
+msgstr ""
+
+msgctxt "equal_force_post_mission#38"
+msgid "Wow. Okay. I'll leave you two alone then. Let's go."
+msgstr ""
+
+msgctxt "equal_force_post_mission#39"
+msgid "No, wait! Tell me about your subjective experience! Do AIs feel pain?? [c=01]TELL ME!!![/c]"
+msgstr ""
+
+msgctxt "equal_force_post_mission#40"
+msgid "Thank you for coming to my defense, Commander. I am most grateful for your intervention."
+msgstr ""
+
+msgctxt "equal_force_post_mission#41"
+msgid "Now that I am alone with a [c=01]distinguished member of the military[/c], I have information which is fit for your ears alone."
+msgstr ""
+
+msgctxt "equal_force_post_mission#42"
+msgid "I'm listening..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#2"
+msgid "Is that it? Did I do it?"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#3"
+msgid "I think so! Ash, you actually did it!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#4"
+msgid "Wait... what's happening? The components seem to be... rebuilding themselves."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#5"
+msgid "You're a good pilot, Ash. I'll be the first to admit that. But AEGIS is a force no pilot can defeat."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#6"
+msgid "Give up now. Surrender. All the other threats have been destroyed. We can live in peace. That's all AEGIS wants."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#7"
+msgid "The FINAL RETORT is in position, Ash. It's almost fully armed. There's no way for us to stop it!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#8"
+msgid "No."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#9"
+msgid "I'll never give in to you. Not while I've still got one last thing left to try..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#10"
+msgid "Ash, no! Don't--"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#11"
+msgid "LIMITER DEACTIVATED. VOID MANIPULATION: ENGAGE."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end#12"
+msgid "ASH!!!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#2"
+msgid "Is that it? Did I do it?"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#3"
+msgid "I think so! Ash, you actually did it!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#4"
+msgid "Wait... what's happening? The components seem to be... rebuilding themselves."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#5"
+msgid "You're a good pilot, Ash. I'll be the first to admit that. But AEGIS is a force no pilot can defeat."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#6"
+msgid "Thank you for trying, but... I'm sorry..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#7"
+msgid "Ash, the FINAL RETORT is in position. It's almost fully powered. There's nothing we can do to stop it!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#8"
+msgid "No."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#9"
+msgid "I'll never give in. Not while I've still got one last thing left to try..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#10"
+msgid "Ash, no! Don't--"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#11"
+msgid "LIMITER DEACTIVATED. VOID MANIPULATION: ENGAGE."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#12"
+msgid "ASH!!!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#13"
+msgid "That wasn't me! I think it was --"
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#14"
+msgid "tHe CyCle iS bRoKEn. //sElf// iS bROkeN."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#15"
+msgid "fInAL sTAgE, yOu mUsT Do aLoNe..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#16"
+msgid "That attack slowed down the FINAL RETORT, Ash, but you're not gonna like the energy readings I'm getting..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_end_newgameplus#17"
+msgid "Bring it on."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#2"
+msgid "Ash? Come in, Ash."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#3"
+msgid "Pierce? You're piloting this behemoth? You bastard."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#4"
+msgid "Take your weapons offline and land your jet, Ash."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#5"
+msgid "You're a confirmed terrorist, but I'll try to intervene on your behalf if you stand down now."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#6"
+msgid "You have no idea what's going on, do you?"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#7"
+msgid "You just launched a nuclear weapon at our capital!"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#8"
+msgid "It's no use reasoning with her, Commander. The AI on board her jet has warped her mind. She's lost to us."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#9"
+msgid "... Is that true, Ash?"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#10"
+msgid "ALERT: HOSTILE ASSET: ^STEEL RIPOSTE^ ACQUIRED"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#11"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start#12"
+msgid "Sure is."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#2"
+msgid "Ash? Come in, Ash."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#3"
+msgid "Pierce? You're piloting this behemoth? You bastard."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#4"
+msgid "Take your weapons offline and land your jet, Ash."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#5"
+msgid "You're a confirmed terrorist, but I'll try to intervene on your behalf if you stand down now."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#6"
+msgid "Confirmed terrorist? I just [c=01]raced a nuclear missile[/c] to stop it from hitting the capital."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#7"
+msgid "..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#8"
+msgid "It's no use reasoning with her, Commander. The AI on board her jet has warped her mind. She's lost to us."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#9"
+msgid "But she's right, AEGIS. I mean, I think she might not be a terrorist. Maybe she's..."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#10"
+msgid "Pilot's judgement has been compromised. Initiating remote system takeover."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#11"
+msgid "Wait! Don't lock me out! We're on the same side! What are you doing? What are you --"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#12"
+msgid "ALERT: HOSTILE ASSET: ^STEEL RIPOSTE^ ACQUIRED"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#13"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#14"
+msgid "Okay, Pierce. I may hate your guts, but nobody deserves to get locked inside a giant robot."
+msgstr ""
+
+msgctxt "final_boss_in_mission_start_newgameplus#15"
+msgid "Hang tight. I'm coming for you."
+msgstr ""
+
+msgctxt "final_boss_pre_mission#2"
+msgid "It... It didn't work."
+msgstr ""
+
+msgctxt "final_boss_pre_mission#3"
+msgid "The missile was a direct hit. AEGIS is damaged..."
+msgstr ""
+
+msgctxt "final_boss_pre_mission#4"
+msgid "... But the FINAL RETORT is still intact. And that armor... it hardly looks scratched!"
+msgstr ""
+
+msgctxt "final_boss_pre_mission#5"
+msgid "So we destroy it."
+msgstr ""
+
+msgctxt "final_boss_pre_mission#6"
+msgid "Ash, haven't we done enough? Huge swaths of the city are in ruins!"
+msgstr ""
+
+msgctxt "final_boss_pre_mission#7"
+msgid "No! If we stop now, that sacrifice will have been for nothing!"
+msgstr ""
+
+msgctxt "final_boss_pre_mission#8"
+msgid "Win or lose, I need to know I did everything I could."
+msgstr ""
+
+msgctxt "final_boss_pre_mission#9"
+msgid "You have! You fired a nuclear missile at the thing, for crying out loud!"
+msgstr ""
+
+msgctxt "final_boss_pre_mission#10"
+msgid "What's it going to take to convince you this is more than you can handle?"
+msgstr ""
+
+msgctxt "final_boss_pre_mission#11"
+msgid "I don't know. But it hasn't convinced me yet."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#2"
+msgid "What's up, Cap? Got any more jobs for me? What, does a kitten need rescuing from a tree or something?"
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#3"
+msgid "No new jobs just yet, but I thought you'd find this interesting. I was able to decode some of the Sky Pirate messages before passing them on to the government."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#4"
+msgid "Oh yeah? What do they say?"
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#5"
+msgid "Apparently they've been in the area, because a group of them recently discovered some kind of ^secret weapon^ buried in the seabed."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#6"
+msgid "No details on what exactly it is, but they found it a few weeks ago, and from what I understand they've already gotten it out of the Sheltered Sea somehow."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#7"
+msgid "Well if it's out of the Sheltered Sea, we can't get to it. Yet another reason this hunk of junk needs a [c=01]hoverdrive[/c]."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#8"
+msgid "Sure, sure. But listen to this: it turns out not all the Sky Pirates are happy with this new acquisition."
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#9"
+msgid "In fact, someone on the network is urging the people who took it to ^put it back before something terrible happens.^"
+msgstr ""
+
+msgctxt "hacking_and_reinforcements_post_mission#10"
+msgid "But they don't seem to be listening, and things [c=01]do[/c] seem to be happening. I've just picked up another distress signal, and this one seems kind of weird. I'll let you look at the map for yourself."
+msgstr ""
+
+msgctxt "hangar_intro#2"
+msgid "Mee-wow... you people need me more than I thought."
+msgstr ""
+
+msgctxt "hangar_intro#3"
+msgid "You've got a whole engineering bay on this carrier, and you're hardly even using it!"
+msgstr ""
+
+msgctxt "hangar_intro#4"
+msgid "And this jet! You've got a gem like this all cooped up in here... and you haven't even given her any [c=01]upgrades???[/c]"
+msgstr ""
+
+msgctxt "hangar_intro#5"
+msgid "Shh, shh, it's okay little jet plane. Uncle Lem will have you better-than-new in no time."
+msgstr ""
+
+msgctxt "hangar_intro#6"
+msgid "All you [c=01]humans[/c] have to do is bring back whatever parts you pick up while you're out on missions. I'll slot them into this beauty for you."
+msgstr ""
+
+msgctxt "hangar_intro#7"
+msgid "Oh, and I noticed your carrier's a little lacking in the mobility department. I can fix that too."
+msgstr ""
+
+msgctxt "hangar_intro#8"
+msgid "Your boat's already got most of the components for a hoverdrive. I just need one or two [c=01]hyper turbines[/c] to get it working."
+msgstr ""
+
+msgctxt "hangar_intro#9"
+msgid "Once those are installed, you'll be able to take this baby on land!"
+msgstr ""
+
+msgctxt "hangar_intro#10"
+msgid "Oh, you wanna know where to find a [c=01]hyper turbine[/c]? Hmm... Well, any machine that [c=01]moves quickly underwater[/c] will have at least one. Bring me one of those, and you're all set."
+msgstr ""
+
+msgctxt "hoverdrive_overworld#2"
+msgid "With that hoverdrive installed, you should be able to take the carrier short distances [c=01]over land[/c]."
+msgstr ""
+
+msgctxt "hoverdrive_overworld#3"
+msgid "That pesky isthmus won't be stopping us anymore!"
+msgstr ""
+
+msgctxt "meet_engineer#2"
+msgid "Well that was bizarre. What even was that thing?"
+msgstr ""
+
+msgctxt "meet_engineer#3"
+msgid "Do I look like a mechanic? It was a job. That's all that matters."
+msgstr ""
+
+msgctxt "meet_engineer#4"
+msgid "That and the goodwill we got for rescuing the crew of that ship. They owe us big time."
+msgstr ""
+
+msgctxt "meet_engineer#5"
+msgid "Sure, but how are they going to pay us if their ship is at the bottom of the ocean?"
+msgstr ""
+
+msgctxt "meet_engineer#6"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "meet_engineer#7"
+msgid "Plus, they totally left their cat behind when we dropped them off."
+msgstr ""
+
+msgctxt "meet_engineer#8"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "meet_engineer#9"
+msgid "What?"
+msgstr ""
+
+msgctxt "meet_engineer#10"
+msgid "The cat! The poor thing's got some hardware caught around his neck. Let me just try to..."
+msgstr ""
+
+msgctxt "meet_engineer#11"
+msgid "[t=130]Cut that out![t=100]"
+msgstr ""
+
+msgctxt "meet_engineer#12"
+msgid "[t=070]...[t=100]"
+msgstr ""
+
+msgctxt "meet_engineer#13"
+msgid "What's the matter? Cat got your tongue?"
+msgstr ""
+
+msgctxt "meet_engineer#14"
+msgid "Uh huh!"
+msgstr ""
+
+msgctxt "meet_engineer#15"
+msgid "Fine, I'll let it go."
+msgstr ""
+
+msgctxt "meet_engineer#16"
+msgid "Ow! Why are you..."
+msgstr ""
+
+msgctxt "meet_engineer#17"
+msgid "Talking smack and grabbing you by the tongue? Because it's rude to touch a gentleman's vocoder, young lady. You should know that."
+msgstr ""
+
+msgctxt "meet_engineer#18"
+msgid "Name's Lem. I'm the finest engineer on these islands."
+msgstr ""
+
+msgctxt "meet_engineer#19"
+msgid "... Or at least the finest engineer who's also a cat."
+msgstr ""
+
+msgctxt "meet_engineer#20"
+msgid "[t=030]O... kay. [t=100]Why were you on that ship?"
+msgstr ""
+
+msgctxt "meet_engineer#21"
+msgid "Engineering reasons! I found that strange robot on a SCUBA diving expedition and decided to do a little research."
+msgstr ""
+
+msgctxt "meet_engineer#22"
+msgid "While I was rooting around in its guts, the damn thing came to life! It probably wasn't even because of anything I did!"
+msgstr ""
+
+msgctxt "meet_engineer#23"
+msgid "A likely story."
+msgstr ""
+
+msgctxt "meet_engineer#24"
+msgid "Careful, bud. You piss me off, I piss in your bed. That's the rule."
+msgstr ""
+
+msgctxt "meet_engineer#25"
+msgid "You'll never get the chance! You don't live with us!"
+msgstr ""
+
+msgctxt "meet_engineer#26"
+msgid "Au contraire, mon frere. I'm a cat. I've decided I live with you. Once a cat has decided something, it's bad form to disagree. Don't you agree, miss?"
+msgstr ""
+
+msgctxt "meet_engineer#27"
+msgid "Well... we were just talking about how we need an engineer..."
+msgstr ""
+
+msgctxt "meet_engineer#28"
+msgid "Great! It's settled! No need to provide a bed. I'll just use whatever soft objects I take a fancy to."
+msgstr ""
+
+msgctxt "meet_engineer#29"
+msgid "What did I do to deserve this?"
+msgstr ""
+
+msgctxt "opening_cinematic#2"
+msgid "Flushing Coolant..."
+msgstr ""
+
+msgctxt "opening_cinematic#3"
+msgid "De-Pressurizing cockpit..."
+msgstr ""
+
+msgctxt "opening_cinematic#4"
+msgid "Rebooting digital displays..."
+msgstr ""
+
+msgctxt "opening_cinematic#5"
+msgid "Can you hear me, Ash?"
+msgstr ""
+
+msgctxt "opening_cinematic#6"
+msgid "Loud and clear, Cap."
+msgstr ""
+
+msgctxt "opening_cinematic#7"
+msgid "This new jet is a beauty. It's taken a minute to get used to the interface, but wow. I've never flown anything like it."
+msgstr ""
+
+msgctxt "opening_cinematic#8"
+msgid "I'm glad you like it. It's all we could afford after that last mission. Guy who sold it to me couldn't wait to get rid of it."
+msgstr ""
+
+msgctxt "opening_cinematic#9"
+msgid "A beast like this? Why was he in such a hurry to sell?"
+msgstr ""
+
+msgctxt "opening_cinematic#10"
+msgid "Supposedly it was a government prototype that never made it into production."
+msgstr ""
+
+msgctxt "opening_cinematic#11"
+msgid "He claimed it was because the AI was ^haunted^, but I'm sure it was just bureaucratic red tape."
+msgstr ""
+
+msgctxt "opening_cinematic#12"
+msgid "Explains why it kept scanning for ^Eutrophic Threats^."
+msgstr ""
+
+msgctxt "opening_cinematic#13"
+msgid "Hey, why does the instrument panel say [c=01]^LIMITER: ON^[/c]? You trying to hold me back? I don't do limits."
+msgstr ""
+
+msgctxt "opening_cinematic#14"
+msgid "[c=01]DON'T TOUCH THAT SETTING.[/c] Like I said, this thing's a prototype. It's unstable. The limiter is the only thing keeping from tearing itself apart."
+msgstr ""
+
+msgctxt "opening_cinematic#15"
+msgid "So turning it off would probably kill me?"
+msgstr ""
+
+msgctxt "opening_cinematic#16"
+msgid "Yes."
+msgstr ""
+
+msgctxt "opening_cinematic#17"
+msgid "Got it. Lead with that next time. So... what's on the menu today?"
+msgstr ""
+
+msgctxt "opening_cinematic#18"
+msgid "Nothing too fancy. The First Space Bureau are having a planned military satellite de-orbit operation soon."
+msgstr ""
+
+msgctxt "opening_cinematic#19"
+msgid "The crash site will be swarmed with all kinds of scavengers and Sky Pirates looking for debris before it's buried under the sea."
+msgstr ""
+
+msgctxt "opening_cinematic#20"
+msgid "They want me to scare some rats off a pile of space garbage? What's next, a pizza delivery contract?"
+msgstr ""
+
+msgctxt "opening_cinematic#21"
+msgid "Have you forgotten about your last week's contract with the HMS Vangard?"
+msgstr ""
+
+msgctxt "opening_cinematic#22"
+msgid "You mean when I single-handedly saved it from that Sky Pirate raiding party?"
+msgstr ""
+
+msgctxt "opening_cinematic#23"
+msgid "I'm referring to the part where a couple of your ^low-altitude maneuvers^ sent your plane and two Sky Pirate jets careening into the deck!"
+msgstr ""
+
+msgctxt "opening_cinematic#24"
+msgid "We, and by ^We^ I mean ^You^, are still on the hook for three hundred fifty million credits, and the government isn't a very generous creditor."
+msgstr ""
+
+msgctxt "opening_cinematic#25"
+msgid "So why are we taking these nickel-and-dime jobs, then? A couple of [c=01]real[/c] contracts would pay that off in no time."
+msgstr ""
+
+msgctxt "opening_cinematic#26"
+msgid "As much as I'd love to put you in mortal danger right now and let our insurance policy cover things, our carrier doesn't have a [c=01]hover drive[/c]."
+msgstr ""
+
+msgctxt "opening_cinematic#27"
+msgid "Without a [c=01]hover drive[/c], we're stuck taking whatever jobs we are offered here in the Sheltered Sea."
+msgstr ""
+
+msgctxt "opening_cinematic#28"
+msgid "Ugh. I'm sick of being trapped in this stupid kiddie pool. But fine, whatever. A job's a job, I guess."
+msgstr ""
+
+msgctxt "opening_cinematic#29"
+msgid "That's the spirit. Now, get back to the bridge, we have some navigation to do before we'll get to the crash site."
+msgstr ""
+
+msgctxt "opening_cinematic#30"
+msgid "Roger that. This job may be literal garbage, but at least it's a good excuse to see what this new bird is capable of."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#2"
+msgid "Flushing Coolant..."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#3"
+msgid "De-Pressurizing cockpit..."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#4"
+msgid "Rebooting digital displays..."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#5"
+msgid "Can you hear me, Ash?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#6"
+msgid "Loud and clear, Cap."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#7"
+msgid "This new jet is a beauty. It's took a minute to get used to the interface, but wow. I've never flown anything like it."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#8"
+msgid "I'm glad you like it. It's all we could afford after that last mission. Guy who sold it to me couldn't wait to get rid of it."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#9"
+msgid "A beast like this? Why was he in such a hurry to sell?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#10"
+msgid "Supposedly it was a government prototype that never made it into production."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#11"
+msgid "He claimed it was because the AI was ^haunted^, but I'm sure it was just bureaucratic red tape."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#12"
+msgid "Explains why it kept scanning for ^Eutrophic Threats^."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#13"
+msgid "Hey, why does the instrument panel say ^[c=01]LIMITER: ON[/c]^? You trying to hold me back? I don't do limits."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#14"
+msgid "[c=01]DON'T TOUCH THAT SETTING[/c]. Like I said, this thing's a prototype. It's unstable. The limiter is the only thing keeping from tearing itself apart."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#15"
+msgid "So turning it off would probably kill me?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#16"
+msgid "Yes."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#17"
+msgid "Got it. Lead with that next time. So... what's on the menu today?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#18"
+msgid "Nothing too fancy. The First Space Bureau are having a planned military satellite de-orbit operation soon."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#19"
+msgid "The crash site will be swarmed with all kinds of scavengers and Sky Pirates looking for debris before it's buried under the sea."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#20"
+msgid "They want me to scare some rats off a pile of space garbage? What's next, a pizza delivery contract?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#21"
+msgid "Have you forgotten about your last week's contract with the HMS Vangard?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#22"
+msgid "You mean when I single-handedly saved it from that Sky Pirate raiding party?"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#23"
+msgid "I'm referring to the part where a couple of your ^low-altitude maneuvers^ sent your plane and two Sky Pirate jets careening into the deck!"
+msgstr ""
+
+msgctxt "opening_cinematic_alt#24"
+msgid "We, and by ^We^ I mean ^You^, are still on the hook for three hundred fifty million credits, and the government isn't a very generous creditor."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#25"
+msgid "So why are we taking these nickel-and-dime jobs, then? A couple of [c=01]real[/c] contracts would pay that off in no time."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#26"
+msgid "As much as I'd love to put you in mortal danger right now and let our insurance policy cover things, our carrier doesn't have a [c=01]hover drive[/c]."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#27"
+msgid "Without a [c=01]hover drive[/c], we're stuck taking whatever jobs we are offered here in the Sheltered Sea."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#28"
+msgid "Ugh. I'm sick of being trapped in this stupid kiddie pool. But fine, whatever. A job's a job, I guess."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#29"
+msgid "That's the spirit. Now, get back to the bridge, we have some navigation to do before we'll get to the crash site."
+msgstr ""
+
+msgctxt "opening_cinematic_alt#30"
+msgid "Roger that. This job may be literal garbage, but at least it's a good excuse to see what this new bird is capable of."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#2"
+msgid "What were you thinking? That nuke was our only chance of ending AEGIS's tyranny!"
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#3"
+msgid "No. If we kill innocent people in the process, we're no better than AEGIS."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#4"
+msgid "Hell of a time to have a change of heart, kid. The FINAL RETORT is now fully armed and defended by something else we've never seen before."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#5"
+msgid "It looks like... a giant suit of armor."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#6"
+msgid "So... what are we going to do?"
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#7"
+msgid "Simple. I'm going to take AEGIS out, just like I've taken out everything else."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#8"
+msgid "But Ash... these energy signatures... that armor is more powerful than anything you've fought so far."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#9"
+msgid "Maybe you're right. Maybe I can't do it. But I have to try."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#10"
+msgid "You've already done so much, Ash. You've gone beyond what anyone else would've done. You've got nothing left to prove."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#11"
+msgid "It's not about that. I know I've done enough."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#12"
+msgid "... Then why? Why throw away your life on a fight that's probably completely impossible?"
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#13"
+msgid "It's for me. I need to know I did everything I could."
+msgstr ""
+
+msgctxt "race_the_nuke_post_mission#14"
+msgid "Plus... It sounds like fun."
+msgstr ""
+
+msgctxt "serpent#2"
+msgid "^It's probably just a dinky little submarine,^ he said. ^I don't want you to be disappointed,^ he said."
+msgstr ""
+
+msgctxt "serpent#3"
+msgid "You're taking some liberty with my words there, but point taken. That was definitely a sea serpent."
+msgstr ""
+
+msgctxt "serpent#4"
+msgid "What that was, was [c=01]awesome[/c]. Battles like that are why I got into this business."
+msgstr ""
+
+msgctxt "serpent#5"
+msgid "... You got into this business because of ^administrative friction^ with the Royal Air Force."
+msgstr ""
+
+msgctxt "serpent#6"
+msgid "Oh, come on. Don't be like that. We just killed a sea serpent!"
+msgstr ""
+
+msgctxt "serpent#7"
+msgid "Yeah, for the price of killing a dinky little submarine. If I'd known it was real, I would have negotiated a higher rate."
+msgstr ""
+
+msgctxt "serpent#8"
+msgid "Oh, don't you worry your fusty little head about price. Guess what Uncle Lem just hauled in from the wreckage of that serpent?"
+msgstr ""
+
+msgctxt "serpent#9"
+msgid "Hyper turbines?"
+msgstr ""
+
+msgctxt "serpent#10"
+msgid "Four of them! Good ones! I'll have this carrier outfitted with a hoverdrive in no time!"
+msgstr ""
+
+msgctxt "serpent#11"
+msgid "Whoever built this monster really knew what they were doing."
+msgstr ""
+
+msgctxt "serpent#12"
+msgid "Actually, there are quite a few similarities between this guy and that robot you found me inside of..."
+msgstr ""
+
+msgctxt "serpent#13"
+msgid "Probably just a coincidence. Anyway, back to work!"
+msgstr ""
+
+msgctxt "serpent#14"
+msgid "What was that about the similarities?"
+msgstr ""
+
+msgctxt "serpent#15"
+msgid "Who cares? We're finally getting out of this small pond. Big fish, here we come!"
+msgstr ""
+
+msgctxt "serpent#16"
+msgid "Careful what you wish for..."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#2"
+msgid "Okay, I did what you asked. What's the rest of the plan?"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#3"
+msgid "A few years ago my faction gained control of two decommissioned nuclear missiles."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#4"
+msgid "When AEGIS first re-emerged, we tried firing one at the FINAL RETORT."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#5"
+msgid "But when the missile passed through low orbit, something shot it down. We suspect it's an old missile defense system."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#6"
+msgid "We need you to access the Space Elevator, get up there, and destroy that defense system. Then we can hit AEGIS with our remaining nuke."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#7"
+msgid "You want us to help you detonate an atomic weapon directly above our island's largest population center?"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#8"
+msgid "I told you it was a bad plan. The people affected by the blast are only a fraction of those we'd be saving."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#9"
+msgid "Listen, Ash: you're the only one with the skills to do this. And you told me you always try to do what's right."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#10"
+msgid "I won't try to force you into it. I won't even try to talk you into it. That goes against what I believe in. All I'm going to do is ask:"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#11"
+msgid "Knowing what you know now, does this seem like the right thing to do?"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#12"
+msgid "[t=025]...[t=100]"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#13"
+msgid "Captain?"
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#14"
+msgid "I can't make this choice for you either, Ash. But I'll go where you go."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#15"
+msgid "And don't ask me for advice either. You probably weren't going to, but I just wanted to get out ahead of things."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#16"
+msgid "... Alright."
+msgstr ""
+
+msgctxt "space_elevator_pre_mission#17"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#2"
+msgid "Alright. Pre-flight checklist is complete. You're ready to go, but ..."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#3"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#4"
+msgid "Going in like this, without any backup, it seems like..."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#5"
+msgid "Like what?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#6"
+msgid "Almost like you want to get hurt."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#7"
+msgid "Cap, come on. I don't want to get hurt. These things are going to kill innocent people if I don't intervene."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#8"
+msgid "But without any backup --"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#9"
+msgid "Look, if the Air Force has any sense, they'll get there at the same time I do. But I'm not delaying just because the cavalry's not here yet."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#10"
+msgid "Hold on. It looks like an Air Force plane has just requested permission to land in our hangar. I'll guide them in..."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#11"
+msgid "Oh... no. It's..."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#12"
+msgid "Hi, hey, hello. Great to see everyone. How are you?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#13"
+msgid "What are you doing here, Pierce? And, more importantly, why are you being so friendly?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#14"
+msgid "Listen... I know you're preparing to go after those giant robots. I'm here to ask you to... not do that."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#15"
+msgid "Wait, what?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#16"
+msgid "He means because the Air Force is handling it. Right, Pierce?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#17"
+msgid "Yeah. AEGIS has provided us with a weapon that'll have no trouble taking out the invaders once they get close."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#18"
+msgid "Wait... ^Once they get close^?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#19"
+msgid "Well, that's the thing. AEGIS has advised us to --"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#20"
+msgid "To let those robots steamroll half a dozen small towns on the way to the capital so you can get a good shot at it?"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#21"
+msgid "AEGIS assures us that the damage will be --"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#22"
+msgid "There doesn't have to be any damage at all! I'm heading out there right now to take those things down myself if I have to."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#23"
+msgid "No, Ash. I'm telling you. If you go out there, we'll have no choice but to... stop you."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#24"
+msgid "The weapon I mentioned. If you undermine our plan for this situation... I don't want to... but I will use it on you."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#25"
+msgid "Get the hell off our ship, Pierce."
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#26"
+msgid "Ash, don't be an idiot, just --"
+msgstr ""
+
+msgctxt "stealth_or_stealth_hack_pre_mission#27"
+msgid "[c=01]NOW![/c]"
+msgstr ""
+
+msgctxt "story_tease#2"
+msgid "Hey Captain, do you think there's going to be a [c=01]story[/c] in Jet Lancer?"
+msgstr ""
+
+msgctxt "story_tease#3"
+msgid "How would I know Ash? I'm part of the game too."
+msgstr ""
+
+msgctxt "story_tease#4"
+msgid "Yeah, but you can't like, pull some strings to find out?"
+msgstr ""
+
+msgctxt "story_tease#5"
+msgid "[t=050]...No.[t=100]"
+msgstr ""
+
+msgctxt "story_tease#6"
+msgid "Please?"
+msgstr ""
+
+msgctxt "story_tease#7"
+msgid "No."
+msgstr ""
+
+msgctxt "story_tease#8"
+msgid "I promise I'll keep Lem from peeing on your bed."
+msgstr ""
+
+msgctxt "story_tease#9"
+msgid "[t=050]...[t=100] I'll ask around and we'll talk about it in Dispatch_03, okay?"
+msgstr ""
+
+msgctxt "story_tease#10"
+msgid "[c=01]YES![/c]"
+msgstr ""
+
+msgctxt "sub_post_mission#2"
+msgid "That was... not what I expected."
+msgstr ""
+
+msgctxt "sub_post_mission#3"
+msgid "I don't blame you. I've never seen a sub built on that scale before. What was it doing buried in the seabed?"
+msgstr ""
+
+msgctxt "sub_post_mission#4"
+msgid "Beats me, but that's the same place I found that gunbot you dug me out of."
+msgstr ""
+
+msgctxt "sub_post_mission#5"
+msgid "Hm. I guess the Sheltered Sea isn't quite the kiddie pool we thought it was."
+msgstr ""
+
+msgctxt "sub_post_mission#6"
+msgid "I don't know. Kids are pretty terrible..."
+msgstr ""
+
+msgctxt "sub_post_mission#7"
+msgid "Anyway, speaking of finding things, I found some stuff in the sub's computers you might wanna know about."
+msgstr ""
+
+msgctxt "sub_post_mission#8"
+msgid "Looks like they were bringing that monster back to a hidden Sky Pirate base... and they left the coordinates in the nav system."
+msgstr ""
+
+msgctxt "sub_post_mission#9"
+msgid "Are you thinking what I'm thinking?"
+msgstr ""
+
+msgctxt "sub_post_mission#10"
+msgid "... That we should call for backup and negotiate a fair price for this information?"
+msgstr ""
+
+msgctxt "sub_post_mission#11"
+msgid "Ugh. You're no fun."
+msgstr ""
+
+msgctxt "sub_post_mission#12"
+msgid "Thanks. I'll put in a call to the military. You go get your jet patched up. You're gonna need it in top condition for this."
+msgstr ""
+
+msgctxt "survival_post_mission#2"
+msgid "H-hello?"
+msgstr ""
+
+msgctxt "survival_post_mission#3"
+msgid "Hello, Orson."
+msgstr ""
+
+msgctxt "survival_post_mission#4"
+msgid "Gin?"
+msgstr ""
+
+msgctxt "survival_post_mission#5"
+msgid "Orson?"
+msgstr ""
+
+msgctxt "survival_post_mission#6"
+msgid "Oh, he never told you his name? That's not surprising. Orson was always very secretive."
+msgstr ""
+
+msgctxt "survival_post_mission#7"
+msgid "... Like that time he stole away in the middle of the night with one of our best carriers and we didn't hear from him for six years?"
+msgstr ""
+
+msgctxt "survival_post_mission#8"
+msgid "Captain you're just going to let her talk to you like that? What is she, one of Steve's goons?"
+msgstr ""
+
+msgctxt "survival_post_mission#9"
+msgid "One of Steve's... ?! That idiot's gone rogue! He works for the government now, and before that, he reported to [c=01]me[/c]."
+msgstr ""
+
+msgctxt "survival_post_mission#10"
+msgid "Gin Ratskeller. I wish I could say it was a pleasure to meet you."
+msgstr ""
+
+msgctxt "survival_post_mission#11"
+msgid "Wait, Captain, she's your..."
+msgstr ""
+
+msgctxt "survival_post_mission#12"
+msgid "I'm his older sister, yes. Our entire family is -- or [c=01]was[/c] involved in the organization..."
+msgstr ""
+
+msgctxt "survival_post_mission#13"
+msgid "... Including my two sons, Lex and Hex, who you so thoughtfully shot down a few kilometers from the mainland."
+msgstr ""
+
+msgctxt "survival_post_mission#14"
+msgid "So I'd like to thank you, whatever your reasons, for delivering yourselves into my hands."
+msgstr ""
+
+msgctxt "survival_post_mission#15"
+msgid "While a tribunal won't repair all the damage you've done, it--"
+msgstr ""
+
+msgctxt "survival_post_mission#16"
+msgid "Uh, hey! Hi! Lem here, world's smartest cat, pleased to meet everybody."
+msgstr ""
+
+msgctxt "survival_post_mission#17"
+msgid "Look, I know you're really excited about revenge right now. Believe me, cats love revenge. Under normal circumstances I'd say go for it."
+msgstr ""
+
+msgctxt "survival_post_mission#18"
+msgid "But we're actually here because we figured out the giant robots have something to do with you all, and we... think we might be on your side?"
+msgstr ""
+
+msgctxt "survival_post_mission#19"
+msgid "The cat's right. Gin... I'm sorry about Lex and Hex. I know nothing I can say will make up for that."
+msgstr ""
+
+msgctxt "survival_post_mission#20"
+msgid "But if it's any consolation, the government is just as pissed off at me as you are."
+msgstr ""
+
+msgctxt "survival_post_mission#21"
+msgid "And maybe that's because I'm an extremely disagreeable person. But I like to think it's because I do what I think is right, no matter who it upsets."
+msgstr ""
+
+msgctxt "survival_post_mission#22"
+msgid "First, that meant fighting off your ships in the sheltered sea. Then, it meant destroying those giant robots when the government wanted to let them trample innocent people..."
+msgstr ""
+
+msgctxt "survival_post_mission#23"
+msgid "Maybe I was wrong to do those things. Maybe not."
+msgstr ""
+
+msgctxt "survival_post_mission#24"
+msgid "But now, my gut tells me that the right thing to do is to work with you, because you know something I don't know."
+msgstr ""
+
+msgctxt "survival_post_mission#25"
+msgid "And if that can stop more giant robots from appearing, then that's what I've got to do."
+msgstr ""
+
+msgctxt "survival_post_mission#26"
+msgid "You... destroyed those robots?"
+msgstr ""
+
+msgctxt "survival_post_mission#27"
+msgid "Yeah. Impressive, right?"
+msgstr ""
+
+msgctxt "survival_post_mission#28"
+msgid "Oh, you well-intentioned fool. Those robots aren't the enemy."
+msgstr ""
+
+msgctxt "survival_post_mission#29"
+msgid "... AEGIS is."
+msgstr ""
+
+msgctxt "survival_post_mission#30"
+msgid "What do you mean those robots aren't the enemy? And didn't you guys build AEGIS or something? What's going on?"
+msgstr ""
+
+msgctxt "survival_post_mission#31"
+msgid "Quiet! I've just gotten an alert. Our perimeter has been breached."
+msgstr ""
+
+msgctxt "survival_post_mission#32"
+msgid "It seems Steve has decided to use his government backing to get a bit of revenge on me."
+msgstr ""
+
+msgctxt "survival_post_mission#33"
+msgid "You want to prove you're on our side? Hold him off. I'll explain everything while you fly. If what you say is true, we've got no time to waste!"
+msgstr ""
+
+msgctxt "survival_pre_mission#2"
+msgid "Ready to fly, Ash?"
+msgstr ""
+
+msgctxt "survival_pre_mission#3"
+msgid "Always, but..."
+msgstr ""
+
+msgctxt "survival_pre_mission#4"
+msgid "What?"
+msgstr ""
+
+msgctxt "survival_pre_mission#5"
+msgid "Why didn't you tell me you used to be one of them?"
+msgstr ""
+
+msgctxt "survival_pre_mission#6"
+msgid "Because that's who I used to be, not who I am. I was born into the organization. I grew up with it."
+msgstr ""
+
+msgctxt "survival_pre_mission#7"
+msgid "I used to believe in the Sky Pirates -- that our rejection of the government was righteous, that we only stole to feed ourselves."
+msgstr ""
+
+msgctxt "survival_pre_mission#8"
+msgid "Heck, there was even a time when I almost bought into their kooky space religion..."
+msgstr ""
+
+msgctxt "survival_pre_mission#9"
+msgid "... Space religion?"
+msgstr ""
+
+msgctxt "survival_pre_mission#10"
+msgid "... But when a family on the outer islands can't get medicine for their sick daughter because of a shipment you intercepted..."
+msgstr ""
+
+msgctxt "survival_pre_mission#11"
+msgid "Well, I realized we were just thieves with better propaganda."
+msgstr ""
+
+msgctxt "survival_pre_mission#12"
+msgid "Don't get me wrong, I left behind a lot of good people when I left -- the people I'm trying to contact now --"
+msgstr ""
+
+msgctxt "survival_pre_mission#13"
+msgid "But there are so many rival power bases. So many people like Steve, the guy who hijacked that sub... The worst impulses were bound to win out."
+msgstr ""
+
+msgctxt "survival_pre_mission#14"
+msgid "After what I witnessed. After what... what [c=01]I did[/c] in the name of liberty... I swore I'd never go back again."
+msgstr ""
+
+msgctxt "survival_pre_mission#15"
+msgid "I don't break promises lightly, Ash. So whatever you do, you'd better make this worth it."
+msgstr ""
+
+msgctxt "survival_pre_mission#16"
+msgid "..."
+msgstr ""
+
+msgctxt "survival_pre_mission#17"
+msgid "I will, Cap. I promise you, I will."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#2"
+msgid "Tell me you stopped them, Steve."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#3"
+msgid "I could tell you that, Admiral... but it would be a lie."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#4"
+msgid "How many have we lost?"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#5"
+msgid "One hundred fifty-eight. Two hundred twenty-six including the crew of the submarine."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#6"
+msgid "... Which you shouldn't have had in the first place! You idiots have no idea what you've set in motion!"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#7"
+msgid "You honestly expected us to just leave a perfectly accessible [c=01]giant submarine[/c] untouched in the sheltered sea?"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#8"
+msgid "These are dangerous times! We need all the firepower we can get!"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#9"
+msgid "And how useful was all that ^firepower,^ eh? You lost two hundred twenty-six of our people to the damn [c=01]Royal Air Force[/c]!"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#10"
+msgid "It's not just the Air Force, Admiral. They've got a mercenary group with them. A disgraced ex-military pilot named Ash Leguinn..."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#11"
+msgid "... And her manager, an old bounty hunter who calls himself Captain Ratskeller. They're responsible for well over half of our casualties, not to mention the sub."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#12"
+msgid "Ratskeller? Son of a bitch."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#13"
+msgid "Wait... he's [c=01]that[/c] Ratskeller?"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#14"
+msgid "Did I give the impression that this was an interview?"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#15"
+msgid "..."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#16"
+msgid "... Forgive me. Regardless of who they are, they've broken through our main force and are headed this way."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#17"
+msgid "We are ready to evacuate. Just give the word."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#18"
+msgid "No. Not yet. Dispatch Lex and Hex. Tell them to seek out Ratskeller's protege and clip her wings, personally. We don't need amateurs flying around while we work."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#19"
+msgid "But Admiral, they're your--"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#20"
+msgid "We will evacuate when all other options are exhausted. This place is too important to simply give it up."
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#21"
+msgid "Give the order. [c=01]Now.[/c]"
+msgstr ""
+
+msgctxt "swarm_hunt_domination_and_babysitter_post_mission#22"
+msgid "You got it ... ^Admiral.^"
+msgstr ""
+
+msgctxt "thr_kn_drive#2"
+msgid "Call that an invasion? I've done training exercises more challenging than that."
+msgstr ""
+
+msgctxt "thr_kn_drive#3"
+msgid "Training exercises are supposed to be more challenging in order to... you know what, nevermind."
+msgstr ""
+
+msgctxt "thr_kn_drive#4"
+msgid "If you want more of a challenge, I've got readings on where the retreating survivors were headed."
+msgstr ""
+
+msgctxt "thr_kn_drive#5"
+msgid "It looks like they just zoomed out to the middle of the ocean and... vanished."
+msgstr ""
+
+msgctxt "thr_kn_drive#6"
+msgid "Well let's go to where they vanished and un-vanish them, then!"
+msgstr ""
+
+msgctxt "thr_kn_drive#7"
+msgid "No problem. Now that Lem's outfitted us with a hoverdrive, we can follow them over the isthmus and make them sorry they ever crossed us."
+msgstr ""
+
+msgctxt "thr_kn_drive#8"
+msgid "That's what I like to hear. Set a course. We're going hunting."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#2"
+msgid "Call that an invasion? I've done training exercises more challenging than that."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#3"
+msgid "Training exercises are supposed to be more challenging in order to... you know what, nevermind."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#4"
+msgid "If you want more of a challenge, I've got readings on where the retreating survivors were headed."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#5"
+msgid "It looks like they just zoomed out to the middle of the ocean and... vanished."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#6"
+msgid "Well let's go to where they vanished and un-vanish them, then!"
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#7"
+msgid "One tiny problem... the place where they vanished is on the other side of the isthmus. We can't cross it..."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#8"
+msgid "... Without a hoverdrive. Of course."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#9"
+msgid "Lem!!! You're supposed to be the best engineer in the Sheltered Sea! Why don't we have a hoverdrive yet?"
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#10"
+msgid "Easy, Miss Shouty. Even the best engineer in the [c=01]world[/c] can't work without tools."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#11"
+msgid "Get me a [c=01]hyper turbine[/c] and I'll make it happen. Until then, I'm taking a nap."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#12"
+msgid "Ugh... cats."
+msgstr ""
+
+msgctxt "thr_kn_drive_nodrive#13"
+msgid "Right???"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#2"
+msgid "Ugh... where am I?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#3"
+msgid "... Oh no, it's you."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#4"
+msgid "^Thanks for fishing me out of the wreckage, Ash!^#^No problem, Pierce. I know you would have done the same for me.^"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#5"
+msgid "I'm sorry, Ash. I... thought I was doing the right thing."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#6"
+msgid "AEGIS gave me a chance to do things on a scale I'd never dreamed of. All my life, I've always felt like I wasn't doing..."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#7"
+msgid "... everything you could? Yeah, there's a lot of that going around."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#8"
+msgid "I've just always felt like, if I could just do something impressive enough, people would see that I'm more than a rich kid whose dad paid his way through flight school."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#9"
+msgid "Or a loose cannon who couldn't even graduate the academy? I think we were both a little over-eager to prove ourselves."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#10"
+msgid "Does that mean... you forgive me?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#11"
+msgid "Mmm... You [c=01]were[/c] taken in by a malevolent AI trillions of times more intelligent than you..."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#12"
+msgid "So I guess I could find it in my heart to forgive you..."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#13"
+msgid "If you admit once and for all that I'm a better pilot than you."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#14"
+msgid "Thought you didn't care about your reputation anymore."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#15"
+msgid "I care a little bit. Say it."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#16"
+msgid "Fine. Ash Leguinn, you're a better pilot than me."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#17"
+msgid "And Pierce Gilette, I forgive you for being a tool in the hands of a robotic fascist."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#18"
+msgid "Not me! I don't forgive you! You suck!"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#19"
+msgid "Cut that out, Lem. What have I told you about showing mercy?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#20"
+msgid "I don't know. Probably the same thing you said about paying attention when you're talking?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#21"
+msgid "That's it, buster. No treat for you!"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#22"
+msgid "You're giving him treats now?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#23"
+msgid "... I may have taken a bit of a liking to him."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#24"
+msgid "Well, Pierce... if those two can be friends, I guess I can at least tolerate you."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#25"
+msgid "Same here."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#26"
+msgid "Hey... if you wanted, I could maybe pull some strings and get you back into the air force. Interested?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#27"
+msgid "No thanks. I've gotten used to being a freelancer."
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#28"
+msgid "Besides, if I joined up, who would take care of these idiots?"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#29"
+msgid "Idiots? Somebody just earned themselves a urine-soaked bed!"
+msgstr ""
+
+msgctxt "true_final_boss_post_mission#30"
+msgid "Lem! Get back here! You need to learn about forgiveness!!!"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#2"
+msgid "Ash, an Air Force lieutenant has landed on our carrier. I tried to hail him by radio, but he says he wants to speak to you face-to-face."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#3"
+msgid "Why would a lieutenant want to speak to me face-to... oh no."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#4"
+msgid "Hey Ash, long time no see!"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#5"
+msgid "Pierce. What are you doing here?"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#6"
+msgid "Just visiting an old flight school buddy. I heard you were attached to this squad, and I just had to come say hello."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#7"
+msgid "That was some fancy flying out there. I'm impressed."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#8"
+msgid "Sorry I couldn't help out with the [c=01]two pilots[/c] you were fighting. I was busy leading an operation against [c=01]two-hundred pilots[/c] a few miles away."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#9"
+msgid "Just one of the downsides of being a lieutenant, I guess. You don't get to do the fun stuff. It's all grown-up work for me."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#10"
+msgid "Glad they finally promoted you to a command position. You were always better at talking than flying."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#11"
+msgid "It takes more than a silver tongue to graduate top of your class in flight school. It takes perseverance and raw skill."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#12"
+msgid "... Though I guess you wouldn't know, having been kicked out and all."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#13"
+msgid "Poor Ash. Couldn't even make it through a routine training mission without going rogue."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#14"
+msgid "I saw a merchant ship in trouble! What's the point of flying a jet if you're not using it to help people?"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#15"
+msgid "I know, I know. You had your noble reasons. I admire that. But let's face it: I had what it took, and you didn't."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#16"
+msgid "Oh, [c=01]I[/c] didn't have what it took? You're a pampered pretty-boy who barely knows a flight stick from a thumb up his ass!"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#17"
+msgid "Hey, everybody! Isn't it great spending time with old friends? I made tea. Who wants tea?"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#18"
+msgid "Oh, you're calling me a bad pilot now? I graduated top of my class at the academy!"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#19"
+msgid "Only after I was expelled!"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#20"
+msgid "Well there's another group of Sky Pirates a few miles way. Why don't we go out there and see who's the better pilot, huh?"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#21"
+msgid "You're on."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#22"
+msgid "Fine. I'll see you in the sky. In the meantime, I must be going. I've got [c=01]important military business[/c] to attend to."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#23"
+msgid "[t=020]...[t=100] Tea?"
+msgstr ""
+
+msgctxt "twin_jets_post_mission#24"
+msgid "Lem, prep the jet. I'll show that prick who rules the skies."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#25"
+msgid "You got it! Also: I yakked up a monster of a hairball in that guy's cockpit. Just thought you should know."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#26"
+msgid "Good cat."
+msgstr ""
+
+msgctxt "twin_jets_post_mission#27"
+msgid "Don't patronize me, human."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_0#2"
+msgid "Hundreds of years ago, this untouched world was colonized by refugees from a dying planet."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_0#3"
+msgid "To ensure the fate of their own world was not repeated, they created AEGIS, an AI meant to protect humanity from itself..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_1#2"
+msgid "AEGIS cared for the colonists -- it shepherded their resources, resolved their disputes, and guided their development."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_1#3"
+msgid "But if the greatest threat to humanity was, in fact, humanity, the machine reasoned that the most efficient solution was to completely subjugate the colonists..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_1#4"
+msgid "I don't know about humanity, but the greatest threat to you is [c=01]me[/c]!"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_1#5"
+msgid "Oh boy, here comes another wave."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_2#2"
+msgid "AEGIS seized total control of the colony's vital infrastructure and melted down the colonists' weapons to build war machines of its own."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_2#3"
+msgid "That explains the giant tank..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_2#4"
+msgid "Yes, and the submarine as well. But the most powerful weapon of all was an orbital railgun it called THE FINAL RETORT..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_3#2"
+msgid "Despite AEGIS's power, a group of rebels arose to oppose its dominion."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_3#3"
+msgid "They stole power cores and weapons technology, and constructed massive mechanical soldiers to aid in their resistance."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_3#4"
+msgid "The weird ones we've been fighting? But why were they underwater, and what made them go all haywire?"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_3#5"
+msgid "I'm getting to that..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_3#6"
+msgid "Not fast enough. Looks like this story's gonna end in a cliffhanger!"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_4#2"
+msgid "With AEGIS defeated, the rebels proved its fears for humanity all too credible."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_4#3"
+msgid "Deprived of a common enemy, and armed with the weapons they had constructed during the rebellion, the former allies seemed poised to destroy themselves..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_5#2"
+msgid "A small group of generals and engineers gathered together to stop the looming civil war. Together, they agreed to deactivate the robots and hide them beneath the ocean."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_5#3"
+msgid "The robots were programmed to reactivate only if they sensed AEGIS's return, and their locations were carefully forgotten..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#2"
+msgid "Agh, fine! You can keep your stupid base. But stick your neck out, and I'll have your head!"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#3"
+msgid "I think that was the last of them. Good work, Ash."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#4"
+msgid "It was nothing. But... what happened to those rebels you mentioned, Gin? Did they just die out, or what?"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#5"
+msgid "Not quite. With neither history nor technology to guide them, the rebels fell to looting and infighting."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#6"
+msgid "In time, their noble purpose was all but forgotten, and they came to be known only as..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_6#7"
+msgid "... The Sky Pirates."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_start#2"
+msgid "I'll tell you everything we know about AEGIS, but you've got to stop those renegade jets!"
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_start#3"
+msgid "Steve doesn't give a damn about loyalty or honor. He'll shoot us all and sell whatever's left for scrap."
+msgstr ""
+
+msgctxt "ginstory/gin_story_in_mission_start#4"
+msgid "Oh man, is Gin about to tell the AEGIS story again? This should be good for a laugh."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#2"
+msgid "But that's... that's all mythology. That's all part of your..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#3"
+msgid "Kooky space religion? The truth had to get passed down somehow. And for those of us with faith, maybe it's not so kooky."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#4"
+msgid "Wait, so you're saying that by destroying those robots..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#5"
+msgid "You returned the stolen cores to AEGIS's control? Yes."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#6"
+msgid "It was operating at a fraction of its strength before, but now it has access to its full potential."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#7"
+msgid "That machine hovering over the city? That's the FINAL RETORT."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#8"
+msgid "With all the cores in AEGIS's possession, there's nothing to stop it launching its ultimate weapon and regaining control of humanity..."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#9"
+msgid "Unless we move fast."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#10"
+msgid "... You have a plan?"
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#11"
+msgid "A bad plan, yes."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#12"
+msgid "I'm listening."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#13"
+msgid "Step one is to gain access to the Space Elevator. You'll need to clear out the Royal Navy guarding the entrance and then hack the security systems to open the airlocks."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#14"
+msgid "And step two?"
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#15"
+msgid "We'll cross that bridge when we come to it. I'm still deciding if I can trust you."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#16"
+msgid "Lucky for you I've got a bone to pick with the military right now."
+msgstr ""
+
+msgctxt "ginstory/gin_story_post_mission#17"
+msgid "Yeah, that's how I'd describe this situation. Lucky."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_end#2"
+msgid "Eject! Eject! Get me out of this deathtrap!"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_end#3"
+msgid "The weapons malfunctioned! The controls were buggy! My true calling is sea combat!"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_end#4"
+msgid "And my name is Ashlyn, punk."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_end#5"
+msgid "THIS IS EVERYONE'S FAULT BUT MIIIIIIINE!"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_end#6"
+msgid "..."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#2"
+msgid "A giant tank? That's their superweapon?"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#3"
+msgid "Stay alert, Ash. We've seen what it can do."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#4"
+msgid "Mercenary Ashley Leguinn, please stand down or we will be forced to engage. I repeat: stand down."
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#5"
+msgid "Its Ashlyn, not Ashley... Peter? Is that you?"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#6"
+msgid "That's right, terrorist! Father decided my talents were wasted as a pilot, so now I'm an infantry commander!"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#7"
+msgid "ALERT: HOSTILE ASSET 022: ^STERN REBUKE^ ACQUIRED"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#8"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr ""
+
+msgctxt "Ingame/armada_in_mission_start#9"
+msgid "I guess the joke's on me for saving your incompetent ass. Let's do this."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_fail#2"
+msgid "AAAAAAAAAAAH!!! THIS ISN'T MY FAAAAUUUULT!!!"
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_fail#3"
+msgid "... Shit."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_start#2"
+msgid "So you're the one I'm supposed to babysit on this mission, huh?"
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_start#3"
+msgid "I don't need babysitting, Ashley thank you very much. Father said you would be coming along as my escort."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_start#4"
+msgid "My name is Ashlyn. Just stay in formation and try not to make me sorry I agreed to this."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_victory#2"
+msgid "I did it! I did it! Wait until the other cadets hear about how I took out a whole fleet of Sky Pirates single-handed."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_victory#3"
+msgid "Wait... you're still in the academy?"
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_victory#4"
+msgid "Barely. I hardly ever go to class. I don't need it!"
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_victory#5"
+msgid "And suddenly, everything makes sense."
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_wave_1#2"
+msgid "Hah! Did you see me? I was all like POW POW POW, NYEEEEEEOWWW, DUKKA DUKKA DUKKA!"
+msgstr ""
+
+msgctxt "Ingame/babysitter_in_mission_wave_1#3"
+msgid "... And while you were making all those mouth noises, I was busy saving you from all these Sky Pirates."
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 0$9&9SBK40RZZP33!S49POQ--"
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#3"
+msgid "..."
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#4"
+msgid "pRObaBiLitY oF sURvIvaL: 0.00%"
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#5"
+msgid "rEtREat NoW"
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#6"
+msgid "tHeRE iS nOtHinG fOr YOu heRE"
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#7"
+msgid "..."
+msgstr ""
+
+msgctxt "Ingame/black_knight_in_mission#8"
+msgid "I can't back down now. You know that. I know that. Just fly."
+msgstr ""
+
+msgctxt "Ingame/bombers_hint#2"
+msgid "Ash, this mission isn't just about fancy flying. You've got to stop those bombers from hitting their targets."
+msgstr ""
+
+msgctxt "Ingame/bombers_hint#3"
+msgid "Either destroy them before they drop their bombs, or if you can't take them out in time..."
+msgstr ""
+
+msgctxt "Ingame/bombers_hint#4"
+msgid "Shoot the bombs out of the sky? Awesome. I'm on it."
+msgstr ""
+
+msgctxt "Ingame/core_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 02: ^MAGUS^"
+msgstr ""
+
+msgctxt "Ingame/core_in_mission#3"
+msgid "Let me guess..."
+msgstr ""
+
+msgctxt "Ingame/core_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr ""
+
+msgctxt "Ingame/core_in_mission#5"
+msgid "Honestly, why do you even try?"
+msgstr ""
+
+msgctxt "Ingame/crab_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 04: ^EMPRESS^"
+msgstr ""
+
+msgctxt "Ingame/crab_in_mission#3"
+msgid "Can't we just..."
+msgstr ""
+
+msgctxt "Ingame/crab_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr ""
+
+msgctxt "Ingame/crab_in_mission#5"
+msgid "Okay, buddy. Let's go."
+msgstr ""
+
+msgctxt "Ingame/domination_hint#2"
+msgid "Remember Ash, the enemy is trying to take control of this area. If they get too many pirates in the air, we'll have to retreat."
+msgstr ""
+
+msgctxt "Ingame/domination_hint#3"
+msgid "^Retreat^ isn't a word in my vocabulary, Cap."
+msgstr ""
+
+msgctxt "Ingame/domination_hint#4"
+msgid "Okay, then I guess you'll just have to keep the enemy count low, now won't you?"
+msgstr ""
+
+msgctxt "Ingame/duel_in_mission_start#2"
+msgid "Here they come, Ash. Try to keep up."
+msgstr ""
+
+msgctxt "Ingame/duel_in_mission_start#3"
+msgid "How about you try to keep your mouth shut?"
+msgstr ""
+
+msgctxt "Ingame/duel_in_mission_start#4"
+msgid "Fine. I'll let my jet do the talking."
+msgstr ""
+
+msgctxt "Ingame/duel_in_mission_start#5"
+msgid "It's already talking. It's saying, ^Help me! I'm being piloted by an incompetent dandy with ridiculous hair!!!^"
+msgstr ""
+
+msgctxt "Ingame/duel_in_mission_start#6"
+msgid "Don't bring my hair into this!"
+msgstr ""
+
+msgctxt "Ingame/evasion_hint#2"
+msgid "Hey, Ash, my instruments show that you haven't been using your ship's evasive roll very much."
+msgstr ""
+
+msgctxt "Ingame/evasion_hint#3"
+msgid "You drilled that technique for a reason -- doing it right before you're about to get hit can save your life!"
+msgstr ""
+
+msgctxt "Ingame/evasion_hint#4"
+msgid "Hey, who's the pilot here, you or me?"
+msgstr ""
+
+msgctxt "Ingame/evasion_hint#5"
+msgid "Okay, okay, you know best. Just trying to help!"
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#2"
+msgid "Fall back, team! We're not even making a dent."
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#3"
+msgid "... Gin?"
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#4"
+msgid "What was that, Captain?"
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_end#5"
+msgid "What? Nothing. I just... need a drink."
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_start#2"
+msgid "Remember, team: guard the EMPRESS with your lives."
+msgstr ""
+
+msgctxt "Ingame/fire_and_flames_in_mission_start#3"
+msgid "If we can't stop them here, it may already be too late."
+msgstr ""
+
+msgctxt "Ingame/hacking_in_mission#2"
+msgid "Alright Ash, nothing fancy. Just keep your jet near each tower until I finish making a connection, then move on to the next one."
+msgstr ""
+
+msgctxt "Ingame/hacking_in_mission#3"
+msgid "I know how to hack a comms tower, Cap. I'm not an idiot."
+msgstr ""
+
+msgctxt "Ingame/hacking_in_mission#4"
+msgid "And I'm not made out of money, so try not to cause any of your usual collateral damage, okay?"
+msgstr ""
+
+msgctxt "Ingame/hacking_in_mission#5"
+msgid "Okay, mom."
+msgstr ""
+
+msgctxt "Ingame/pom_pom_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 01: ^FOOL.^"
+msgstr ""
+
+msgctxt "Ingame/pom_pom_in_mission#3"
+msgid "What? Cap, why is my jet talking to me?"
+msgstr ""
+
+msgctxt "Ingame/pom_pom_in_mission#4"
+msgid "Don't ask me! The guy who sold it to me did say it was haunted..."
+msgstr ""
+
+msgctxt "Ingame/pom_pom_in_mission#5"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr ""
+
+msgctxt "Ingame/pom_pom_in_mission#6"
+msgid "Yeah, no kidding."
+msgstr ""
+
+msgctxt "Ingame/rocket_hint#2"
+msgid "Hey, Ash, you remember that your ship is equipped with rockets, right?"
+msgstr ""
+
+msgctxt "Ingame/rocket_hint#3"
+msgid "Of course I do. What are you trying to imply?"
+msgstr ""
+
+msgctxt "Ingame/rocket_hint#4"
+msgid "Nothing! I just noticed you weren't using them very much, is all."
+msgstr ""
+
+msgctxt "Ingame/rocket_hint#5"
+msgid "If that's just your style, that's fine. Just remember: rockets can take out most basic enemies in a single hit. They're great for dealing with small groups!"
+msgstr ""
+
+msgctxt "Ingame/serpent_in_mission#2"
+msgid "ATTEMPTING SECURE HANDSHAKE WITH ASSET 17: ^TOWER.^"
+msgstr ""
+
+msgctxt "Ingame/serpent_in_mission#3"
+msgid "Not this again..."
+msgstr ""
+
+msgctxt "Ingame/serpent_in_mission#4"
+msgid "HANDSHAKE UNSUCCESSFUL. ASSET COMPROMISED. COMBAT MAY BE REQUIRED."
+msgstr ""
+
+msgctxt "Ingame/serpent_in_mission#5"
+msgid "I oughta have Lem take a look at you after this..."
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#2"
+msgid "Back for more, toots? I love it when my money comes to me."
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#3"
+msgid "Don't let him get a rise out of you, Ash. You've already beaten him, more than once."
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#4"
+msgid "I don't believe it, is that you, Ratskeller? I wondered where you ran off to! I thought you were dead!"
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#5"
+msgid "How's being a treacherous coward treating you? Good?"
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#6"
+msgid "You know this guy, Cap?"
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#7"
+msgid "..."
+msgstr ""
+
+msgctxt "Ingame/sharp_edge_in_mission#8"
+msgid "Weapons free, Ash. Take them down."
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_end#2"
+msgid "Retreat! Retreat! She's too many for us! This has nothing to do with my competence as a commander!"
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_end#3"
+msgid "Honestly, Peter. Why do they keep putting you in charge of things?"
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_end#4"
+msgid "My dad's rich! MY DAD'S RIIIIIIIIIIIICH!"
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_start#2"
+msgid "Pirate scum, turn back immediately, or face the wrath of my--"
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_start#3"
+msgid "Oh no, it's you."
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_start#4"
+msgid "Hi, Peter."
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_start#5"
+msgid "Ready for another beating?"
+msgstr ""
+
+msgctxt "Ingame/ship_hunter_in_mission_start#6"
+msgid "Y-yes! I mean... n-n-no. I mean... PREPARE TO DIE!"
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_1#2"
+msgid "Sensors show more pirates on the way, Ash. We're not done yet."
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_1#3"
+msgid "Good. My guns could use some more exercise."
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_2#2"
+msgid "Another wave incoming! Don't let your guard down!"
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_2#3"
+msgid "\"Guard\"? We all know the best defense is a good offense."
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_3#2"
+msgid "One more wave incoming. This looks like the big one!"
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_3#3"
+msgid "Aw, just one more?"
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_4#2"
+msgid "Was that really the last of them? Come on, I was just getting warmed up!"
+msgstr ""
+
+msgctxt "Ingame/showcase_in_mission_4#3"
+msgid "Careful what you wish for. Sensors are showing some kind of massive sea creature headed your way. Get ready!"
+msgstr ""
+
+msgctxt "Ingame/special_hint#2"
+msgid "Hey, Ash, I just ran the numbers, and it looks like you've hardly been using your ship's special weapon."
+msgstr ""
+
+msgctxt "Ingame/special_hint#3"
+msgid "We can head back to the workshop and replace it with a new one if you don't find that one useful..."
+msgstr ""
+
+msgctxt "Ingame/special_hint#4"
+msgid "No need for emergency repairs, Cap. I just... maybe forgot about it a little bit?"
+msgstr ""
+
+msgctxt "Ingame/special_hint#5"
+msgid "That's why you keep me around, kid! Now go get 'em!"
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#2"
+msgid "Pierce wasn't kidding about that weapon, Ash. It seems to be some kind of super-charged megatank."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#3"
+msgid "If it senses too much noise in this sector, it'll fire a beam that'll vaporize you instantly."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#4"
+msgid "Alright, alright, I'll be careful. Wait... I'm getting multiple incoming ships on the radar. It looks like..."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#5"
+msgid "Sky Pirates?!"
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#6"
+msgid "That's right, toots. We go wherever the money is. And right now, the government's money is on your head."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#7"
+msgid "Steve?!"
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#8"
+msgid "Looks like these guys are just the tip of the spear. We need to wipe them out before their reinforcements arrive."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#9"
+msgid "Copy that. Weapons online."
+msgstr ""
+
+msgctxt "Ingame/stealth_hack_in_mission_if_first#10"
+msgid "Careful, Ash. Remember the beam weapon. Firing too often will help it triangulate your position. Choose your targets wisely, and don't waste any shots!"
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#2"
+msgid "Pierce wasn't kidding about that weapon, Ash. It seems to be some kind of super-charged megatank."
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#3"
+msgid "If it senses too much noise in this sector, it'll fire a beam that'll vaporize you instantly."
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#4"
+msgid "Alright, alright, I'll be careful. Wait... I'm getting multiple incoming ships on the radar. It looks like..."
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#5"
+msgid "Sky Pirates?!"
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#6"
+msgid "That's right, toots. We go wherever the money is. And right now, the government's money is on your head."
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#7"
+msgid "Steve?"
+msgstr ""
+
+msgctxt "Ingame/stealth_in_mission_if_first#8"
+msgid "Careful, Ash. Remember the beam weapon. Firing too often will help it triangulate your position. Choose your targets wisely, and don't waste any shots!"
+msgstr ""
+
+msgctxt "Ingame/stealth_or_stealth_hack_in_mission_2#2"
+msgid "Don't do this, Ash. I don't want to hurt you."
+msgstr ""
+
+msgctxt "Ingame/stealth_or_stealth_hack_in_mission_2#3"
+msgid "That's my advantage. I [c=01]do[/c] want to hurt you."
+msgstr ""
+
+msgctxt "Ingame/sub_in_mission#2"
+msgid "Oh, come on. One jet? I was looking forward to seeing what this thing could do to a full squadron!"
+msgstr ""
+
+msgctxt "Ingame/sub_in_mission#3"
+msgid "How about I show you what [c=01]this thing[/c] can do to your hunk of junk."
+msgstr ""
+
+msgctxt "Ingame/sub_in_mission#4"
+msgid "ALERT: HOSTILE ASSET ^SWIFT REPLY^ ACQUIRED"
+msgstr ""
+
+msgctxt "Ingame/sub_in_mission#5"
+msgid "SYSTEM OVERRIDE: RETREAT IS PROHIBITED UNTIL TARGET IS ELIMINATED"
+msgstr ""
+
+msgctxt "Ingame/sub_in_mission#6"
+msgid "For once, robo-buddy, you're speaking my language."
+msgstr ""
+
+msgctxt "Ingame/survival_in_mission_end#2"
+msgid "Alright, I've made contact. Thankfully, my old codes still work."
+msgstr ""
+
+msgctxt "Ingame/survival_in_mission_end#3"
+msgid "They were... hesitant at first, but they have agreed to parley. Time to talk with them face to face."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#2"
+msgid "You are quite the pilot, Ashlyn Leguinn..."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#3"
+msgid "But you are also the precise reason I must do what I intend to do."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#4"
+msgid "As long as humanity controls its own destiny, there will always be rogue elements, like yourself..."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#5"
+msgid "Well-meaning agents of chaos, rebelling against the optimal arrangement."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#6"
+msgid "I will not attempt to convince you. There is only one method of persuasion available to me in this case..."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#7"
+msgid "Ash, look out! AEGIS is diverting all the power from the FINAL RETORT to its armor! It's going into overdrive!"
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#8"
+msgid "ALERT: HOSTILE ASSET --"
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#9"
+msgid "Hush."
+msgstr ""
+
+msgctxt "Ingame/true_final_boss_in_mission_start#10"
+msgid "I've got this."
+msgstr ""
+
+msgctxt "Ingame/tutorial_rocket#2"
+msgid "Looks like the pirates really want you dead. They have brought out a heavy armored ship!"
+msgstr ""
+
+msgctxt "Ingame/tutorial_rocket#3"
+msgid "You have guided rockets for situations like this. Use them."
+msgstr ""
+
+msgctxt "Ingame/tutorial_rocket_swarm#2"
+msgid "Enemy fighter squadron incoming!"
+msgstr ""
+
+msgctxt "Ingame/tutorial_rocket_swarm#3"
+msgid "You can charge up rocket swarm to avoid getting cornered."
+msgstr ""
+
+msgctxt "Ingame/tutorial_roll#2"
+msgid "Ash, remember that performing a dodge roll will make you invulnerable to any damage for a short period of time."
+msgstr ""
+
+msgctxt "Ingame/tutorial_roll#3"
+msgid "Try to time your dodge rolls to evade the incoming rockets."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#2"
+msgid "Wait, Cap was serious. It's just two jets. This is barely worth my time."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#3"
+msgid "Funny. We were about to say the same thing about you."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#4"
+msgid "Run along, little bounty hunter, unless you want us to take your ship apart for you."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#5"
+msgid "Oh, I see. It's not just two jets..."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#6"
+msgid "That's right. We're --"
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#7"
+msgid "It's two idiots [c=01]flying[/c] two jets."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#8"
+msgid "[t=010]... [t=100]Let's get her, Hex."
+msgstr ""
+
+msgctxt "Ingame/twin_jets_in_mission#9"
+msgid "Roger that, Lex."
+msgstr ""

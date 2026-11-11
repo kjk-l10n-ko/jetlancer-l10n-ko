@@ -1,0 +1,7 @@
+slug = "jetlancer"
+steam_appid = 913060
+adapter = "jetlancer"
+track = "a"
+pipeline_repo = "/mnt/h/02_Workspace/40_WSL/kjk-l10n-ko/tools-l10n-ko"
+pipeline_ref = "0538edbb7b27f320160adb59c816a02b17f5a924"
+font = "noto-sans-kr-regular"

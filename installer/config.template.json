@@ -1,0 +1,361 @@
+{
+ "game_name": "Jet Lancer",
+ "exe_name": "JetLancer",
+ "game_version": "v1.1.10",
+ "patch_date": "2026-10-22",
+ "game_exe": "Jet Lancer.exe",
+ "steam_dirs": [
+  "JetLancer",
+  "Jet Lancer"
+ ],
+ "backup_dir": "kor_bak",
+ "files": [
+  {
+   "path": "Jet Lancer.exe",
+   "mode": "zstd_delta",
+   "gate": true
+  },
+  {
+   "path": "data.win",
+   "mode": "zstd_delta",
+   "gate": true
+  },
+  {
+   "path": "airshow_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/airshow_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/airshow_post_mission_dialogue.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/airshow_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/armada_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/arrowhead_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/black_knight_post_mission_if_hacked.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/black_knight_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/black_knight_pre_mission_newgameplus.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/core_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/crab_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/duel_lose.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/duel_win.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/equal_force_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/final_boss_in_mission_end.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/final_boss_in_mission_end_newgameplus.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/final_boss_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/final_boss_in_mission_start_newgameplus.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/final_boss_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/hacking_and_reinforcements_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/hangar_intro.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/hoverdrive_overworld.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/meet_engineer.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/opening_cinematic.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/opening_cinematic_alt.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/race_the_nuke_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/serpent.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/space_elevator_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/stealth_or_stealth_hack_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/story_tease.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/sub_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/survival_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/survival_pre_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/swarm_hunt_domination_and_babysitter_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/thr_kn_drive.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/thr_kn_drive_nodrive.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/true_final_boss_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/twin_jets_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_0.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_1.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_2.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_3.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_4.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_5.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_6.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/ginstory/gin_story_post_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/armada_in_mission_end.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/armada_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/babysitter_in_mission_fail.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/babysitter_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/babysitter_in_mission_victory.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/babysitter_in_mission_wave_1.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/black_knight_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/bombers_hint.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/core_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/crab_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/domination_hint.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/duel_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/evasion_hint.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/fire_and_flames_in_mission_end.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/fire_and_flames_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/hacking_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/pom_pom_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/rocket_hint.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/serpent_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/sharp_edge_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/ship_hunter_in_mission_end.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/ship_hunter_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/showcase_in_mission_1.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/showcase_in_mission_2.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/showcase_in_mission_3.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/showcase_in_mission_4.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/special_hint.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/stealth_hack_in_mission_if_first.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/stealth_in_mission_if_first.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/stealth_or_stealth_hack_in_mission_2.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/sub_in_mission.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/survival_in_mission_end.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/true_final_boss_in_mission_start.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/tutorial_rocket.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/tutorial_rocket_swarm.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/tutorial_roll.csv",
+   "mode": "zstd_delta"
+  },
+  {
+   "path": "Dialogue/Ingame/twin_jets_in_mission.csv",
+   "mode": "zstd_delta"
+  }
+ ],
+ "header": "=============================================================================================\n Jet Lancer 한글 패치 (v1.1.10) (2026-10-22)\n=============================================================================================\n\n 검수 : 김작가\n 작업/번역 : Claude Sonnet 5.5/Deepseek v4 flash\n 사용 폰트 : Noto Sans KR Regular (Adobe/Google Fonts)\n\n * 본 패치는 팬 번역이며 판매·유료 재배포를 금지합니다.\n * 게임의 저작권은 개발사 및 배급사 등 원 권리자에게 있으며, 본 패치는 공식과 무관합니다.\n * 오류, 오타는 kimjakka96@gmail.com로 제보해주시면 수정 배포하도록 하겠습니다.\n\n=============================================================================================\n\n [패치 내용]\n 1. 게임 UI 문장 번역 (Jet Lancer.exe)\n 2. 한글 폰트 적용 (data.win)\n 3. 스토리·인게임 대사 번역 (Dialogue 폴더 CSV 84개)\n\n * 일본어 언어 칸을 한국어로 대체합니다.\n * 원본 파일은 게임 폴더의 kor_bak 폴더에 백업됩니다.\n\n * 설치 후 게임 실행 > SETTINGS > GAME > LANGUAGE 에서 '한국어'를 선택하세요.\n\n============================================================================================="
+}

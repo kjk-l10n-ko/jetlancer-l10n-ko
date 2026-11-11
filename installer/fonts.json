@@ -1,0 +1,11 @@
+[
+  {
+    "id": "구글/Noto Sans KR",
+    "name": "Noto Sans KR Regular",
+    "author": "Adobe / Google Fonts",
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+KR",
+    "license_file": "assets/fonts/OFL.txt",
+    "note": "영문·숫자는 게임 원본 글리프를 그대로 사용합니다.",
+    "family": "Noto Sans KR"
+  }
+]
