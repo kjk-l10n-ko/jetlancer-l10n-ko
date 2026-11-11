@@ -22,11 +22,14 @@
 
 ## 사용 폰트
 
-* [Noto Sans KR Regular](https://fonts.google.com/noto/specimen/Noto+Sans+KR) - Adobe / Google Fonts — 라이선스: [`assets/fonts/OFL.txt`](assets/fonts/OFL.txt)
-  * 영문·숫자는 게임 원본 글리프를 그대로 사용함.
+| 폰트 | 제작자 | 라이선스 |
+|---|---|---|
+| [Noto Sans KR Regular](https://fonts.google.com/noto/specimen/Noto+Sans+KR) | Adobe / Google Fonts | [OFL 1.1](assets/fonts/OFL.txt) |
+
+* Noto Sans KR Regular: 영문·숫자는 게임 원본 글리프를 그대로 사용함.
 
 ## 라이선스
 
 * 본 패치는 팬 번역이며 판매·유료 재배포를 금지함.
 * 게임의 저작권은 개발사 및 배급사 등 원 권리자에게 있으며, 본 패치는 공식과 무관함.
-* 폰트는 위 링크의 각 라이선스를 따름.
+* 폰트는 위 표의 각 라이선스를 따름.
